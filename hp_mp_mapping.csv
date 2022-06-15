@@ -1,0 +1,2027 @@
+hpName,mpName,hpId,mpId
+Abnormal adipose tissue morphology (HPO),abnormal adipose tissue morphology (MPO),HP:0009124,MP:0000003
+Microtia (HPO),small ears (MPO),HP:0008551,MP:0000018
+Protruding ear (HPO),prominent ears (MPO),HP:0000411,MP:0000021
+Abnormal cochlea morphology (HPO),abnormal cochlea morphology (MPO),HP:0000375,MP:0000031
+Aplasia of the middle ear ossicles (HPO),absent middle ear ossicles (MPO),HP:0009910,MP:0000040
+Increased susceptibility to fractures (HPO),fragile skeleton (MPO),HP:0002659,MP:0000061
+Reduced bone mineral density (HPO),decreased bone mineral density (MPO),HP:0004349,MP:0000063
+Osteopetrosis (HPO),osteopetrosis (MPO),HP:0011002,MP:0000067
+Craniosynostosis (HPO),premature cranial suture closure (MPO),HP:0001363,MP:0000081
+Wide anterior fontanel (HPO),large anterior fontanelle (MPO),HP:0000260,MP:0000085
+Mandibular aplasia (HPO),absent mandible (MPO),HP:0009939,MP:0000087
+Midline facial cleft (HPO),midline facial cleft (MPO),HP:0100629,MP:0000108
+Cleft palate (HPO),cleft palate (MPO),HP:0000175,MP:0000111
+Chin with vertical crease (HPO),cleft chin (MPO),HP:0400001,MP:0000114
+Advanced eruption of teeth (HPO),premature tooth eruption (MPO),HP:0006288,MP:0000122
+Abnormal trabecular bone morphology (HPO),abnormal trabecular bone morphology (MPO),HP:0100671,MP:0000130
+Missing ribs (HPO),absent ribs (MPO),HP:0000921,MP:0000151
+Hyperlordosis (HPO),lordosis (MPO),HP:0003307,MP:0000162
+Abnormal cartilage morphology (HPO),abnormal cartilage morphology (MPO),HP:0002763,MP:0000163
+Reduced hematocrit (HPO),decreased hematocrit (MPO),HP:0031851,MP:0000208
+Leukocytosis (HPO),increased leukocyte cell number (MPO),HP:0001974,MP:0000218
+Neutrophilia (HPO),increased neutrophil cell number (MPO),HP:0011897,MP:0000219
+Leukopenia (HPO),decreased leukocyte cell number (MPO),HP:0001882,MP:0000221
+Abnormal mean corpuscular volume (HPO),abnormal mean corpuscular volume (MPO),HP:0025065,MP:0000226
+Hypertension (HPO),hypertension (MPO),HP:0000822,MP:0000231
+Extramedullary hematopoiesis (HPO),extramedullary hematopoiesis (MPO),HP:0001978,MP:0000240
+Myoclonus (HPO),myoclonus (MPO),HP:0001336,MP:0000243
+Abnormal heart morphology (HPO),abnormal heart morphology (MPO),HP:0001627,MP:0000266
+Abnormal aortic morphology (HPO),abnormal aorta morphology (MPO),HP:0001679,MP:0000272
+Right ventricular hypertrophy (HPO),heart right ventricle hypertrophy (MPO),HP:0001667,MP:0000276
+Double outlet right ventricle (HPO),double outlet right ventricle (MPO),HP:0001719,MP:0000284
+Abnormal mitral valve morphology (HPO),abnormal mitral valve morphology (MPO),HP:0001633,MP:0000286
+Schistocytosis (HPO),schistocytosis (MPO),HP:0001981,MP:0000314
+Granulocytosis (HPO),increased granulocyte number (MPO),HP:0032310,MP:0000322
+Hemosiderinuria (HPO),hemosiderinuria (MPO),HP:0012543,MP:0000327
+Granulocytopenia (HPO),decreased granulocyte number (MPO),HP:0001913,MP:0000334
+Agranulocytosis (HPO),decreased granulocyte number (MPO),HP:0012234,MP:0000334
+Abnormal cell proliferation (HPO),abnormal cell proliferation (MPO),HP:0031377,MP:0000350
+Folliculitis (HPO),folliculitis (MPO),HP:0025084,MP:0000376
+Curly hair (HPO),waved hair (MPO),HP:0002212,MP:0000410
+Alopecia (HPO),alopecia (MPO),HP:0001596,MP:0000414
+Loss of eyelashes (HPO),loss of eyelid cilia (MPO),HP:0011457,MP:0000425
+Microcephaly (HPO),microcephaly (MPO),HP:0000252,MP:0000433
+Macrocephaly (HPO),megacephaly (MPO),HP:0000256,MP:0000434
+Abnormal head movements (HPO),abnormal head movements (MPO),HP:0002457,MP:0000436
+Abnormal jaw morphology (HPO),abnormal jaw morphology (MPO),HP:0030791,MP:0000454
+Micrognathia (HPO),mandible hypoplasia (MPO),HP:0000347,MP:0000460
+Abnormal esophagus morphology (HPO),abnormal esophagus morphology (MPO),HP:0002031,MP:0000467
+Abnormal intestine morphology (HPO),abnormal intestine morphology (MPO),HP:0002242,MP:0000477
+Right isomerism (HPO),right-sided isomerism (MPO),HP:0031855,MP:0000508
+Hydronephrosis (HPO),hydronephrosis (MPO),HP:0000126,MP:0000519
+Bilateral renal agenesis (HPO),absent kidney (MPO),HP:0010958,MP:0000520
+Renal cortical cysts (HPO),kidney cortex cysts (MPO),HP:0000803,MP:0000522
+Renal tubular acidosis (HPO),renal tubular acidosis (MPO),HP:0001947,MP:0000525
+Hydroureter (HPO),hydroureter (MPO),HP:0000072,MP:0000536
+Megacystis (HPO),distended urinary bladder (MPO),HP:0000021,MP:0000539
+Left Isomerism (HPO),left-sided isomerism (MPO),HP:0031854,MP:0000542
+Limb undergrowth (HPO),short limbs (MPO),HP:0009826,MP:0000547
+Carpal bone aplasia (HPO),absent carpal bone (MPO),HP:0004231,MP:0000555
+Adactyly (HPO),adactyly (MPO),HP:0009776,MP:0000561
+Syndactyly (HPO),syndactyly (MPO),HP:0001159,MP:0000564
+Talipes equinovarus (HPO),clubfoot (MPO),HP:0001762,MP:0000576
+Nail dysplasia (HPO),abnormal nail morphology (MPO),HP:0002164,MP:0000579
+Nail dystrophy (HPO),abnormal nail morphology (MPO),HP:0008404,MP:0000579
+Elevated hepatic transaminase (HPO),abnormal liver physiology (MPO),HP:0002910,MP:0000609
+Abnormal liver physiology (HPO),abnormal liver physiology (MPO),HP:0031865,MP:0000609
+Cholestasis (HPO),cholestasis (MPO),HP:0001396,MP:0000610
+Jaundice (HPO),jaundice (MPO),HP:0000952,MP:0000611
+Abnormal salivary gland morphology (HPO),abnormal salivary gland morphology (MPO),HP:0010286,MP:0000613
+Drooling (HPO),increased salivation (MPO),HP:0002307,MP:0000622
+Excessive salivation (HPO),increased salivation (MPO),HP:0003781,MP:0000622
+Xerostomia (HPO),decreased salivation (MPO),HP:0000217,MP:0000623
+Breast aplasia (HPO),absent mammary gland (MPO),HP:0100783,MP:0000629
+Adrenal gland dysgenesis (HPO),abnormal adrenal gland morphology (MPO),HP:0008216,MP:0000639
+Dextrocardia (HPO),dextrocardia (MPO),HP:0001651,MP:0000644
+Abnormal sebaceous gland morphology (HPO),abnormal sebaceous gland morphology (MPO),HP:0032226,MP:0000647
+Absent sebaceous glands (HPO),absent sebaceous gland (MPO),HP:0410400,MP:0000648
+Mesocardia (HPO),mesocardia (MPO),HP:0011599,MP:0000650
+Abnormal sweat gland morphology (HPO),abnormal sweat gland morphology (MPO),HP:0000971,MP:0000674
+Thyroid dysgenesis (HPO),abnormal thyroid gland morphology (MPO),HP:0008188,MP:0000681
+Abnormal spleen morphology (HPO),abnormal spleen morphology (MPO),HP:0025408,MP:0000689
+Lymphadenopathy (HPO),enlarged lymph nodes (MPO),HP:0002716,MP:0000702
+Hypoplasia of the thymus (HPO),small thymus (MPO),HP:0000778,MP:0000706
+Hyperkinetic movements (HPO),muscle spasm (MPO),HP:0002487,MP:0000743
+Muscle spasm (HPO),muscle spasm (MPO),HP:0003394,MP:0000743
+Tremor (HPO),tremors (MPO),HP:0001337,MP:0000745
+Skeletal muscle atrophy (HPO),muscle degeneration (MPO),HP:0003202,MP:0000749
+Paralysis (HPO),paralysis (MPO),HP:0003470,MP:0000753
+Gastroschisis (HPO),herniated abdominal wall (MPO),HP:0001543,MP:0000757
+Abnormal skeletal muscle morphology (HPO),abnormal skeletal muscle morphology (MPO),HP:0011805,MP:0000759
+Abnormal tongue morphology (HPO),abnormal tongue morphology (MPO),HP:0030809,MP:0000762
+Abnormal corpus callosum morphology (HPO),abnormal corpus callosum morphology (MPO),HP:0001273,MP:0000780
+Dysgenesis of the hippocampus (HPO),abnormal hippocampus development (MPO),HP:0025101,MP:0000808
+Abnormal cerebellum morphology (HPO),abnormal cerebellum morphology (MPO),HP:0001317,MP:0000849
+Cerebellar dysplasia (HPO),abnormal cerebellum morphology (MPO),HP:0007033,MP:0000849
+Cerebellar hypoplasia (HPO),small cerebellum (MPO),HP:0001321,MP:0000852
+Exencephaly (HPO),exencephaly (MPO),HP:0030769,MP:0000914
+Abnormal myelination (HPO),abnormal myelination (MPO),HP:0012447,MP:0000920
+Peripheral demyelination (HPO),demyelination (MPO),HP:0011096,MP:0000921
+Motor neuron atrophy (HPO),motor neuron degeneration (MPO),HP:0007373,MP:0000938
+Abnormal cranial nerve morphology (HPO),abnormal cranial nerve morphology (MPO),HP:0001291,MP:0001056
+Hypogonadism (HPO),small gonad (MPO),HP:0000135,MP:0001116
+Abnormal uterus morphology (HPO),abnormal uterus morphology (MPO),HP:0031105,MP:0001120
+Abnormal vagina morphology (HPO),abnormal vagina morphology (MPO),HP:0000142,MP:0001139
+Abnormal testis morphology (HPO),abnormal testis morphology (MPO),HP:0000035,MP:0001146
+Macroorchidism (HPO),enlarged testis (MPO),HP:0000053,MP:0001148
+Abnormal spermatogenesis (HPO),abnormal spermatogenesis (MPO),HP:0008669,MP:0001156
+Abnormal prostate morphology (HPO),abnormal prostate gland morphology (MPO),HP:0008775,MP:0001158
+Abnormal lung morphology (HPO),abnormal lung morphology (MPO),HP:0002088,MP:0001175
+Atelectasis (HPO),atelectasis (MPO),HP:0100750,MP:0001177
+Bilateral lung agenesis (HPO),absent lungs (MPO),HP:0005944,MP:0001181
+Pulmonary hemorrhage (HPO),lung hemorrhage (MPO),HP:0040223,MP:0001182
+Erythema (HPO),reddish skin (MPO),HP:0010783,MP:0001190
+Scaling skin (HPO),scaly skin (MPO),HP:0040189,MP:0001192
+Thin skin (HPO),thin skin (MPO),HP:0000963,MP:0001199
+Thickened skin (HPO),thick skin (MPO),HP:0001072,MP:0001200
+Dermal translucency (HPO),translucent skin (MPO),HP:0010648,MP:0001201
+Cutaneous photosensitivity (HPO),skin photosensitivity (MPO),HP:0000992,MP:0001202
+Skin vesicle (HPO),blistering (MPO),HP:0200037,MP:0001208
+Hyperkeratosis (HPO),hyperkeratosis (MPO),HP:0000962,MP:0001242
+Barrel-shaped chest (HPO),barrel chest (MPO),HP:0001552,MP:0001268
+Anophthalmia (HPO),anophthalmia (MPO),HP:0000528,MP:0001293
+Microphthalmia (HPO),microphthalmia (MPO),HP:0000568,MP:0001297
+Microphakia (HPO),small lens (MPO),HP:0012376,MP:0001306
+Corneal opacity (HPO),corneal opacity (MPO),HP:0007957,MP:0001314
+Retinal dysplasia (HPO),abnormal retina morphology (MPO),HP:0007973,MP:0001325
+Retinal degeneration (HPO),retinal degeneration (MPO),HP:0000546,MP:0001326
+Optic nerve dysplasia (HPO),abnormal optic nerve morphology (MPO),HP:0001093,MP:0001330
+Keratoconjunctivitis sicca (HPO),dry eyes (MPO),HP:0001097,MP:0001337
+Abnormal eyelid morphology (HPO),abnormal eyelid morphology (MPO),HP:0000492,MP:0001340
+Ablepharon (HPO),absent eyelids (MPO),HP:0011224,MP:0001341
+Ptosis (HPO),blepharoptosis (MPO),HP:0000508,MP:0001344
+Lacrimal gland aplasia (HPO),absent lacrimal glands (MPO),HP:0007656,MP:0001347
+Epiphora (HPO),excessive tearing (MPO),HP:0009926,MP:0001349
+Abnormal ejaculation (HPO),abnormal ejaculation (MPO),HP:0012875,MP:0001378
+Abnormality of eye movement (HPO),abnormal eye movement (MPO),HP:0000496,MP:0001389
+Ataxia (HPO),ataxia (MPO),HP:0001251,MP:0001393
+Hyperactivity (HPO),hyperactivity (MPO),HP:0000752,MP:0001399
+Gait disturbance (HPO),abnormal gait (MPO),HP:0001288,MP:0001406
+Stereotypy (HPO),stereotypic behavior (MPO),HP:0000733,MP:0001408
+Abnormal drinking behavior (HPO),abnormal drinking behavior (MPO),HP:0030082,MP:0001422
+Polydipsia (HPO),polydipsia (MPO),HP:0001959,MP:0001426
+Dehydration (HPO),dehydration (MPO),HP:0001944,MP:0001429
+Abnormal eating behavior (HPO),abnormal eating behavior (MPO),HP:0100738,MP:0001431
+Impaired proprioception (HPO),abnormal motor coordination/balance (MPO),HP:0010831,MP:0001516
+Athetosis (HPO),athetotic walking movements (MPO),HP:0002305,MP:0001527
+Increased circulating free fatty acid level (HPO),increased circulating free fatty acid level (MPO),HP:0030781,MP:0001554
+Abnormal insulin level (HPO),abnormal circulating insulin level (MPO),HP:0040214,MP:0001560
+Abnormal circulating insulin level (HPO),abnormal circulating insulin level (MPO),HP:0040215,MP:0001560
+Cyanosis (HPO),cyanosis (MPO),HP:0000961,MP:0001575
+Anemia (HPO),anemia (MPO),HP:0001903,MP:0001577
+Hemolytic anemia (HPO),hemolytic anemia (MPO),HP:0001878,MP:0001585
+Abnormal red blood cell count (HPO),abnormal erythrocyte cell number (MPO),HP:0020058,MP:0001586
+Abnormal hemoglobin (HPO),abnormal hemoglobin (MPO),HP:0011902,MP:0001588
+Abnormal mean corpuscular hemoglobin concentration (HPO),abnormal mean corpuscular hemoglobin (MPO),HP:0025546,MP:0001589
+Hypotension (HPO),hypotension (MPO),HP:0002615,MP:0001596
+Arrhythmia (HPO),abnormal heart rate (MPO),HP:0011675,MP:0001629
+Arrhythmia (HPO),irregular heartbeat (MPO),HP:0011675,MP:0001636
+Hepatic necrosis (HPO),hepatic necrosis (MPO),HP:0002605,MP:0001654
+Chronic diarrhea (HPO),chronic diarrhea (MPO),HP:0002028,MP:0001665
+Postnatal growth retardation (HPO),postnatal growth retardation (MPO),HP:0008897,MP:0001732
+Elevated circulating follicle stimulating hormone level (HPO),increased circulating follicle stimulating hormone level (MPO),HP:0008232,MP:0001750
+Abnormal homeostasis (HPO),abnormal homeostasis (MPO),HP:0012337,MP:0001764
+Abnormality of the thymus (HPO),thymus hypoplasia (MPO),HP:0000777,MP:0001823
+Abnormal T cell activation (HPO),abnormal T cell activation (MPO),HP:0410035,MP:0001828
+Abnormal inflammatory response (HPO),abnormal inflammatory response (MPO),HP:0012647,MP:0001845
+Encephalitis (HPO),brain inflammation (MPO),HP:0002383,MP:0001847
+Posterior uveitis (HPO),choroid inflammation (MPO),HP:0012123,MP:0001848
+Conjunctivitis (HPO),conjunctivitis (MPO),HP:0000509,MP:0001852
+Myocarditis (HPO),myocarditis (MPO),HP:0012819,MP:0001856
+Pericarditis (HPO),pericarditis (MPO),HP:0001701,MP:0001857
+Nephritis (HPO),kidney inflammation (MPO),HP:0000123,MP:0001859
+Hepatitis (HPO),liver inflammation (MPO),HP:0012115,MP:0001860
+Pneumonia (HPO),lung inflammation (MPO),HP:0002090,MP:0001861
+Interstitial pneumonitis (HPO),interstitial pneumonia (MPO),HP:0006515,MP:0001862
+Rhinitis (HPO),nasal inflammation (MPO),HP:0012384,MP:0001866
+Rhinitis (HPO),rhinitis (MPO),HP:0012384,MP:0001867
+Oophoritis (HPO),ovary inflammation (MPO),HP:0031259,MP:0001868
+Pancreatitis (HPO),pancreas inflammation (MPO),HP:0001733,MP:0001869
+Sialadenitis (HPO),salivary gland inflammation (MPO),HP:0031281,MP:0001870
+Sinusitis (HPO),sinus inflammation (MPO),HP:0000246,MP:0001872
+Gastritis (HPO),stomach inflammation (MPO),HP:0005263,MP:0001873
+Epidermal acanthosis (HPO),acanthosis (MPO),HP:0025092,MP:0001874
+Orchitis (HPO),testis inflammation (MPO),HP:0100796,MP:0001875
+Abnormal breast physiology (HPO),abnormal mammary gland physiology (MPO),HP:0031094,MP:0001881
+Anencephaly (HPO),anencephaly (MPO),HP:0002323,MP:0001890
+Hydrocephalus (HPO),hydrocephaly (MPO),HP:0000238,MP:0001891
+Communicating hydrocephalus (HPO),non-obstructive hydrocephaly (MPO),HP:0001334,MP:0001893
+Cerebral hemorrhage (HPO),intracerebral hemorrhage (MPO),HP:0001342,MP:0001916
+Intraventricular hemorrhage (HPO),intraventricular hemorrhage (MPO),HP:0030746,MP:0001917
+Decreased testicular size (HPO),testis hypoplasia (MPO),HP:0008734,MP:0001940
+Functional respiratory abnormality (HPO),abnormal respiration (MPO),HP:0002795,MP:0001943
+Pancreatic dysplasia (HPO),abnormal pancreas morphology (MPO),HP:0005232,MP:0001944
+Abnormal mucociliary clearance (HPO),abnormal mucociliary clearance (MPO),HP:0031602,MP:0001947
+Vesicoureteral reflux (HPO),vesicoureteral reflux (MPO),HP:0000076,MP:0001948
+Respiratory failure (HPO),respiratory failure (MPO),HP:0002878,MP:0001953
+Dyspnea (HPO),respiratory distress (MPO),HP:0002094,MP:0001954
+Respiratory distress (HPO),respiratory distress (MPO),HP:0002098,MP:0001954
+Hypopnea (HPO),hypopnea (MPO),HP:0040213,MP:0001956
+Abnormal reflex (HPO),abnormal reflex (MPO),HP:0031826,MP:0001961
+Cutaneous photosensitivity (HPO),photosensitivity (MPO),HP:0000992,MP:0001999
+Neoplasm (HPO),neoplasm (MPO),HP:0002664,MP:0002006
+Pilomatrixoma (HPO),increased pilomatricoma incidence (MPO),HP:0030434,MP:0002013
+Leiomyosarcoma (HPO),increased leiomyosarcoma incidence (MPO),HP:0100243,MP:0002035
+Rhabdomyosarcoma (HPO),increased rhabdomyosarcoma incidence (MPO),HP:0002859,MP:0002036
+Seizures (HPO),seizures (MPO),HP:0001250,MP:0002064
+Abnormal fear/anxiety-related behavior (HPO),abnormal fear/anxiety-related behavior (MPO),HP:0100852,MP:0002065
+Abnormal consumption behavior (HPO),abnormal consumption behavior (MPO),HP:0040202,MP:0002069
+Abnormal glucose homeostasis (HPO),abnormal glucose homeostasis (MPO),HP:0011014,MP:0002078
+Abnormality of skin pigmentation (HPO),abnormal skin pigmentation (MPO),HP:0001000,MP:0002095
+Abnormal ear morphology (HPO),abnormal ear morphology (MPO),HP:0031703,MP:0002102
+Abnormal skeletal muscle morphology (HPO),abnormal muscle morphology (MPO),HP:0011805,MP:0002108
+Abnormal digit morphology (HPO),abnormal digit morphology (MPO),HP:0011297,MP:0002110
+Renal dysplasia (HPO),abnormal kidney morphology (MPO),HP:0000110,MP:0002135
+Abnormal renal morphology (HPO),abnormal kidney morphology (MPO),HP:0012210,MP:0002135
+Gliosis (HPO),gliosis (MPO),HP:0002171,MP:0002183
+Hypoplastic heart (HPO),small heart (MPO),HP:0001961,MP:0002188
+Abnormal sex determination (HPO),abnormal sex determination (MPO),HP:0012244,MP:0002210
+True hermaphroditism (HPO),true hermaphroditism (MPO),HP:0010459,MP:0002213
+Neurodegeneration (HPO),neurodegeneration (MPO),HP:0002180,MP:0002229
+Abnormal larynx morphology (HPO),abnormal larynx morphology (MPO),HP:0025423,MP:0002249
+Abnormal bronchus morphology (HPO),abnormal bronchus morphology (MPO),HP:0025426,MP:0002264
+Skeletal muscle atrophy (HPO),muscular atrophy (MPO),HP:0003202,MP:0002269
+Abnormal nervous system electrophysiology (HPO),abnormal nervous system electrophysiology (MPO),HP:0001311,MP:0002272
+Abnormal trachea morphology (HPO),abnormal trachea morphology (MPO),HP:0002778,MP:0002282
+Cryptorchidism (HPO),cryptorchism (MPO),HP:0000028,MP:0002286
+Abnormality of pulmonary circulation (HPO),abnormal pulmonary circulation (MPO),HP:0030875,MP:0002295
+Aspiration (HPO),aspiration (MPO),HP:0002835,MP:0002296
+Hypercapnia (HPO),hypercapnia (MPO),HP:0012416,MP:0002318
+Abnormal blood gas level (HPO),abnormal blood gas level (MPO),HP:0012415,MP:0002329
+Abnormal proerythroblast morphology (HPO),abnormal proerythroblast morphology (MPO),HP:0025035,MP:0002416
+Abnormal megakaryocyte morphology (HPO),abnormal megakaryocyte morphology (MPO),HP:0012143,MP:0002417
+Abnormal basophil morphology (HPO),abnormal basophil morphology (MPO),HP:0001912,MP:0002422
+Abnormal reticulocyte morphology (HPO),abnormal reticulocyte morphology (MPO),HP:0004312,MP:0002424
+Abnormal granulocyte morphology (HPO),abnormal granulocyte morphology (MPO),HP:0001911,MP:0002441
+Abnormal erythrocyte morphology (HPO),abnormal erythrocyte morphology (MPO),HP:0001877,MP:0002447
+Anaphylactic shock (HPO),abnormal type I hypersensitivity reaction (MPO),HP:0100845,MP:0002531
+Short phalanx of finger (HPO),brachyphalangia (MPO),HP:0009803,MP:0002543
+Brachydactyly (HPO),brachydactyly (MPO),HP:0001156,MP:0002544
+Mydriasis (HPO),mydriasis (MPO),HP:0011499,MP:0002546
+Abnormal social behavior (HPO),abnormal social/conspecific interaction (MPO),HP:0012433,MP:0002557
+Abnormal emotion/affect behavior (HPO),abnormal emotion/affect behavior (MPO),HP:0100851,MP:0002572
+Hyperketonemia (HPO),increased circulating ketone body level (MPO),HP:0410175,MP:0002575
+Increased mean corpuscular volume (HPO),increased mean corpuscular volume (MPO),HP:0005518,MP:0002590
+Decreased mean corpuscular volume (HPO),decreased mean corpuscular volume (MPO),HP:0025066,MP:0002591
+Abnormal hematocrit (HPO),abnormal hematocrit (MPO),HP:0031850,MP:0002596
+Abnormal eosinophil count (HPO),abnormal eosinophil cell number (MPO),HP:0020064,MP:0002602
+Increased hematocrit (HPO),increased hematocrit (MPO),HP:0001899,MP:0002608
+Abnormal lymphocyte morphology (HPO),abnormal lymphocyte morphology (MPO),HP:0004332,MP:0002619
+Abnormal tricuspid valve morphology (HPO),abnormal tricuspid valve morphology (MPO),HP:0001702,MP:0002624
+Dysplastic tricuspid valve (HPO),abnormal tricuspid valve morphology (MPO),HP:0030732,MP:0002624
+Left ventricular hypertrophy (HPO),heart left ventricle hypertrophy (MPO),HP:0001712,MP:0002625
+Tachycardia (HPO),increased heart rate (MPO),HP:0001649,MP:0002626
+Hepatic steatosis (HPO),hepatic steatosis (MPO),HP:0001397,MP:0002628
+Truncus arteriosus (HPO),persistent truncus arteriosis (MPO),HP:0001660,MP:0002633
+Hypoplasia of the uterus (HPO),small uterus (MPO),HP:0000013,MP:0002637
+Micrognathia (HPO),micrognathia (MPO),HP:0000347,MP:0002639
+Anisocytosis (HPO),anisocytosis (MPO),HP:0011273,MP:0002642
+Absent scrotum (HPO),absent scrotum (MPO),HP:0008707,MP:0002670
+Abnormal sperm motility (HPO),abnormal sperm motility (MPO),HP:0012206,MP:0002674
+Reduced sperm motility (HPO),asthenozoospermia (MPO),HP:0012207,MP:0002675
+Globozoospermia (HPO),globozoospermia (MPO),HP:0012205,MP:0002686
+Oligospermia (HPO),oligozoospermia (MPO),HP:0000798,MP:0002687
+Akinesia (HPO),akinesia (MPO),HP:0002304,MP:0002690
+Abnormal glucagon level (HPO),abnormal circulating glucagon level (MPO),HP:0030687,MP:0002695
+Decreased circulating free fatty acid level (HPO),decreased circulating free fatty acid level (MPO),HP:0040299,MP:0002702
+Nephrolithiasis (HPO),nephrolithiasis (MPO),HP:0000787,MP:0002708
+Absent tibia (HPO),absent tibia (MPO),HP:0009556,MP:0002728
+Aganglionic megacolon (HPO),megacolon (MPO),HP:0002251,MP:0002731
+Trichoepithelioma (HPO),increased trichoepithelioma incidence (MPO),HP:0025367,MP:0002732
+Glomerulonephritis (HPO),glomerulonephritis (MPO),HP:0000099,MP:0002743
+Abnormal aortic valve morphology (HPO),abnormal aortic valve morphology (MPO),HP:0001646,MP:0002747
+Abnormal pulmonary valve morphology (HPO),abnormal pulmonary valve morphology (MPO),HP:0001641,MP:0002748
+Dysplastic pulmonary valve (HPO),abnormal pulmonary valve morphology (MPO),HP:0005164,MP:0002748
+Proptosis (HPO),exophthalmos (MPO),HP:0000520,MP:0002750
+Right ventricular dilatation (HPO),dilated heart right ventricle (MPO),HP:0005133,MP:0002754
+Short tibia (HPO),short tibia (MPO),HP:0005736,MP:0002764
+Fibular hypoplasia (HPO),short fibula (MPO),HP:0003038,MP:0002765
+Abdominal situs inversus (HPO),situs inversus (MPO),HP:0003363,MP:0002766
+Adrenal hypoplasia (HPO),small adrenal glands (MPO),HP:0000835,MP:0002768
+Abnormal vas deferens morphology (HPO),abnormal vas deferens morphology (MPO),HP:0012872,MP:0002769
+Decreased circulating follicle stimulating hormone level (HPO),decreased circulating follicle stimulating hormone level (MPO),HP:0030341,MP:0002790
+Steatorrhea (HPO),steatorrhea (MPO),HP:0002570,MP:0002791
+Lenticonus (HPO),lenticonus (MPO),HP:0001142,MP:0002794
+Dilated cardiomyopathy (HPO),dilated cardiomyopathy (MPO),HP:0001644,MP:0002795
+Microcytic anemia (HPO),microcytic anemia (MPO),HP:0001935,MP:0002810
+Macrocytic anemia (HPO),macrocytic anemia (MPO),HP:0001972,MP:0002811
+Decreased mean corpuscular volume (HPO),microcytosis (MPO),HP:0025066,MP:0002813
+Colitis (HPO),colitis (MPO),HP:0002583,MP:0002816
+Abnormal renal corpuscle morphology (HPO),abnormal renal corpuscle morphology (MPO),HP:0031263,MP:0002827
+Abnormal morphology of Bowman capsule (HPO),abnormal renal glomerular capsule morphology (MPO),HP:0031264,MP:0002828
+Cholelithiasis (HPO),gallstones (MPO),HP:0001081,MP:0002830
+Hypotension (HPO),decreased systemic arterial blood pressure (MPO),HP:0002615,MP:0002843
+Abnormal glomerular filtration rate (HPO),abnormal renal glomerular filtration rate (MPO),HP:0012212,MP:0002847
+Albuminuria (HPO),albuminuria (MPO),HP:0012592,MP:0002871
+Decreased red blood cell count (HPO),decreased erythrocyte cell number (MPO),HP:0020060,MP:0002875
+Opisthotonus (HPO),opisthotonus (MPO),HP:0002179,MP:0002880
+Ketonuria (HPO),ketoaciduria (MPO),HP:0002919,MP:0002893
+Fatigue (HPO),fatigue (MPO),HP:0012378,MP:0002899
+Hyperphosphaturia (HPO),increased urine phosphate level (MPO),HP:0003109,MP:0002901
+Hypophosphaturia (HPO),decreased urine phosphate level (MPO),HP:0012365,MP:0002902
+Decreased circulating parathyroid hormone level (HPO),decreased circulating parathyroid hormone level (MPO),HP:0031817,MP:0002905
+Abnormal peripheral nervous system synaptic transmission (HPO),abnormal PNS synaptic transmission (MPO),HP:0030191,MP:0002913
+Aganglionic megacolon (HPO),aganglionic megacolon (MPO),HP:0002251,MP:0002926
+Abnormal joint morphology (HPO),abnormal joint morphology (MPO),HP:0001367,MP:0002932
+Synovitis (HPO),joint inflammation (MPO),HP:0100769,MP:0002933
+Microalbuminuria (HPO),increased urine microalbumin level (MPO),HP:0012594,MP:0002959
+Hyperalbuminemia (HPO),increased circulating serum albumin level (MPO),HP:0012117,MP:0002965
+Ovotestis (HPO),ovotestis (MPO),HP:0012861,MP:0002996
+Alkalosis (HPO),alkalosis (MPO),HP:0001948,MP:0003028
+Alkalemia (HPO),alkalemia (MPO),HP:0032369,MP:0003029
+Acidemia (HPO),acidemia (MPO),HP:0032368,MP:0003030
+Hypocapnia (HPO),hypocapnia (MPO),HP:0012417,MP:0003032
+Increased pulmonary vascular resistance (HPO),increased pulmonary vascular resistance (MPO),HP:0005317,MP:0003034
+Cirrhosis (HPO),liver cirrhosis (MPO),HP:0001394,MP:0003046
+Omphalocele (HPO),omphalocele (MPO),HP:0001539,MP:0003052
+Delayed eruption of teeth (HPO),delayed tooth eruption (MPO),HP:0000684,MP:0003053
+Spina bifida (HPO),spina bifida (MPO),HP:0002414,MP:0003054
+Spinal dysraphism (HPO),spina bifida (MPO),HP:0010301,MP:0003054
+Abnormal muscle fiber morphology (HPO),abnormal skeletal muscle fiber morphology (MPO),HP:0004303,MP:0003084
+Hydromyelia (HPO),hydromyelia (MPO),HP:0100565,MP:0003086
+Retinal detachment (HPO),retinal detachment (MPO),HP:0000541,MP:0003099
+Myopia (HPO),myopia (MPO),HP:0000545,MP:0003100
+High myopia (HPO),high myopia (MPO),HP:0011003,MP:0003101
+Acrania (HPO),acrania (MPO),HP:0030716,MP:0003104
+Rickets (HPO),rickets (MPO),HP:0002748,MP:0003116
+Hypospadias (HPO),hypospadia (MPO),HP:0000047,MP:0003124
+Persistent cloaca (HPO),persistent cloaca (MPO),HP:0012621,MP:0003129
+Anotia (HPO),anotia (MPO),HP:0009892,MP:0003142
+Abnormal soft palate morphology (HPO),abnormal soft palate morphology (MPO),HP:0100736,MP:0003154
+Dysphagia (HPO),dysphagia (MPO),HP:0002015,MP:0003158
+Allodynia (HPO),allodynia (MPO),HP:0012533,MP:0003177
+Calcinosis (HPO),calcinosis (MPO),HP:0003761,MP:0003195
+Nephrocalcinosis (HPO),nephrocalcinosis (MPO),HP:0000121,MP:0003197
+Neurofibrillary tangles (HPO),neurofibrillary tangles (MPO),HP:0002185,MP:0003214
+Tubulointerstitial fibrosis (HPO),renal interstitial fibrosis (MPO),HP:0005576,MP:0003215
+Absence seizure (HPO),absence seizures (MPO),HP:0002121,MP:0003216
+Prolonged QT interval (HPO),prolonged QT interval (MPO),HP:0001657,MP:0003233
+Absent gallbladder (HPO),absent gallbladder (MPO),HP:0011467,MP:0003250
+Cholecystitis (HPO),gallbladder inflammation (MPO),HP:0001082,MP:0003251
+Cholangitis (HPO),bile duct inflammation (MPO),HP:0030151,MP:0003254
+Bile duct proliferation (HPO),bile duct proliferation (MPO),HP:0001408,MP:0003255
+Biliary cirrhosis (HPO),biliary cirrhosis (MPO),HP:0002613,MP:0003256
+Hiatus hernia (HPO),hiatal hernia (MPO),HP:0002036,MP:0003258
+Nausea (HPO),nausea (MPO),HP:0002018,MP:0003259
+Vomiting (HPO),vomiting (MPO),HP:0002013,MP:0003260
+Hematemesis (HPO),hematemesis (MPO),HP:0002248,MP:0003261
+Cyst of the ductus choledochus (HPO),biliary cyst (MPO),HP:0100890,MP:0003266
+Chronic constipation (HPO),chronic constipation (MPO),HP:0012450,MP:0003268
+Esophagitis (HPO),esophageal inflammation (MPO),HP:0100633,MP:0003278
+Urinary incontinence (HPO),urinary incontinence (MPO),HP:0000020,MP:0003280
+Bowel incontinence (HPO),fecal incontinence (MPO),HP:0002607,MP:0003281
+Gastroesophageal reflux (HPO),gastroesophageal reflux (MPO),HP:0002020,MP:0003286
+Hematochezia (HPO),rectal hemorrhage (MPO),HP:0002573,MP:0003293
+Intussusception (HPO),intussusception (MPO),HP:0002576,MP:0003294
+Peptic ulcer (HPO),peptic ulcer (MPO),HP:0004398,MP:0003301
+Pyloric stenosis (HPO),pyloric stenosis (MPO),HP:0002021,MP:0003307
+Dysmetria (HPO),dysmetria (MPO),HP:0001310,MP:0003314
+Anoperineal fistula (HPO),anoperineal fistula (MPO),HP:0005218,MP:0003317
+Rectoperineal fistula (HPO),rectoperineal fistula (MPO),HP:0004792,MP:0003318
+Rectovaginal fistula (HPO),rectovaginal fistula (MPO),HP:0000143,MP:0003320
+Hepatic fibrosis (HPO),liver fibrosis (MPO),HP:0001395,MP:0003333
+Pancreatic fibrosis (HPO),pancreas fibrosis (MPO),HP:0100732,MP:0003334
+Chronic pancreatitis (HPO),chronic pancreas inflammation (MPO),HP:0006280,MP:0003341
+Accessory spleen (HPO),accessory spleen (MPO),HP:0001747,MP:0003342
+Polysplenia (HPO),accessory spleen (MPO),HP:0001748,MP:0003342
+Breast hypoplasia (HPO),mammary gland hypoplasia (MPO),HP:0003187,MP:0003344
+Abnormal pectoral muscle morphology (HPO),abnormal pectoral muscle morphology (MPO),HP:0011957,MP:0003346
+Astrocytosis (HPO),astrocytosis (MPO),HP:0002446,MP:0003354
+Abnormal circulating gonadotropin level (HPO),abnormal circulating gonadotropin level (MPO),HP:0030338,MP:0003361
+Increased circulating gonadotropin level (HPO),increased circulating gonadotropin level (MPO),HP:0000837,MP:0003362
+Decreased circulating gonadotropin level (HPO),decreased circulating gonadotropin level (MPO),HP:0030339,MP:0003363
+Abnormal circulating estrogen level (HPO),abnormal circulating estrogen level (MPO),HP:0025132,MP:0003369
+Precocious puberty (HPO),early sexual maturation (MPO),HP:0000826,MP:0003378
+Coarctation of aorta (HPO),aorta coarctation (MPO),HP:0001680,MP:0003387
+Lymphedema (HPO),lymphedema (MPO),HP:0001004,MP:0003390
+Abnormal subclavian artery morphology (HPO),abnormal subclavian artery morphology (MPO),HP:0031251,MP:0003395
+Epidermoid cyst (HPO),epidermal cyst (MPO),HP:0200040,MP:0003414
+Parakeratosis (HPO),parakeratosis (MPO),HP:0001036,MP:0003427
+Hyperparathyroidism (HPO),increased activity of parathyroid (MPO),HP:0000843,MP:0003432
+Hypoparathyroidism (HPO),decreased activity of parathyroid (MPO),HP:0000829,MP:0003433
+Decreased circulating glycerol level (HPO),decreased circulating glycerol level (MPO),HP:0031794,MP:0003442
+Sirenomelia (HPO),sirenomelia (MPO),HP:0010497,MP:0003445
+Abnormal parotid gland morphology (HPO),abnormal parotid gland morphology (MPO),HP:0000197,MP:0003452
+Erythroderma (HPO),erythroderma (MPO),HP:0001019,MP:0003454
+Thyroiditis (HPO),thyroid gland inflammation (MPO),HP:0100646,MP:0003504
+Hyperplastic labia majora (HPO),enlarged labia majora (MPO),HP:0012882,MP:0003517
+Hypoplastic labia majora (HPO),small labia majora (MPO),HP:0000059,MP:0003518
+Clitoral hypertrophy (HPO),enlarged clitoris (MPO),HP:0008665,MP:0003529
+Clitoral hypoplasia (HPO),small clitoris (MPO),HP:0000060,MP:0003530
+Septate vagina (HPO),bifid vagina (MPO),HP:0001153,MP:0003533
+Blind vagina (HPO),blind vagina (MPO),HP:0040314,MP:0003534
+Vaginal dryness (HPO),vagina dryness (MPO),HP:0031088,MP:0003536
+Hydrometrocolpos (HPO),hydrometrocolpos (MPO),HP:0030010,MP:0003537
+Imperforate hymen (HPO),imperforate hymen (MPO),HP:0030011,MP:0003540
+Vaginitis (HPO),vaginal inflammation (MPO),HP:0030683,MP:0003541
+Phimosis (HPO),phimosis (MPO),HP:0001741,MP:0003554
+Chordee (HPO),chordee (MPO),HP:0000041,MP:0003555
+Absent vas deferens (HPO),absent vas deferens (MPO),HP:0012873,MP:0003557
+Osteoarthritis (HPO),osteoarthritis (MPO),HP:0002758,MP:0003560
+Rheumatoid arthritis (HPO),rheumatoid arthritis (MPO),HP:0001370,MP:0003561
+Aplasia of the ovary (HPO),absent ovary (MPO),HP:0010463,MP:0003578
+Ovarian carcinoma (HPO),increased ovarian carcinoma incidence (MPO),HP:0025318,MP:0003579
+Hydroureter (HPO),large ureter (MPO),HP:0000072,MP:0003585
+Abnormal ureter physiology (HPO),abnormal ureter physiology (MPO),HP:0025634,MP:0003589
+Vesicoureteral reflux (HPO),ureteral reflux (MPO),HP:0000076,MP:0003590
+Urethrovaginal fistula (HPO),urethrovaginal fistula (MPO),HP:0008716,MP:0003593
+Epididymal cyst (HPO),epididymal cyst (MPO),HP:0030424,MP:0003595
+Epispadias (HPO),epispadia (MPO),HP:0000039,MP:0003598
+Renal hamartoma (HPO),increased renal hamartoma incidence (MPO),HP:0008696,MP:0003602
+Unilateral renal agenesis (HPO),single kidney (MPO),HP:0000122,MP:0003604
+Prostatitis (HPO),prostate gland inflammation (MPO),HP:0000024,MP:0003608
+Small scrotum (HPO),small scrotum (MPO),HP:0030276,MP:0003609
+Cystocele (HPO),urinary bladder prolapse (MPO),HP:0100645,MP:0003614
+Bladder diverticulum (HPO),urinary bladder diverticulum (MPO),HP:0000015,MP:0003615
+Oliguria (HPO),oliguria (MPO),HP:0100520,MP:0003620
+Dysuria (HPO),dysuria (MPO),HP:0100518,MP:0003621
+Urinary retention (HPO),ischuria (MPO),HP:0000016,MP:0003622
+Abnormal synaptic transmission (HPO),abnormal synaptic transmission (MPO),HP:0012535,MP:0003635
+Pulmonary hypoplasia (HPO),small lung (MPO),HP:0002089,MP:0003641
+Chylothorax (HPO),chylothorax (MPO),HP:0010310,MP:0003660
+Angiosarcoma (HPO),increased hemangiosarcoma incidence (MPO),HP:0200058,MP:0003667
+Absent earlobe (HPO),absent ear lobes (MPO),HP:0000387,MP:0003678
+Large earlobe (HPO),thick ear lobes (MPO),HP:0009748,MP:0003680
+Large earlobe (HPO),prominent ear lobes (MPO),HP:0009748,MP:0003683
+Ophthalmoparesis (HPO),ophthalmoparesis (MPO),HP:0000597,MP:0003688
+Xanthelasma (HPO),xanthoma (MPO),HP:0001114,MP:0003692
+Abnormal zona pellucida morphology (HPO),abnormal zona pellucida morphology (MPO),HP:0020156,MP:0003696
+Pallor (HPO),pallor (MPO),HP:0000980,MP:0003717
+Cupped ear (HPO),cup-shaped ears (MPO),HP:0000378,MP:0003735
+Calcification of the auricular cartilage (HPO),ossification of pinnae (MPO),HP:0005103,MP:0003737
+Fusion of middle ear ossicles (HPO),fusion of middle ear ossicles (MPO),HP:0005473,MP:0003740
+Tinnitus (HPO),tinnitus (MPO),HP:0000360,MP:0003741
+Dolichocephaly (HPO),narrow head (MPO),HP:0000268,MP:0003742
+Stomatitis (HPO),stomatitis (MPO),HP:0010280,MP:0003746
+Downturned corners of mouth (HPO),down-turned corners of mouth (MPO),HP:0002714,MP:0003749
+Oral leukoplakia (HPO),oral leukoplakia (MPO),HP:0002745,MP:0003751
+Abnormal palate morphology (HPO),abnormal palate morphology (MPO),HP:0000174,MP:0003755
+Eclabion (HPO),eclabion (MPO),HP:0012472,MP:0003773
+Thick vermilion border (HPO),thick lip (MPO),HP:0012471,MP:0003774
+Cheilitis (HPO),lip inflammation (MPO),HP:0100825,MP:0003777
+Abnormal cortical bone morphology (HPO),abnormal compact bone morphology (MPO),HP:0003103,MP:0003797
+Camptodactyly (HPO),camptodactyly (MPO),HP:0012385,MP:0003807
+Brittle hair (HPO),brittle hair (MPO),HP:0002299,MP:0003848
+Dry skin (HPO),dry skin (MPO),HP:0000958,MP:0003853
+Lymphadenitis (HPO),lymph node inflammation (MPO),HP:0002840,MP:0003865
+Abnormal stool composition (HPO),abnormal feces composition (MPO),HP:0031685,MP:0003868
+Abnormal nephron morphology (HPO),abnormal nephron morphology (MPO),HP:0012575,MP:0003881
+Abnormal pulse pressure (HPO),abnormal pulse pressure (MPO),HP:0030850,MP:0003882
+Prolonged PR interval (HPO),prolonged PR interval (MPO),HP:0012248,MP:0003896
+Abnormal ST segment (HPO),abnormal ST segment (MPO),HP:0012249,MP:0003897
+Abnormal QRS complex (HPO),abnormal QRS complex (MPO),HP:0025074,MP:0003898
+Abnormal QT interval (HPO),abnormal QT interval (MPO),HP:0031547,MP:0003899
+Shortened QT interval (HPO),shortened QT interval (MPO),HP:0012232,MP:0003900
+Abnormal PR interval (HPO),abnormal PR interval (MPO),HP:0031593,MP:0003901
+Congenital diaphragmatic hernia (HPO),diaphragmatic hernia (MPO),HP:0000776,MP:0003924
+Increased heart rate variability (HPO),increased heart rate variability (MPO),HP:0031862,MP:0003928
+Decreased heart rate variability (HPO),decreased heart rate variability (MPO),HP:0031861,MP:0003929
+Agenesis of molar (HPO),absent molars (MPO),HP:0011054,MP:0003931
+Abnormal lymphocyte physiology (HPO),abnormal lymphocyte physiology (MPO),HP:0031409,MP:0003945
+Abnormal growth hormone level (HPO),abnormal growth hormone level (MPO),HP:0032367,MP:0003968
+Abnormal circulating luteinizing hormone level (HPO),abnormal luteinizing hormone level (MPO),HP:0030345,MP:0003969
+Abnormal prolactin level (HPO),abnormal prolactin level (MPO),HP:0040086,MP:0003970
+Abnormal thyroid-stimulating hormone level (HPO),abnormal thyroid-stimulating hormone level (MPO),HP:0031097,MP:0003971
+Renal fibrosis (HPO),renal fibrosis (MPO),HP:0030760,MP:0003985
+Arteriosclerosis (HPO),arteriosclerosis (MPO),HP:0002634,MP:0003991
+Generalized tonic-clonic seizures (HPO),tonic-clonic seizures (MPO),HP:0002069,MP:0003997
+Elevated pulmonary artery pressure (HPO),increased pulmonary artery pressure (MPO),HP:0004890,MP:0004012
+Polyhydramnios (HPO),polyhydramnios (MPO),HP:0001561,MP:0004020
+Chromosome breakage (HPO),chromosome breakage (MPO),HP:0040012,MP:0004028
+Aortic dissection (HPO),aortic dissection (MPO),HP:0002647,MP:0004044
+Thin myocardium compact layer (HPO),thin myocardium compact layer (MPO),HP:0031196,MP:0004057
+Right atrial enlargement (HPO),dilated heart right atrium (MPO),HP:0030718,MP:0004062
+Abnormal P wave (HPO),abnormal P wave (MPO),HP:0031595,MP:0004070
+Abnormal caudate nucleus morphology (HPO),abnormal caudate nucleus morphology (MPO),HP:0002339,MP:0004078
+Abnormal putamen morphology (HPO),abnormal putamen morphology (MPO),HP:0031982,MP:0004079
+Abnormal globus pallidus morphology (HPO),abnormal globus pallidus morphology (MPO),HP:0002453,MP:0004081
+Abnormal muscle fiber morphology (HPO),abnormal muscle fiber morphology (MPO),HP:0004303,MP:0004087
+Abnormal coronary artery morphology (HPO),abnormal coronary artery morphology (MPO),HP:0006704,MP:0004111
+Hypokalemia (HPO),hypokalemia (MPO),HP:0002900,MP:0004119
+Heterotaxy (HPO),heterotaxia (MPO),HP:0030853,MP:0004133
+Spasticity (HPO),muscle hypertonia (MPO),HP:0001257,MP:0004143
+Acute tubular necrosis (HPO),renal tubular necrosis (MPO),HP:0008682,MP:0004154
+Interrupted aortic arch (HPO),interrupted aortic arch (MPO),HP:0011611,MP:0004157
+Right aortic arch (HPO),right aortic arch (MPO),HP:0012020,MP:0004158
+Double aortic arch (HPO),double aortic arch (MPO),HP:0011590,MP:0004159
+Cervical aortic arch (HPO),cervical aortic arch (MPO),HP:0011588,MP:0004161
+Abnormal carotid artery morphology (HPO),abnormal carotid artery morphology (MPO),HP:0005344,MP:0004181
+Abnormal renal pelvis morphology (HPO),abnormal kidney pelvis morphology (MPO),HP:0010944,MP:0004194
+Acantholysis (HPO),acantholysis (MPO),HP:0100792,MP:0004241
+Cerebral amyloid angiopathy (HPO),cerebral amyloid angiopathy (MPO),HP:0011970,MP:0004254
+Retrognathia (HPO),retrognathia (MPO),HP:0000278,MP:0004282
+Vestibular saccular degeneration (HPO),vestibular saccular degeneration (MPO),HP:0031000,MP:0004329
+Short clavicles (HPO),clavicle hypoplasia (MPO),HP:0000894,MP:0004337
+Scapular aplasia (HPO),absent scapula (MPO),HP:0010317,MP:0004341
+Hypoplastic scapulae (HPO),small scapula (MPO),HP:0000882,MP:0004343
+Hypoplasia of the radius (HPO),short radius (MPO),HP:0002984,MP:0004355
+Hypoplasia of the ulna (HPO),short ulna (MPO),HP:0003022,MP:0004359
+Testicular teratoma (HPO),increased testicular teratoma incidence (MPO),HP:0100616,MP:0004478
+Myositis (HPO),myositis (MPO),HP:0100614,MP:0004510
+Anosmia (HPO),anosmia (MPO),HP:0000458,MP:0004512
+Aplasia of the maxilla (HPO),absent maxilla (MPO),HP:0010667,MP:0004539
+Hypoplasia of the maxilla (HPO),small maxilla (MPO),HP:0000327,MP:0004540
+Aplasia of the Eustachian tube (HPO),absent auditory tube (MPO),HP:0040116,MP:0004541
+Micrognathia (HPO),small mandible (MPO),HP:0000347,MP:0004592
+Vertebral fusion (HPO),vertebral fusion (MPO),HP:0002948,MP:0004609
+Hypoplastic vertebral bodies (HPO),small vertebrae (MPO),HP:0008479,MP:0004610
+Vertebral fusion (HPO),fusion of vertebral bodies (MPO),HP:0002948,MP:0004612
+Vertebral compression fractures (HPO),vertebral compression (MPO),HP:0002953,MP:0004626
+Abnormal number of vertebrae (HPO),abnormal vertebrae number (MPO),HP:0030304,MP:0004643
+Bifid xiphoid process (HPO),split xiphoid process (MPO),HP:0100891,MP:0004678
+Unilateral deafness (HPO),unilateral deafness (MPO),HP:0009900,MP:0004699
+Abnormal circulating gastrin level (HPO),abnormal circulating gastrin level (MPO),HP:0500166,MP:0004730
+Conductive hearing impairment (HPO),conductive hearing loss (MPO),HP:0000405,MP:0004739
+Sensorineural hearing impairment (HPO),sensorineural hearing loss (MPO),HP:0000407,MP:0004740
+Mixed hearing impairment (HPO),mixed hearing loss (MPO),HP:0000410,MP:0004741
+Biliary hyperplasia (HPO),bile duct hyperplasia (MPO),HP:0006560,MP:0004839
+Abnormal vestibulo-ocular reflex (HPO),abnormal vestibuloocular reflex (MPO),HP:0007670,MP:0004844
+Endometrial carcinoma (HPO),increased endometrial carcinoma incidence (MPO),HP:0012114,MP:0004868
+Hypoplasia of the premaxilla (HPO),small premaxilla (MPO),HP:0010650,MP:0004870
+Absent nasal septal cartilage (HPO),absent nasal septum (MPO),HP:0005273,MP:0004872
+Abnormal adiponectin level (HPO),abnormal adiponectin level (MPO),HP:0030684,MP:0004891
+Increased adiponectin level (HPO),increased adiponectin level (MPO),HP:0030686,MP:0004892
+Decreased adiponectin level (HPO),decreased adiponectin level (MPO),HP:0030685,MP:0004893
+Otosclerosis (HPO),otosclerosis (MPO),HP:0000362,MP:0004897
+Inflammatory abnormality of the skin (HPO),skin inflammation (MPO),HP:0011123,MP:0004947
+Osteolysis (HPO),increased bone resorption (MPO),HP:0002797,MP:0004992
+Eosinophilia (HPO),increased eosinophil cell number (MPO),HP:0001880,MP:0005011
+Decreased eosinophil count (HPO),decreased eosinophil cell number (MPO),HP:0031891,MP:0005012
+Lymphocytosis (HPO),increased lymphocyte cell number (MPO),HP:0100827,MP:0005013
+Lymphopenia (HPO),decreased lymphocyte cell number (MPO),HP:0001888,MP:0005016
+Sepsis (HPO),sepsis (MPO),HP:0100806,MP:0005044
+Abnormal thrombosis (HPO),abnormal thrombosis (MPO),HP:0001977,MP:0005048
+Abnormal eosinophil morphology (HPO),abnormal eosinophil morphology (MPO),HP:0001879,MP:0005061
+Abnormal gallbladder morphology (HPO),abnormal gallbladder morphology (MPO),HP:0012437,MP:0005084
+Abnormal T cell proliferation (HPO),abnormal T cell proliferation (MPO),HP:0031379,MP:0005094
+Abnormal choroid morphology (HPO),abnormal optic choroid morphology (MPO),HP:0000610,MP:0005098
+Abnormal iris pigmentation (HPO),abnormal iris pigmentation (MPO),HP:0008034,MP:0005102
+Increased circulating prolactin concentration (HPO),increased circulating prolactin level (MPO),HP:0000870,MP:0005124
+Decreased thyroid-stimulating hormone level (HPO),decreased thyroid-stimulating hormone level (MPO),HP:0031098,MP:0005134
+Increased thyroid-stimulating hormone level (HPO),increased thyroid-stimulating hormone level (MPO),HP:0002925,MP:0005135
+Abnormal B cell proliferation (HPO),abnormal B cell proliferation (MPO),HP:0031380,MP:0005153
+Bradykinesia (HPO),bradykinesia (MPO),HP:0002067,MP:0005156
+Holoprosencephaly (HPO),holoprosencephaly (MPO),HP:0001360,MP:0005157
+Azoospermia (HPO),azoospermia (MPO),HP:0000027,MP:0005159
+Hematuria (HPO),hematuria (MPO),HP:0000790,MP:0005161
+Wrist drop (HPO),carpoptosis (MPO),HP:0031189,MP:0005162
+Cyclopia (HPO),cyclopia (MPO),HP:0009914,MP:0005163
+Cleft upper lip (HPO),cleft upper lip (MPO),HP:0000204,MP:0005170
+Abnormal circulating progesterone level (HPO),abnormal circulating progesterone level (MPO),HP:0031212,MP:0005184
+Micropenis (HPO),small penis (MPO),HP:0000054,MP:0005188
+Microphallus (HPO),small penis (MPO),HP:0030260,MP:0005188
+Osteomyelitis (HPO),osteomyelitis (MPO),HP:0002754,MP:0005190
+Abnormal uvea morphology (HPO),abnormal uvea morphology (MPO),HP:0000553,MP:0005197
+Lethargy (HPO),lethargy (MPO),HP:0001254,MP:0005202
+Abnormal trabecular meshwork morphology (HPO),abnormal trabecular meshwork morphology (MPO),HP:0012630,MP:0005203
+Ectrodactyly (HPO),ectrodactyly (MPO),HP:0100257,MP:0005230
+Cryptophthalmos (HPO),cryptophthalmos (MPO),HP:0001126,MP:0005242
+Hemothorax (HPO),hemothorax (MPO),HP:0012151,MP:0005243
+Hemopericardium (HPO),hemopericardium (MPO),HP:0011851,MP:0005244
+Blepharitis (HPO),blepharitis (MPO),HP:0000498,MP:0005251
+Strabismus (HPO),strabismus (MPO),HP:0000486,MP:0005254
+Exotropia (HPO),exotropia (MPO),HP:0000577,MP:0005255
+Esotropia (HPO),esotropia (MPO),HP:0000565,MP:0005256
+Abnormal intraocular pressure (HPO),abnormal intraocular pressure (MPO),HP:0012632,MP:0005257
+Ocular hypertension (HPO),ocular hypertension (MPO),HP:0007906,MP:0005258
+Coloboma (HPO),coloboma (MPO),HP:0000589,MP:0005262
+Glomerulosclerosis (HPO),glomerulosclerosis (MPO),HP:0000096,MP:0005264
+Abnormal temporal bone morphology (HPO),abnormal temporal bone morphology (MPO),HP:0009911,MP:0005272
+Brainstem dysplasia (HPO),abnormal brainstem morphology (MPO),HP:0002508,MP:0005277
+Abnormal circulating cholesterol concentration (HPO),abnormal cholesterol homeostasis (MPO),HP:0003107,MP:0005278
+Narcolepsy (HPO),narcolepsy (MPO),HP:0030050,MP:0005279
+Blepharophimosis (HPO),narrow eye opening (MPO),HP:0000581,MP:0005287
+Glucose intolerance (HPO),impaired glucose tolerance (MPO),HP:0001952,MP:0005293
+Impaired glucose tolerance (HPO),impaired glucose tolerance (MPO),HP:0040270,MP:0005293
+Abnormal humerus morphology (HPO),abnormal humerus morphology (MPO),HP:0031095,MP:0005296
+Spina bifida occulta (HPO),spina bifida occulta (MPO),HP:0003298,MP:0005297
+Neurogenic bladder (HPO),neurogenic bladder (MPO),HP:0000011,MP:0005302
+Pericardial effusion (HPO),pericardial effusion (MPO),HP:0001698,MP:0005312
+Anterior pituitary agenesis (HPO),absent pituitary gland (MPO),HP:0010626,MP:0005315
+Dystonia (HPO),dystonia (MPO),HP:0001332,MP:0005323
+Ascites (HPO),ascites (MPO),HP:0001541,MP:0005324
+Abnormal circulating creatinine level (HPO),abnormal circulating creatinine level (MPO),HP:0012100,MP:0005328
+Bradycardia (HPO),decreased heart rate (MPO),HP:0001662,MP:0005333
+Abnormal circulating corticosterone level (HPO),abnormal circulating corticosterone level (MPO),HP:0012112,MP:0005345
+Microcephaly (HPO),small cranium (MPO),HP:0000252,MP:0005352
+Abnormal patella morphology (HPO),abnormal patella morphology (MPO),HP:0003045,MP:0005353
+Abnormal nerve conduction velocity (HPO),abnormal nerve conduction (MPO),HP:0040129,MP:0005403
+Axonal degeneration (HPO),axon degeneration (MPO),HP:0040078,MP:0005405
+Hyperalgesia (HPO),hyperalgesia (MPO),HP:0031005,MP:0005407
+Hypopigmentation of the skin (HPO),hypopigmentation (MPO),HP:0001010,MP:0005408
+Extrahepatic cholestasis (HPO),extrahepatic cholestasis (MPO),HP:0012334,MP:0005414
+Intrahepatic cholestasis (HPO),intrahepatic cholestasis (MPO),HP:0001406,MP:0005415
+Abnormal circulating protein level (HPO),abnormal circulating protein level (MPO),HP:0010876,MP:0005416
+Cutis laxa (HPO),loose skin (MPO),HP:0000973,MP:0005421
+Increased bone mineral density (HPO),osteosclerosis (MPO),HP:0011001,MP:0005422
+Tachypnea (HPO),tachypnea (MPO),HP:0002789,MP:0005426
+Hemoperitoneum (HPO),hemoperitoneum (MPO),HP:0011854,MP:0005435
+Abnormal thyroid hormone level (HPO),abnormal thyroid hormone level (MPO),HP:0031508,MP:0005468
+Abnormal circulating thyroxine level (HPO),abnormal circulating thyroxine level (MPO),HP:0031505,MP:0005475
+Increased circulating thyroxine level (HPO),increased circulating thyroxine level (MPO),HP:0031506,MP:0005477
+Decreased circulating thyroxine level (HPO),decreased circulating thyroxine level (MPO),HP:0031507,MP:0005478
+Chronic myelogenous leukemia (HPO),increased chronic myelocytic leukemia incidence (MPO),HP:0005506,MP:0005481
+Thrombocytosis (HPO),thrombocytosis (MPO),HP:0001894,MP:0005505
+Uveitis (HPO),uveitis (MPO),HP:0000554,MP:0005515
+Increased glomerular filtration rate (HPO),increased renal glomerular filtration rate (MPO),HP:0012214,MP:0005527
+Decreased glomerular filtration rate (HPO),decreased renal glomerular filtration rate (MPO),HP:0012213,MP:0005528
+Hypothermia (HPO),decreased body temperature (MPO),HP:0002045,MP:0005534
+Corneal neovascularization (HPO),corneal vascularization (MPO),HP:0011496,MP:0005542
+Corneal crystals (HPO),corneal deposits (MPO),HP:0000531,MP:0005544
+Choroidal neovascularization (HPO),choroidal neovascularization (MPO),HP:0011506,MP:0005546
+Decreased glomerular filtration rate (HPO),decreased creatinine clearance (MPO),HP:0012213,MP:0005558
+Increased mean corpuscular hemoglobin concentration (HPO),increased mean corpuscular hemoglobin (MPO),HP:0025548,MP:0005561
+Hypochromia (HPO),decreased mean corpuscular hemoglobin (MPO),HP:0032231,MP:0005562
+Reduced blood urea nitrogen (HPO),decreased blood urea nitrogen level (MPO),HP:0031969,MP:0005566
+Hyperproteinemia (HPO),increased circulating total protein level (MPO),HP:0002152,MP:0005568
+Abnormal sperm morphology (HPO),teratozoospermia (MPO),HP:0012864,MP:0005578
+Abnormal enzyme/coenzyme activity (HPO),abnormal enzyme/coenzyme activity (MPO),HP:0012379,MP:0005584
+Prolonged bleeding time (HPO),increased bleeding time (MPO),HP:0003010,MP:0005606
+Abnormal mean corpuscular hemoglobin concentration (HPO),abnormal mean corpuscular hemoglobin concentration (MPO),HP:0025546,MP:0005640
+Increased mean corpuscular hemoglobin concentration (HPO),increased mean corpuscular hemoglobin concentration (MPO),HP:0025548,MP:0005641
+Decreased mean corpuscular hemoglobin concentration (HPO),decreased mean corpuscular hemoglobin concentration (MPO),HP:0025547,MP:0005642
+Sex reversal (HPO),sex reversal (MPO),HP:0012245,MP:0005652
+Abnormality of neuronal migration (HPO),abnormal neuronal migration (MPO),HP:0002269,MP:0006009
+Pulmonary fibrosis (HPO),pulmonary fibrosis (MPO),HP:0002206,MP:0006050
+Right atrial isomerism (HPO),right atrial isomerism (MPO),HP:0011536,MP:0006061
+Inguinal hernia (HPO),inguinal hernia (MPO),HP:0000023,MP:0006077
+Abnormal nipple morphology (HPO),abnormal nipple morphology (MPO),HP:0004404,MP:0006078
+Myocardial necrosis (HPO),myocardium necrosis (MPO),HP:0001700,MP:0006085
+Decreased body mass index (HPO),decreased body mass index (MPO),HP:0045082,MP:0006086
+Increased body mass index (HPO),increased body mass index (MPO),HP:0031418,MP:0006087
+Abnormal vestibular saccule morphology (HPO),abnormal vestibular saccule morphology (MPO),HP:0030999,MP:0006089
+Arteriovenous fistula (HPO),arteriovenous malformation (MPO),HP:0004947,MP:0006093
+Adipocyte hypertrophy (HPO),increased fat cell size (MPO),HP:0030759,MP:0006094
+Ventricular fibrillation (HPO),ventricular fibrillation (MPO),HP:0001663,MP:0006110
+Angina pectoris (HPO),angina (MPO),HP:0001681,MP:0006112
+Heart murmur (HPO),cardiac murmur (MPO),HP:0030148,MP:0006114
+Aortic valve prolapse (HPO),aortic valve prolapse (MPO),HP:0025578,MP:0006118
+Mitral atresia (HPO),mitral valve atresia (MPO),HP:0011560,MP:0006119
+Tricuspid atresia (HPO),tricuspid valve atresia (MPO),HP:0011662,MP:0006123
+Tricuspid stenosis (HPO),tricuspid valve stenosis (MPO),HP:0010446,MP:0006124
+Arterial occlusion (HPO),artery occlusion (MPO),HP:0025324,MP:0006134
+Varicose veins (HPO),varicose veins (MPO),HP:0002619,MP:0006136
+Congestive heart failure (HPO),congestive heart failure (MPO),HP:0001635,MP:0006138
+Blurred vision (HPO),decreased visual acuity (MPO),HP:0000622,MP:0006149
+Reduced visual acuity (HPO),decreased visual acuity (MPO),HP:0007663,MP:0006149
+Diplopia (HPO),double vision (MPO),HP:0000651,MP:0006150
+Hypermetropia (HPO),hypermetropia (MPO),HP:0000540,MP:0006153
+Ocular albinism (HPO),ocular albinism (MPO),HP:0001107,MP:0006159
+Palpebral thickening (HPO),thick eyelids (MPO),HP:0030939,MP:0006162
+Entropion (HPO),entropion (MPO),HP:0000621,MP:0006165
+Eyelid retraction (HPO),eyelid retraction (MPO),HP:0500043,MP:0006166
+Epicanthus inversus (HPO),epicanthus inversus (MPO),HP:0000537,MP:0006168
+Keratoconjunctivitis (HPO),keratoconjunctivitis (MPO),HP:0001096,MP:0006194
+Deeply set eye (HPO),enophthalmos (MPO),HP:0000490,MP:0006198
+Hypertropia (HPO),hypertropia (MPO),HP:0025586,MP:0006199
+Preimplantation lethality (HPO),embryonic lethality before implantation (MPO),HP:0032479,MP:0006204
+Optic nerve compression (HPO),optic nerve compression (MPO),HP:0007807,MP:0006220
+Pseudopapilledema (HPO),optic nerve swelling (MPO),HP:0000538,MP:0006223
+Papilledema (HPO),optic nerve swelling (MPO),HP:0001085,MP:0006223
+Oculomotor apraxia (HPO),oculomotor apraxia (MPO),HP:0000657,MP:0006224
+Polycoria (HPO),polycoria (MPO),HP:0011500,MP:0006235
+Anisocoria (HPO),anisocoria (MPO),HP:0009916,MP:0006240
+Ectopia pupillae (HPO),abnormal placement of pupils (MPO),HP:0009918,MP:0006241
+Leukocoria (HPO),white pupil (MPO),HP:0000555,MP:0006242
+Blepharospasm (HPO),eyelid muscle spasm (MPO),HP:0000643,MP:0006244
+Cogan lid twitch (HPO),eyelid muscle spasm (MPO),HP:0031786,MP:0006244
+Lens luxation (HPO),dislocated lens (MPO),HP:0012019,MP:0006245
+Phthisis bulbi (HPO),phthisis bulbi (MPO),HP:0000667,MP:0006249
+Clinodactyly (HPO),clinodactyly (MPO),HP:0030084,MP:0006253
+Annular pancreas (HPO),annular pancreas (MPO),HP:0001734,MP:0006261
+Decreased diastolic blood pressure (HPO),decreased systemic arterial diastolic blood pressure (MPO),HP:0500104,MP:0006263
+Decreased systolic blood pressure (HPO),decreased systemic arterial systolic blood pressure (MPO),HP:0500105,MP:0006264
+Aortic aneurysm (HPO),aortic aneurysm (MPO),HP:0004942,MP:0006278
+Proboscis (HPO),proboscis (MPO),HP:0012806,MP:0006290
+Aprosencephaly (HPO),aprosencephaly (MPO),HP:0007268,MP:0006291
+Arachnodactyly (HPO),arachnodactyly (MPO),HP:0001166,MP:0006296
+Abnormal retinal nerve fiber layer morphology (HPO),abnormal retinal nerve fiber layer morphology (MPO),HP:0020119,MP:0006303
+Abnormal urine protein level (HPO),abnormal urine protein level (MPO),HP:0020129,MP:0006315
+Conductive hearing impairment (HPO),conductive hearing impairment (MPO),HP:0000405,MP:0006326
+Mixed hearing impairment (HPO),mixed hearing impairment (MPO),HP:0000410,MP:0006327
+Sensorineural hearing impairment (HPO),sensorineural hearing impairment (MPO),HP:0000407,MP:0006329
+Anorchism (HPO),absent testes (MPO),HP:0030869,MP:0006415
+Ovarian neoplasm (HPO),increased ovary tumor incidence (MPO),HP:0100615,MP:0008000
+Achlorhydria (HPO),achlorhydria (MPO),HP:0032448,MP:0008003
+Intestinal polyposis (HPO),intestine polyps (MPO),HP:0200008,MP:0008011
+Duodenal polyposis (HPO),duodenum polyps (MPO),HP:0004783,MP:0008012
+Abnormal Langerhans cell morphology (HPO),abnormal Langerhans cell morphology (MPO),HP:0031871,MP:0008117
+Podocyte foot process effacement (HPO),podocyte foot process effacement (MPO),HP:0031266,MP:0008140
+Nyctalopia (HPO),nyctalopia (MPO),HP:0000662,MP:0008144
+Hemeralopia (HPO),hemeralopia (MPO),HP:0012047,MP:0008145
+Slender long bone (HPO),decreased diameter of long bones (MPO),HP:0003100,MP:0008150
+Decreased fibular diameter (HPO),decreased diameter of fibula (MPO),HP:0031107,MP:0008153
+Increased fibular diameter (HPO),increased diameter of fibula (MPO),HP:0012107,MP:0008159
+Abnormal leukocyte morphology (HPO),abnormal leukocyte morphology (MPO),HP:0001881,MP:0008246
+Abnormal bone ossification (HPO),abnormal bone ossification (MPO),HP:0011849,MP:0008271
+Abnormal intramembranous ossification (HPO),abnormal intramembranous bone ossification (MPO),HP:0012790,MP:0008273
+Enlarged hippocampus (HPO),enlarged hippocampus (MPO),HP:0100961,MP:0008282
+Hypoplastic hippocampus (HPO),small hippocampus (MPO),HP:0025517,MP:0008283
+Hypochromic anemia (HPO),hypochromic anemia (MPO),HP:0001931,MP:0008387
+Hypochromic microcytic anemia (HPO),hypochromic microcytic anemia (MPO),HP:0004840,MP:0008388
+"Abnormal CD4-positive, CD25-positive, alpha-beta regulatory T cell morphology (HPO)","abnormal CD4-positive, CD25-positive, alpha-beta regulatory T cell morphology (MPO)",HP:0030334,MP:0008397
+Abnormal cutaneous elastic fiber morphology (HPO),abnormal cutaneous elastic fiber morphology (MPO),HP:0025082,MP:0008418
+Abnormal cutaneous collagen fibril morphology (HPO),abnormal cutaneous collagen fibril morphology (MPO),HP:0031512,MP:0008438
+Left atrial isomerism (HPO),left atrial isomerism (MPO),HP:0011537,MP:0008461
+Dilation of lateral ventricles (HPO),enlarged lateral ventricles (MPO),HP:0006956,MP:0008535
+Atrial fibrillation (HPO),atrial fibrillation (MPO),HP:0005110,MP:0008543
+Hyposmia (HPO),impaired olfaction (MPO),HP:0004409,MP:0008544
+Partial anosmia (HPO),impaired olfaction (MPO),HP:0010633,MP:0008544
+Absent sperm flagella (HPO),absent sperm flagellum (MPO),HP:0032558,MP:0008545
+Impaired neutrophil chemotaxis (HPO),impaired neutrophil chemotaxis (MPO),HP:0040238,MP:0008720
+Micromelia (HPO),micromelia (MPO),HP:0002983,MP:0008736
+Abnormal hepatic iron concentration (HPO),abnormal liver iron level (MPO),HP:0040134,MP:0008738
+Craniorachischisis (HPO),craniorachischisis (MPO),HP:0030770,MP:0008784
+Transverse facial cleft (HPO),lateral facial cleft (MPO),HP:0100731,MP:0008798
+Abnormal circulating amylase level (HPO),abnormal circulating amylase level (MPO),HP:0410282,MP:0008804
+Hypoamylasemia (HPO),decreased circulating amylase level (MPO),HP:0410289,MP:0008805
+Hyperamylasemia (HPO),increased circulating amylase level (MPO),HP:0410288,MP:0008806
+Decreased nerve conduction velocity (HPO),decreased nerve conduction velocity (MPO),HP:0000762,MP:0008814
+Anterior staphyloma (HPO),anterior staphyloma (MPO),HP:0030855,MP:0008815
+Petechiae (HPO),petechiae (MPO),HP:0000967,MP:0008816
+Hemivertebrae (HPO),hemivertebra (MPO),HP:0002937,MP:0008832
+Retinal neovascularization (HPO),retinal neovascularization (MPO),HP:0030666,MP:0008852
+Craniofacial asymmetry (HPO),craniofacial asymmetry (MPO),HP:0004484,MP:0008863
+Carpal synostosis (HPO),fused carpal bones (MPO),HP:0009702,MP:0008915
+Decreased mean platelet volume (HPO),decreased mean platelet volume (MPO),HP:0005537,MP:0008935
+Hyperchromic macrocytic anemia (HPO),hyperchromic macrocytic anemia (MPO),HP:0004857,MP:0008945
+Ventricular tachycardia (HPO),ventricular tachycardia (MPO),HP:0004756,MP:0008950
+Abnormal liver parenchyma morphology (HPO),abnormal liver parenchyma morphology (MPO),HP:0030146,MP:0008986
+Anal atresia (HPO),absent anus (MPO),HP:0002023,MP:0008999
+Absent hallux (HPO),absent hallux (MPO),HP:0012386,MP:0009001
+Abnormal subarachnoid space morphology (HPO),abnormal subarachnoid space morphology (MPO),HP:0012703,MP:0009027
+Trichilemmal cyst (HPO),pilar cyst (MPO),HP:0025246,MP:0009042
+Fasciculations (HPO),muscle twitch (MPO),HP:0002380,MP:0009046
+Aplasia of the upper vagina (HPO),absent cranial vagina (MPO),HP:0012673,MP:0009072
+Abnormal pancreas size (HPO),abnormal pancreas size (MPO),HP:0012094,MP:0009106
+Neoplasm of the pancreas (HPO),increased pancreas tumor incidence (MPO),HP:0002894,MP:0009153
+Abnormality of the male genitalia (HPO),abnormal male genitalia morphology (MPO),HP:0010461,MP:0009198
+Uterine neoplasm (HPO),increased uterus tumor incidence (MPO),HP:0010784,MP:0009222
+Cervicitis (HPO),uterine cervix inflammation (MPO),HP:0030160,MP:0009228
+Abdominal distention (HPO),meteorism (MPO),HP:0003270,MP:0009247
+Buphthalmos (HPO),buphthalmos (MPO),HP:0000557,MP:0009274
+Ecchymosis (HPO),ecchymosis (MPO),HP:0031364,MP:0009276
+Duodenal adenocarcinoma (HPO),increased duodenum adenocarcinoma incidence (MPO),HP:0006771,MP:0009311
+Anal canal adenocarcinoma (HPO),increased anal adenocarcinoma incidence (MPO),HP:0030439,MP:0009316
+Fine hair (HPO),thin hair shaft (MPO),HP:0002213,MP:0009351
+Endometritis (HPO),endometrium inflammation (MPO),HP:0025636,MP:0009360
+Thin zona pellucida (HPO),thin zona pellucida (MPO),HP:0020157,MP:0009375
+Centrally nucleated skeletal muscle fibers (HPO),centrally nucleated skeletal muscle fibers (MPO),HP:0003687,MP:0009404
+Skeletal muscle atrophy (HPO),skeletal muscle atrophy (MPO),HP:0003202,MP:0009417
+Skeletal muscle fibrosis (HPO),skeletal muscle fibrosis (MPO),HP:0030951,MP:0009419
+Paraparesis (HPO),paraparesis (MPO),HP:0002385,MP:0009434
+Ovarian dermoid cyst (HPO),increased ovarian teratoma incidence (MPO),HP:0025274,MP:0009442
+Skeletal muscle hypertrophy (HPO),skeletal muscle hypertrophy (MPO),HP:0003712,MP:0009461
+Cutaneous hamartoma (HPO),increased skin hamartoma incidence (MPO),HP:0031111,MP:0009469
+Ileitis (HPO),ileum inflammation (MPO),HP:0032564,MP:0009482
+Ductal carcinoma in situ (HPO),increased mammary gland ductal carcinoma incidence (MPO),HP:0030075,MP:0009508
+Titubation (HPO),titubation (MPO),HP:0030187,MP:0009514
+Elliptocytosis (HPO),elliptocytosis (MPO),HP:0004445,MP:0009547
+Abnormal platelet aggregation (HPO),abnormal platelet aggregation (MPO),HP:0030402,MP:0009548
+Impaired platelet aggregation (HPO),decreased platelet aggregation (MPO),HP:0003540,MP:0009549
+Hypergranulosis (HPO),hypergranulosis (MPO),HP:0025114,MP:0009600
+Renal atrophy (HPO),kidney degeneration (MPO),HP:0012585,MP:0009641
+Azotemia (HPO),uremia (MPO),HP:0002157,MP:0009644
+Crystalluria (HPO),crystalluria (MPO),HP:0020074,MP:0009645
+Urinary bladder inflammation (HPO),urinary bladder inflammation (MPO),HP:0100577,MP:0009646
+Ectopic pregnancy (HPO),ectopic pregnancy (MPO),HP:0031456,MP:0009668
+Orthokeratotic hyperkeratosis (HPO),orthokeratosis (MPO),HP:0025080,MP:0009675
+Orthokeratosis (HPO),orthokeratosis (MPO),HP:0040162,MP:0009675
+Increased circulating chylomicron concentration (HPO),hyperchylomicronemia (MPO),HP:0012238,MP:0009699
+Atresia of the external auditory canal (HPO),absent external auditory canal (MPO),HP:0000413,MP:0009707
+Anhedonia (HPO),anhedonia (MPO),HP:0012154,MP:0009710
+Preaxial polydactyly (HPO),preaxial polydactyly (MPO),HP:0100258,MP:0009743
+Postaxial polydactyly (HPO),postaxial polydactyly (MPO),HP:0100259,MP:0009744
+Seborrheic dermatitis (HPO),seborrheic dermatitis (MPO),HP:0001051,MP:0009792
+Corneal ulceration (HPO),cornea ulcer (MPO),HP:0012804,MP:0009825
+Skin detachment (HPO),skin detachment (MPO),HP:0032156,MP:0009827
+Gastroparesis (HPO),impaired gastric peristalsis (MPO),HP:0002578,MP:0009854
+Midface retrusion (HPO),midface retrusion (MPO),HP:0011800,MP:0009855
+Nephrosclerosis (HPO),nephrosclerosis (MPO),HP:0009741,MP:0009860
+Abnormal ascending aorta morphology (HPO),abnormal ascending aorta morphology (MPO),HP:0031784,MP:0009867
+Abnormal descending aorta morphology (HPO),abnormal descending aorta morphology (MPO),HP:0031934,MP:0009869
+Narrow mouth (HPO),microstomia (MPO),HP:0000160,MP:0009880
+Wide mouth (HPO),macrostomia (MPO),HP:0000154,MP:0009881
+Microglossia (HPO),tongue hypoplasia (MPO),HP:0000171,MP:0009904
+Aglossia (HPO),absent tongue (MPO),HP:0012730,MP:0009905
+Bifid tongue (HPO),bifurcated tongue (MPO),HP:0010297,MP:0009910
+Myelomeningocele (HPO),meningomyelocele (MPO),HP:0002475,MP:0009929
+Fine hair (HPO),fuzzy hair (MPO),HP:0002213,MP:0009930
+Vitiligo (HPO),variable depigmentation (MPO),HP:0001045,MP:0010016
+Aciduria (HPO),aciduria (MPO),HP:0012072,MP:0010028
+Paraphimosis (HPO),paraphimosis (MPO),HP:0100588,MP:0010033
+Abnormal circulating creatine concentration (HPO),abnormal circulating creatine level (MPO),HP:0012113,MP:0010063
+Increased RBC distribution width (HPO),increased red blood cell distribution width (MPO),HP:0031965,MP:0010067
+Stomatocytosis (HPO),stomatocytosis (MPO),HP:0004446,MP:0010074
+Osteochondroma (HPO),increased osteochondroma incidence (MPO),HP:0030431,MP:0010079
+Abnormal sacrum morphology (HPO),abnormal sacrum morphology (MPO),HP:0005107,MP:0010113
+Hypervolemia (HPO),hypervolemia (MPO),HP:0011105,MP:0010127
+Hypovolemia (HPO),hypovolemia (MPO),HP:0011106,MP:0010128
+Arteritis (HPO),arteritis (MPO),HP:0012089,MP:0010138
+Umbilical hernia (HPO),umbilical hernia (MPO),HP:0001537,MP:0010146
+Hemolytic anemia (HPO),hemolysis (MPO),HP:0001878,MP:0010163
+Dacryocytosis (HPO),dacryocytosis (MPO),HP:0032563,MP:0010176
+Acanthocytosis (HPO),acanthocytosis (MPO),HP:0001927,MP:0010177
+Aplasia of lymphatic vessels (HPO),absent lymphatic vessels (MPO),HP:0045006,MP:0010194
+Agalactia (HPO),lactation failure (MPO),HP:0031109,MP:0010249
+Subcapsular cataract (HPO),subcapsular cataracts (MPO),HP:0000523,MP:0010251
+Abnormal apolipoprotein level (HPO),abnormal apolipoprotein level (MPO),HP:0025201,MP:0010331
+Pleural effusion (HPO),pleural effusion (MPO),HP:0002202,MP:0010334
+Abnormal epiglottis morphology (HPO),abnormal epiglottis morphology (MPO),HP:0005483,MP:0010371
+Primum atrial septal defect (HPO),ostium primum atrial septal defect (MPO),HP:0010445,MP:0010404
+Secundum atrial septal defect (HPO),ostium secundum atrial septal defect (MPO),HP:0001684,MP:0010405
+Common atrium (HPO),common atrium (MPO),HP:0011565,MP:0010406
+Coronary sinus atrial septal defect (HPO),coronary sinus atrial septal defect (MPO),HP:0011643,MP:0010407
+Sinus venosus atrial septal defect (HPO),sinus venosus atrial septal defect (MPO),HP:0011567,MP:0010408
+Cor triatriatum (HPO),cor triatriatum (MPO),HP:0010774,MP:0010409
+Cor triatriatum dexter (HPO),cor triatriatum dextrum (MPO),HP:0011566,MP:0010411
+Atrioventricular canal defect (HPO),atrioventricular septal defect (MPO),HP:0006695,MP:0010412
+Complete atrioventricular canal defect (HPO),complete atrioventricular septal defect (MPO),HP:0001674,MP:0010413
+Partial atrioventricular canal defect (HPO),partial atrioventricular septal defect (MPO),HP:0011577,MP:0010414
+Intermediate atrioventricular canal defect (HPO),intermediate atrioventricular septal defect (MPO),HP:0011576,MP:0010415
+Membranous ventricular septal aneurysm (HPO),interventricular septum membranous part aneurysm (MPO),HP:0030958,MP:0010416
+Subarterial ventricular septal defect (HPO),subarterial ventricular septal defect (MPO),HP:0011681,MP:0010417
+Perimembranous ventricular septal defect (HPO),perimembraneous ventricular septal defect (MPO),HP:0011682,MP:0010418
+Inlet ventricular septal defect (HPO),inlet ventricular septal defect (MPO),HP:0011622,MP:0010419
+Muscular ventricular septal defect (HPO),muscular ventricular septal defect (MPO),HP:0011623,MP:0010420
+Double outlet left ventricle (HPO),double outlet left ventricle (MPO),HP:0011581,MP:0010427
+Supracardiac total anomalous pulmonary venous connection (HPO),"total anomalous pulmonary venous connection, supracardiac (MPO)",HP:0011719,MP:0010430
+Atrial situs inversus (HPO),atrial situs inversus (MPO),HP:0011538,MP:0010431
+Single ventricle (HPO),common ventricle (MPO),HP:0001750,MP:0010432
+Double inlet left ventricle (HPO),double inlet heart left ventricle (MPO),HP:0011555,MP:0010433
+Double inlet right ventricle (HPO),double inlet heart right ventricle (MPO),HP:0011556,MP:0010434
+Total anomalous pulmonary venous return (HPO),total anomalous pulmonary venous connection (MPO),HP:0005160,MP:0010441
+Partial anomalous pulmonary venous return (HPO),partial anomalous pulmonary venous connection (MPO),HP:0010773,MP:0010442
+Cardiac total anomalous pulmonary venous connection (HPO),"total anomalous pulmonary venous connection, intracardiac (MPO)",HP:0011720,MP:0010443
+Mixed total anomalous pulmonary venous connection (HPO),"total anomalous pulmonary venous connection, mixed (MPO)",HP:0011722,MP:0010445
+Hypoplastic left heart (HPO),heart left ventricle hypoplasia (MPO),HP:0004383,MP:0010446
+Aortopulmonary window (HPO),aortopulmonary window (MPO),HP:0011604,MP:0010455
+Anomalous origin of one pulmonary artery from ascending aorta (HPO),hemitruncus (MPO),HP:0011660,MP:0010456
+Pulmonary artery aneurysm (HPO),pulmonary artery aneurysm (MPO),HP:0004937,MP:0010462
+Vascular ring (HPO),vascular ring (MPO),HP:0010775,MP:0010466
+Pulmonary artery sling (HPO),pulmonary artery sling (MPO),HP:0004961,MP:0010467
+Ascending aorta hypoplasia (HPO),ascending aorta hypoplasia (MPO),HP:0031935,MP:0010469
+Supravalvular aortic stenosis (HPO),supravalvar aortic stenosis (MPO),HP:0004381,MP:0010471
+Descending aorta hypoplasia (HPO),descending aorta hypoplasia (MPO),HP:0025495,MP:0010474
+Anomalous origin of left coronary artery from the pulmonary artery (HPO),anomalous pulmonary origin of left coronary artery (MPO),HP:0011638,MP:0010475
+Coronary artery fistula (HPO),coronary fistula (MPO),HP:0011641,MP:0010476
+Coronary artery aneurysm (HPO),coronary artery aneurysm (MPO),HP:0030882,MP:0010477
+Pulmonary arteriovenous malformation (HPO),pulmonary arteriovenous malformation (MPO),HP:0006548,MP:0010480
+Aorto-left ventricular tunnel (HPO),left ventricle to aorta tunnel (MPO),HP:0031932,MP:0010481
+Dilatation of the sinus of Valsalva (HPO),aortic sinus aneurysm (MPO),HP:0011645,MP:0010483
+Abnormal EKG (HPO),abnormal heart electrocardiography waveform feature (MPO),HP:0003115,MP:0010508
+Shortened PR interval (HPO),shortened PR interval (MPO),HP:0005165,MP:0010511
+Atrioventricular block (HPO),atrioventricular block (MPO),HP:0001678,MP:0010519
+Sinoatrial block (HPO),sinoatrial block (MPO),HP:0012723,MP:0010520
+Coarctation of abdominal aorta (HPO),abdominal aorta coarctation (MPO),HP:0004974,MP:0010525
+Hepatic arteriovenous malformation (HPO),hepatic arteriovenous malformation (MPO),HP:0006574,MP:0010529
+Cerebral arteriovenous malformation (HPO),cerebral arteriovenous malformation (MPO),HP:0002408,MP:0010530
+Gastrointestinal arteriovenous malformation (HPO),gastrointestinal arteriovenous malformation (MPO),HP:0002629,MP:0010531
+Ebstein anomaly of the tricuspid valve (HPO),Ebstein's malformation of tricuspid valve (MPO),HP:0010316,MP:0010536
+Heart block (HPO),heart block (MPO),HP:0012722,MP:0010559
+Unicuspid aortic valve (HPO),unicuspid aortic valve (MPO),HP:0012561,MP:0010596
+Absent aortic valve cusps (HPO),absent aortic valve cusps (MPO),HP:0031569,MP:0010597
+Abnormal pulmonary valve cusp morphology (HPO),abnormal pulmonary valve cusp morphology (MPO),HP:0031566,MP:0010602
+Muscular subvalvular aortic stenosis (HPO),muscular subaortic stenosis (MPO),HP:0001691,MP:0010612
+Abnormal mitral valve leaflet morphology (HPO),abnormal mitral valve cusp morphology (MPO),HP:0031480,MP:0010614
+Abnormal tricuspid valve leaflet morphology (HPO),abnormal tricuspid valve cusp morphology (MPO),HP:0031443,MP:0010622
+Aortopulmonary collateral arteries (HPO),aorta pulmonary collateral arteries (MPO),HP:0031834,MP:0010635
+Bundle branch block (HPO),bundle branch block (MPO),HP:0011710,MP:0010636
+Sinus bradycardia (HPO),sinus bradycardia (MPO),HP:0001688,MP:0010637
+Descending thoracic aorta aneurysm (HPO),descending thoracic aorta aneurysm (MPO),HP:0004959,MP:0010660
+Remnants of the hyaloid vascular system (HPO),persistent hyperplastic primary vitreous (MPO),HP:0007968,MP:0010711
+Iris coloboma (HPO),iris coloboma (MPO),HP:0000612,MP:0010714
+Retinal coloboma (HPO),retina coloboma (MPO),HP:0000480,MP:0010715
+Optic nerve coloboma (HPO),optic disk coloboma (MPO),HP:0000588,MP:0010716
+Optic nerve coloboma (HPO),optic nerve coloboma (MPO),HP:0000588,MP:0010717
+Ciliary body coloboma (HPO),ciliary body coloboma (MPO),HP:0020006,MP:0010719
+Delayed cranial suture closure (HPO),delayed cranial suture closure (MPO),HP:0000270,MP:0010743
+Abnormality of visual evoked potentials (HPO),abnormal visual evoked potential (MPO),HP:0000649,MP:0010748
+Abnormal thumb morphology (HPO),abnormal pollex morphology (MPO),HP:0001172,MP:0010772
+Pneumothorax (HPO),pneumothorax (MPO),HP:0002107,MP:0010822
+Pulmonary situs inversus (HPO),lung situs inversus (MPO),HP:0011616,MP:0010854
+Intrauterine growth retardation (HPO),prenatal growth retardation (MPO),HP:0001511,MP:0010865
+Esophageal stenosis (HPO),esophagus stenosis (MPO),HP:0010450,MP:0010884
+Abnormal respiratory epithelium morphology (HPO),abnormal respiratory epithelium morphology (MPO),HP:0012253,MP:0010942
+Alveolar proteinosis (HPO),pulmonary alveolar proteinosis (MPO),HP:0006517,MP:0010998
+Bronchiectasis (HPO),bronchiectasis (MPO),HP:0002110,MP:0011012
+Bronchiolectasis (HPO),bronchiolectasis (MPO),HP:0410397,MP:0011013
+Abnormal respiratory motile cilium morphology (HPO),abnormal respiratory motile cilium morphology (MPO),HP:0005938,MP:0011050
+Abnormal respiratory motile cilium physiology (HPO),abnormal respiratory motile cilium physiology (MPO),HP:0012261,MP:0011055
+Abnormal gastrointestinal motility (HPO),abnormal gastrointestinal motility (MPO),HP:0030895,MP:0011082
+Abnormal dermoepidermal junction morphology (HPO),abnormal epidermal-dermal junction morphology (MPO),HP:0031538,MP:0011159
+Panniculitis (HPO),panniculitis (MPO),HP:0012490,MP:0011164
+Lipodystrophy (HPO),lipodystrophy (MPO),HP:0009125,MP:0011174
+Platyspondyly (HPO),platyspondylia (MPO),HP:0000926,MP:0011175
+Abnormal vitamin B12 level (HPO),abnormal vitamin B12 level (MPO),HP:0040126,MP:0011227
+Abdominal situs inversus (HPO),abdominal situs inversus (MPO),HP:0003363,MP:0011249
+Abdominal situs ambiguus (HPO),abdominal situs ambiguus (MPO),HP:0031565,MP:0011250
+Situs inversus totalis (HPO),situs inversus totalis (MPO),HP:0001696,MP:0011252
+Situs inversus with levocardia (HPO),situs inversus with levocardia (MPO),HP:0031592,MP:0011253
+Ureteral hypoplasia (HPO),ureter hypoplasia (MPO),HP:0032464,MP:0011298
+Renal corticomedullary cysts (HPO),kidney corticomedullary cysts (MPO),HP:0000108,MP:0011308
+Abnormal renal artery morphology (HPO),abnormal renal artery morphology (MPO),HP:0008776,MP:0011317
+Diffuse mesangial sclerosis (HPO),expanded mesangial matrix (MPO),HP:0001967,MP:0011353
+Pelvic kidney (HPO),pelvic kidney (MPO),HP:0000125,MP:0011361
+Pyelonephritis (HPO),pyelonephritis (MPO),HP:0012330,MP:0011403
+Tubulointerstitial nephritis (HPO),tubulointerstitial nephritis (MPO),HP:0001970,MP:0011405
+Pyuria (HPO),pyuria (MPO),HP:0012085,MP:0011420
+Cylindruria (HPO),cylindruria (MPO),HP:0012615,MP:0011421
+Mesangial hypercellularity (HPO),mesangial cell hyperplasia (MPO),HP:0012574,MP:0011427
+Mesangiolysis (HPO),mesangiolysis (MPO),HP:0030762,MP:0011430
+Bilirubinuria (HPO),bilirubinuria (MPO),HP:0031811,MP:0011464
+Mucopolysacchariduria (HPO),increased urine glycosaminoglycan level (MPO),HP:0008155,MP:0011473
+Anterior synechiae of the anterior chamber (HPO),anterior iris synechia (MPO),HP:0011483,MP:0011481
+Ureteropelvic junction obstruction (HPO),ureteropelvic junction obstruction (MPO),HP:0000074,MP:0011491
+Ureterovesical junction obstruction (HPO),ureterovesical junction obstruction (MPO),HP:0030735,MP:0011492
+Ureteral duplication (HPO),double ureter (MPO),HP:0000073,MP:0011493
+Bowing of the long bones (HPO),camptomelia (MPO),HP:0006487,MP:0011505
+Purpura (HPO),purpura (MPO),HP:0000979,MP:0011515
+Aspartylglucosaminuria (HPO),aspartylglucosaminuria (MPO),HP:0012068,MP:0011516
+Pollakisuria (HPO),increased urination frequency (MPO),HP:0100515,MP:0011535
+Enlarged Eustachian valve (HPO),enlarged inferior vena cava valve (MPO),HP:0031591,MP:0011571
+Decreased lipoprotein lipase activity (HPO),decreased lipoprotein lipase activity (MPO),HP:0031209,MP:0011579
+Submucous cleft hard palate (HPO),submucous cleft palate (MPO),HP:0000176,MP:0011615
+Abnormal mitochondrial shape (HPO),abnormal mitochondrial shape (MPO),HP:0012087,MP:0011633
+Abnormal systemic arterial morphology (HPO),abnormal systemic artery morphology (MPO),HP:0011004,MP:0011655
+Coronary arteriovenous fistula (HPO),coronary arterio-venous fistula (MPO),HP:0031563,MP:0011656
+Interrupted aortic arch type A (HPO),"interrupted aortic arch, type a (MPO)",HP:0011612,MP:0011658
+Interrupted aortic arch type B (HPO),"interrupted aortic arch, type b (MPO)",HP:0011613,MP:0011659
+Ectopia cordis (HPO),ectopia cordis (MPO),HP:0001683,MP:0011660
+Type I truncus arteriosus (HPO),persistent truncus arteriosus type i (MPO),HP:0004384,MP:0011661
+Type II truncus arteriosus (HPO),persistent truncus arteriosus type ii (MPO),HP:0011608,MP:0011662
+Type III truncus arteriosus (HPO),persistent truncus arteriosus type iii (MPO),HP:0011609,MP:0011663
+Type IV truncus arteriosus (HPO),persistent truncus arteriosus type iv (MPO),HP:0011610,MP:0011664
+Dextrotransposition of the great arteries (HPO),d-loop transposition of the great arteries (MPO),HP:0031348,MP:0011665
+Double outlet right ventricle with doubly committed ventricular septal defect without pulmonary stenosis (HPO),"double outlet right ventricle, doubly committed ventricular septal defect (MPO)",HP:0011652,MP:0011669
+Double outlet right ventricle with non-committed ventricular septal defect without pulmonary stenosis (HPO),"double outlet right ventricle, noncommitted ventricular septal defect (MPO)",HP:0011654,MP:0011670
+Hypoplastic tricuspid valve (HPO),tricuspid valve hypoplasia (MPO),HP:0011573,MP:0011680
+Gray matter heterotopia (HPO),ectopic neuron (MPO),HP:0002282,MP:0011723
+Ectopic ovary (HPO),ectopic ovary (MPO),HP:0031086,MP:0011727
+Hypodipsia (HPO),hypodipsia (MPO),HP:0025382,MP:0011737
+Anasarca (HPO),anasarca (MPO),HP:0012050,MP:0011738
+Nitrituria (HPO),increased urine nitrite level (MPO),HP:0031812,MP:0011741
+Isolation of the left subclavian artery (HPO),isolation of the left subclavian artery (MPO),HP:0031633,MP:0011745
+Myelofibrosis (HPO),myelofibrosis (MPO),HP:0011974,MP:0011747
+Perivascular fibrosis (HPO),perivascular fibrosis (MPO),HP:0032200,MP:0011749
+Urethritis (HPO),urethritis (MPO),HP:0500006,MP:0011763
+Ureterocele (HPO),ureterocele (MPO),HP:0000070,MP:0011767
+Rectal atresia (HPO),rectal atresia (MPO),HP:0025023,MP:0011775
+Rectourethral fistula (HPO),rectourethral fistula (MPO),HP:0025407,MP:0011786
+Urethral obstruction (HPO),urethra obstruction (MPO),HP:0000796,MP:0011801
+Duplication of renal pelvis (HPO),double kidney pelvis (MPO),HP:0005580,MP:0011803
+Vesicovaginal fistula (HPO),vesicovaginal fistula (MPO),HP:0001586,MP:0011829
+Patent urachus (HPO),patent urachus (MPO),HP:0010479,MP:0011852
+Cerebral edema (HPO),cerebral edema (MPO),HP:0002181,MP:0011854
+Podocyte hypertrophy (HPO),podocyte hypertrophy (MPO),HP:0020133,MP:0011871
+Absent penis (HPO),absent penis (MPO),HP:0030261,MP:0011876
+Agenesis of the diaphragm (HPO),absent diaphragm (MPO),HP:0008986,MP:0011883
+Abnormal circulating transferrin level (HPO),abnormal circulating transferrin level (MPO),HP:0032385,MP:0011892
+Abnormal S wave (HPO),abnormal S wave (MPO),HP:0032195,MP:0011920
+Abnormal circulating osteocalcin level (HPO),abnormal circulating osteocalcin level (MPO),HP:0031427,MP:0011922
+Retinal thinning (HPO),decreased total retina thickness (MPO),HP:0030329,MP:0011965
+Abnormal circulating glycerol level (HPO),abnormal circulating glycerol level (MPO),HP:0031795,MP:0011973
+Febrile seizures (HPO),febrile seizures (MPO),HP:0002373,MP:0012011
+Spasticity (HPO),spasticity (MPO),HP:0001257,MP:0012051
+Hypertonia (HPO),hypertonicity (MPO),HP:0001276,MP:0012052
+Limb hypertonia (HPO),limb hypertonicity (MPO),HP:0002509,MP:0012053
+Webbed neck (HPO),webbed neck (MPO),HP:0000465,MP:0012077
+Chylous ascites (HPO),chylous ascites (MPO),HP:0012281,MP:0012080
+Sclerocornea (HPO),sclerocornea (MPO),HP:0000647,MP:0012121
+Oligohydramnios (HPO),oligohydramnios (MPO),HP:0001562,MP:0012171
+Abnormal hypoxanthine-guanine phosphoribosyltransferase level (HPO),abnormal hypoxanthine-guanine phosphoribosyltransferase level (MPO),HP:0031821,MP:0012208
+Reduced hypoxanthine-guanine phosphoribosyltransferase level (HPO),decreased hypoxanthine-guanine phosphoribosyltransferase level (MPO),HP:0031823,MP:0012209
+Hypoplastic philtrum (HPO),philtrum hypoplasia (MPO),HP:0005326,MP:0012258
+Meningocele (HPO),meningocele (MPO),HP:0002435,MP:0012259
+Encephalocele (HPO),encephalomeningocele (MPO),HP:0002084,MP:0012260
+Reduced circulating fibronectin level (HPO),decreased circulating fibronectin level (MPO),HP:0032463,MP:0012332
+Hyperkalemia (HPO),hyperkalemia (MPO),HP:0002153,MP:0012339
+Abnormal prothrombin time (HPO),abnormal prothrombin time (MPO),HP:0032199,MP:0012354
+Decreased prothrombin time (HPO),decreased prothrombin time (MPO),HP:0032198,MP:0012355
+Prolonged prothrombin time (HPO),increased prothrombin time (MPO),HP:0008151,MP:0012356
+Prolonged partial thromboplastin time (HPO),abnormal partial thromboplastin time (MPO),HP:0003645,MP:0012357
+Prolonged partial thromboplastin time (HPO),increased partial thromboplastin time (MPO),HP:0003645,MP:0012359
+Pectus excavatum (HPO),pectus excavatum (MPO),HP:0000767,MP:0012514
+Vascular remnant arising from the disc (HPO),persistent hyaloid artery (MPO),HP:0009922,MP:0012538
+Syringomyelia (HPO),syringomyelia (MPO),HP:0003396,MP:0012545
+Triangular face (HPO),triangular face (MPO),HP:0000325,MP:0012546
+Myelomeningocele (HPO),spina bifida cystica (MPO),HP:0002475,MP:0012547
+Hypoxemia (HPO),hypoxemia (MPO),HP:0012418,MP:0012549
+Respiratory acidosis (HPO),respiratory acidosis (MPO),HP:0005972,MP:0012550
+Metabolic acidosis (HPO),metabolic acidosis (MPO),HP:0001942,MP:0012551
+Lactic acidosis (HPO),lactic acidosis (MPO),HP:0003128,MP:0012552
+Myelin outfoldings (HPO),tomacula (MPO),HP:0004336,MP:0012674
+Myelin tomacula (HPO),tomacula (MPO),HP:0030175,MP:0012674
+Diplomyelia (HPO),diplomyelia (MPO),HP:0100562,MP:0012711
+Abnormal common carotid artery morphology (HPO),abnormal common carotid artery morphology (MPO),HP:0430021,MP:0012729
+Epistaxis (HPO),epistaxis (MPO),HP:0000421,MP:0013127
+Macrodactyly (HPO),macrodactyly (MPO),HP:0004099,MP:0013149
+Spontaneous abortion (HPO),miscarriage (MPO),HP:0005268,MP:0013172
+Abnormal haptoglobin level (HPO),abnormal haptoglobin level (MPO),HP:0020179,MP:0013215
+Abnormal mouth floor morphology (HPO),abnormal mouth floor morphology (MPO),HP:0410012,MP:0013262
+Ankyloglossia (HPO),tongue ankylosis (MPO),HP:0010296,MP:0013264
+Bladder exstrophy (HPO),urinary bladder exstrophy (MPO),HP:0002836,MP:0013282
+Impaired renal concentrating ability (HPO),isosthenuria (MPO),HP:0004727,MP:0013305
+Visceromegaly (HPO),visceromegaly (MPO),HP:0003271,MP:0013328
+Pinealoma (HPO),increased pineal gland tumor incidence (MPO),HP:0010799,MP:0013365
+Parotitis (HPO),parotid gland inflammation (MPO),HP:0011850,MP:0013367
+Anhidrosis (HPO),abnormal sweat gland physiology (MPO),HP:0000970,MP:0013368
+Anhidrosis (HPO),anhidrosis (MPO),HP:0000970,MP:0013370
+Hypohidrosis (HPO),hypohidrosis (MPO),HP:0000966,MP:0013371
+Hyperhidrosis (HPO),hyperhidrosis (MPO),HP:0000975,MP:0013372
+Adenoma sebaceum (HPO),increased sebaceous gland adenoma incidence (MPO),HP:0009720,MP:0013383
+Chalazion (HPO),Meibomian gland cyst (MPO),HP:0010605,MP:0013390
+Posterior blepharitis (HPO),abnormal Meibomian gland physiology (MPO),HP:0025610,MP:0013391
+Posterior blepharitis (HPO),Meibomian gland inflammation (MPO),HP:0025610,MP:0013392
+Symblepharon (HPO),symblepharon (MPO),HP:0430007,MP:0013393
+Nasolacrimal duct obstruction (HPO),nasolacrimal duct obstruction (MPO),HP:0000579,MP:0013451
+Keratoconjunctivitis sicca (HPO),keratoconjunctivitis sicca (MPO),HP:0001097,MP:0013466
+Scleritis (HPO),scleritis (MPO),HP:0100532,MP:0013479
+Oral erythroplakia (HPO),oral erythroplakia (MPO),HP:0030934,MP:0013492
+Testicular atrophy (HPO),testis degeneration (MPO),HP:0000029,MP:0013600
+Abnormal erythroid lineage cell morphology (HPO),abnormal erythroid lineage cell morphology (MPO),HP:0012130,MP:0013659
+Stridor (HPO),stridor (MPO),HP:0010307,MP:0013752
+Tracheomalacia (HPO),tracheomalacia (MPO),HP:0002779,MP:0013753
+Bone marrow hypocellularity (HPO),bone marrow failure (MPO),HP:0005528,MP:0013776
+Narrow naris (HPO),small external nares (MPO),HP:0009933,MP:0013789
+Single naris (HPO),single external naris (MPO),HP:0009932,MP:0013790
+Encephalopathy (HPO),encephalopathy (MPO),HP:0001298,MP:0013806
+Generalized edema (HPO),generalized edema (MPO),HP:0007430,MP:0013807
+Celiac artery compression (HPO),celiac artery compression (MPO),HP:0012327,MP:0013856
+Abnormal eyelash morphology (HPO),abnormal eyelid cilium morphology (MPO),HP:0000499,MP:0013895
+Enthesitis (HPO),enthesitis (MPO),HP:0100686,MP:0013942
+Meconium ileus (HPO),meconium ileus (MPO),HP:0004401,MP:0014036
+Dry hair (HPO),dry hair (MPO),HP:0011359,MP:0014053
+Ethmocephaly (HPO),ethmocephaly (MPO),HP:0030779,MP:0014061
+Lafora bodies (HPO),Lafora bodies (MPO),HP:0100318,MP:0014063
+Argyrophilic inclusion bodies (HPO),argyrophilic inclusion bodies (MPO),HP:0100317,MP:0014064
+Lewy bodies (HPO),Lewy bodies (MPO),HP:0100315,MP:0014065
+Hirano bodies (HPO),Hirano bodies (MPO),HP:0100316,MP:0014067
+Hemangioma (HPO),hemangioma (MPO),HP:0001028,MP:0014086
+Focal-onset seizure (HPO),focal seizures (MPO),HP:0007359,MP:0014120
+Thymoma (HPO),increased thymoma incidence (MPO),HP:0100522,MP:0014127
+Alacrima (HPO),alacrima (MPO),HP:0000522,MP:0014157
+Increased circulating cortisol level (HPO),increased circulating cortisol level (MPO),HP:0003118,MP:0014161
+Decreased circulating cortisol level (HPO),decreased circulating cortisol level (MPO),HP:0008163,MP:0014162
+Abnormal suspensory ligament of lens morphology (HPO),abnormal cilary zonule morphology (MPO),HP:0012628,MP:0014176
+Testicular fibrosis (HPO),testis fibrosis (MPO),HP:0012860,MP:0014189
+Short ear (HPO),short ears (MPO),HP:0400005,MP:0020084
+Long ear (HPO),long ears (MPO),HP:0400004,MP:0020085
+Abnormality of body mass index (HPO),abnormal body mass index (MPO),HP:0045081,MP:0020182
+Lacrimation abnormality (HPO),abnormal tear production (MPO),HP:0000632,MP:0020218
+Epiphora (HPO),increased tear production (MPO),HP:0009926,MP:0020219
+Increased tear production (HPO),increased tear production (MPO),HP:0031731,MP:0020219
+Decreased lacrimation (HPO),decreased tear production (MPO),HP:0000633,MP:0020220
+Astasia (HPO),astasia (MPO),HP:0020037,MP:0020289
+Retinal perforation (HPO),rhegmatogenous retinal detachment (MPO),HP:0011958,MP:0020441
+Rhegmatogenous retinal detachment (HPO),rhegmatogenous retinal detachment (MPO),HP:0012230,MP:0020441
+Exudative retinal detachment (HPO),serous retinal detachment (MPO),HP:0012231,MP:0020442
+Tractional retinal detachment (HPO),tractional retinal detachment (MPO),HP:0007917,MP:0020443
+Elevated plasma citrulline (HPO),increased circulating citrulline level (MPO),HP:0011966,MP:0020836
+Subglottic stenosis (HPO),subglottis stenosis (MPO),HP:0001607,MP:0030001
+Hippocampal atrophy (HPO),hippocampus atrophy (MPO),HP:0410170,MP:0030003
+Hypoplastic hippocampus (HPO),hippocampus hypoplasia (MPO),HP:0025517,MP:0030004
+Wormian bones (HPO),Wormian bones (MPO),HP:0002645,MP:0030030
+Abnormality of the forehead (HPO),abnormal forehead morphology (MPO),HP:0000290,MP:0030031
+Hypoplastic nasal bridge (HPO),small nasal bridge (MPO),HP:0005281,MP:0030035
+Short nasal bridge (HPO),short nasal bridge (MPO),HP:0003194,MP:0030036
+Prominent forehead (HPO),prominent forehead (MPO),HP:0011220,MP:0030049
+Mandibular prognathia (HPO),large mandible (MPO),HP:0000303,MP:0030050
+Erythrodontia (HPO),erythrodontia (MPO),HP:0030756,MP:0030058
+Small face (HPO),face hypoplasia (MPO),HP:0000274,MP:0030065
+Abnormal facial shape (HPO),abnormal face shape (MPO),HP:0001999,MP:0030071
+Synotia (HPO),synotia (MPO),HP:0100663,MP:0030078
+Small foramen magnum (HPO),foramen magnum stenosis (MPO),HP:0002677,MP:0030094
+Preauricular pit (HPO),preauricular pit (MPO),HP:0004467,MP:0030097
+Periorbital fullness (HPO),periorbital fullness (MPO),HP:0000629,MP:0030098
+Hemifacial hypoplasia (HPO),hemifacial hypoplasia (MPO),HP:0011332,MP:0030100
+Carious teeth (HPO),carious teeth (MPO),HP:0000670,MP:0030101
+Torticollis (HPO),torticollis (MPO),HP:0000473,MP:0030126
+Glossitis (HPO),tongue inflammation (MPO),HP:0000206,MP:0030129
+Gingivitis (HPO),gum inflammation (MPO),HP:0000230,MP:0030130
+Periodontitis (HPO),periodontium inflammation (MPO),HP:0000704,MP:0030132
+Facial tics (HPO),facial muscle spasm (MPO),HP:0011468,MP:0030143
+Thick upper lip vermilion (HPO),thick upper lip (MPO),HP:0000215,MP:0030169
+Hypoplastic nasal septum (HPO),small nasal septum (MPO),HP:0005104,MP:0030197
+Deviated nasal septum (HPO),deviated nasal septum (MPO),HP:0004411,MP:0030199
+Thick nasal septum (HPO),thick nasal septum (MPO),HP:0009746,MP:0030205
+Abnormal hyoglossus muscle morphology (HPO),abnormal hyoglossus muscle morphology (MPO),HP:3000051,MP:0030212
+Fasciculations (HPO),muscle fasciculation (MPO),HP:0002380,MP:0030214
+Tongue fasciculations (HPO),tongue muscle fasciculation (MPO),HP:0001308,MP:0030216
+Pyriform aperture stenosis (HPO),piriform aperture stenosis (MPO),HP:0025011,MP:0030218
+Mandibular hyperostosis (HPO),mandibular hyperostosis (MPO),HP:0004472,MP:0030223
+Narrow maxilla (HPO),narrow maxilla (MPO),HP:0002010,MP:0030248
+Vertical orbital dystopia (HPO),vertical orbital dystopia (MPO),HP:0030867,MP:0030253
+Frontal bossing (HPO),frontal bossing (MPO),HP:0002007,MP:0030262
+Frontal bossing (HPO),cranial bossing (MPO),HP:0002007,MP:0030263
+Parietal bossing (HPO),parietal bossing (MPO),HP:0000242,MP:0030265
+Retrognathia (HPO),retrogenia (MPO),HP:0000278,MP:0030270
+Micrognathia (HPO),mandibular retrognathia (MPO),HP:0000347,MP:0030273
+Hypoplasia of the maxilla (HPO),maxillary retrognathia (MPO),HP:0000327,MP:0030274
+Thickened calvaria (HPO),thick neurocranium (MPO),HP:0002684,MP:0030278
+Thin calvarium (HPO),thin neurocranium (MPO),HP:0010539,MP:0030279
+Absent soft palate (HPO),absent soft palate (MPO),HP:0031046,MP:0030290
+Microcephaly (HPO),small neurocranium (MPO),HP:0000252,MP:0030315
+Temporomandibular joint ankylosis (HPO),temporomandibular joint ankylosis (MPO),HP:0012478,MP:0030327
+Coronal craniosynostosis (HPO),premature coronal suture closure (MPO),HP:0004440,MP:0030350
+Sagittal craniosynostosis (HPO),premature sagittal suture closure (MPO),HP:0004442,MP:0030354
+Lambdoidal craniosynostosis (HPO),premature lambdoid suture closure (MPO),HP:0004443,MP:0030356
+Sclerotic cranial sutures (HPO),cranial suture sclerosis (MPO),HP:0005441,MP:0030359
+Metopic synostosis (HPO),premature metopic suture closure (MPO),HP:0011330,MP:0030367
+Hypoplastic facial bones (HPO),facial bone hypoplasia (MPO),HP:0002692,MP:0030386
+Craniosynostosis (HPO),premature fontanelle closure (MPO),HP:0001363,MP:0030392
+Premature closure of fontanelles (HPO),premature fontanelle closure (MPO),HP:0005458,MP:0030392
+Absent stapes head (HPO),absent stapes head (MPO),HP:0200111,MP:0030403
+Craniofacial hyperostosis (HPO),craniofacial hyperostosis (MPO),HP:0004493,MP:0030417
+Facial hyperostosis (HPO),facial hyperostosis (MPO),HP:0005465,MP:0030418
+Excessive cerumen (HPO),excessive cerumen (MPO),HP:0030789,MP:0030419
+Craniosynostosis (HPO),premature craniofacial suture closure (MPO),HP:0001363,MP:0030435
+Dental enamel pits (HPO),enamel pits (MPO),HP:0009722,MP:0030460
+Tooth abscess (HPO),tooth abscess (MPO),HP:0030757,MP:0030462
+Periapical tooth abscess (HPO),apical tooth abscess (MPO),HP:0030758,MP:0030463
+Fused teeth (HPO),fused teeth (MPO),HP:0011090,MP:0030472
+Pulp stones (HPO),dental pulp stones (MPO),HP:0003771,MP:0030491
+Rootless teeth (HPO),absent tooth root (MPO),HP:0011072,MP:0030495
+Taurodontia (HPO),taurodontia (MPO),HP:0000679,MP:0030496
+Conical tooth (HPO),conical tooth (MPO),HP:0000698,MP:0030499
+Multiple impacted teeth (HPO),tooth impaction (MPO),HP:0001571,MP:0030505
+Impacted tooth (HPO),tooth impaction (MPO),HP:0011079,MP:0030505
+Thoracoabdominal wall defect (HPO),thoracoabdominoschisis (MPO),HP:0100656,MP:0030579
+Dermal atrophy (HPO),skin atrophy (MPO),HP:0004334,MP:0030584
+Agenesis of permanent teeth (HPO),decreased tooth number (MPO),HP:0006349,MP:0030608
+Anodontia (HPO),absent teeth (MPO),HP:0000674,MP:0030610
+Hydroxyprolinemia (HPO),increased circulating hydroxyproline level (MPO),HP:0003260,MP:0030681
+Hydroxyprolinuria (HPO),hydroxyprolinuria (MPO),HP:0003080,MP:0030682
+Achilles tendon calcification (HPO),calcified calcaneal tendon (MPO),HP:0025441,MP:0030776
+Abnormality of the femoral head (HPO),abnormal femur head morphology (MPO),HP:0003368,MP:0030788
+Abnormality of the femoral neck (HPO),abnormal femur neck morphology (MPO),HP:0003367,MP:0030789
+Short femoral neck (HPO),short femur neck (MPO),HP:0100864,MP:0030793
+Hip dislocation (HPO),hip dislocation (MPO),HP:0002827,MP:0030796
+Joint laxity (HPO),joint laxity (MPO),HP:0001388,MP:0030797
+Flexion contracture (HPO),joint contracture (MPO),HP:0001371,MP:0030798
+Tendonitis (HPO),tendonitis (MPO),HP:0025230,MP:0030801
+Sacroiliac arthritis (HPO),sacroiliac joint inflammation (MPO),HP:0012317,MP:0030822
+Femur fracture (HPO),femur fracture (MPO),HP:0031846,MP:0030827
+Elbow dislocation (HPO),elbow dislocation (MPO),HP:0003042,MP:0030843
+Dislocated wrist (HPO),wrist dislocation (MPO),HP:0003994,MP:0030864
+Rachitic rosary (HPO),rachitic rosary (MPO),HP:0000897,MP:0030884
+Beaded ribs (HPO),rachitic rosary (MPO),HP:0000923,MP:0030884
+Aberrant melanosome maturation (HPO),abnormal melanosome maturation (MPO),HP:0007384,MP:0030915
+Giant melanosomes in melanocytes (HPO),enlarged melanosome (MPO),HP:0005592,MP:0030917
+Hypopyon (HPO),hypopyon (MPO),HP:0031615,MP:0030932
+Hyphema (HPO),hyphema (MPO),HP:0011886,MP:0030933
+Ketoacidosis (HPO),ketoacidosis (MPO),HP:0001993,MP:0030971
+Increased circulating osteocalcin level (HPO),increased circulating osteocalcin level (MPO),HP:0031428,MP:0030984
+Decreased circulating osteocalcin level (HPO),decreased circulating osteocalcin level (MPO),HP:0031429,MP:0030985
+Myelitis (HPO),spinal cord inflammation (MPO),HP:0012486,MP:0030987
+Neuritis (HPO),nerve inflammation (MPO),HP:0031002,MP:0030990
+Optic neuritis (HPO),optic nerve inflammation (MPO),HP:0100653,MP:0030991
+Macrotia (HPO),big ears (MPO),HP:0000400,MP:0000017
+Cochlear degeneration (HPO),cochlear degeneration (MPO),HP:0005102,MP:0000032
+Increased bone mineral density (HPO),increased bone mineral density (MPO),HP:0011001,MP:0000062
+Osteopenia (HPO),decreased bone mineral density (MPO),HP:0000938,MP:0000063
+Osteoporosis (HPO),osteoporosis (MPO),HP:0000939,MP:0000066
+Kyphoscoliosis (HPO),kyphoscoliosis (MPO),HP:0002751,MP:0000069
+Hypoplasia of the nasal bone (HPO),nasal bone hypoplasia (MPO),HP:0004646,MP:0000103
+Dental malocclusion (HPO),malocclusion (MPO),HP:0000689,MP:0000120
+Absent vertebra (HPO),absent vertebrae (MPO),HP:0008465,MP:0000138
+Rib fusion (HPO),rib fusion (MPO),HP:0000902,MP:0000154
+Kyphosis (HPO),kyphosis (MPO),HP:0002808,MP:0000160
+Scoliosis (HPO),scoliosis (MPO),HP:0002650,MP:0000161
+Hypoglycemia (HPO),hypoglycemia (MPO),HP:0001943,MP:0000189
+Hypercalcemia (HPO),increased circulating calcium level (MPO),HP:0003072,MP:0000194
+Hypocalcemia (HPO),decreased circulating calcium level (MPO),HP:0002901,MP:0000195
+Hypophosphatemia (HPO),decreased circulating phosphate level (MPO),HP:0002148,MP:0000198
+Abnormal leukocyte count (HPO),abnormal leukocyte cell number (MPO),HP:0011893,MP:0000217
+Monocytosis (HPO),increased monocyte cell number (MPO),HP:0012311,MP:0000220
+Neutropenia (HPO),decreased neutrophil cell number (MPO),HP:0001875,MP:0000222
+Monocytopenia (HPO),decreased monocyte cell number (MPO),HP:0012312,MP:0000223
+Overriding aorta (HPO),overriding aortic valve (MPO),HP:0002623,MP:0000273
+Abnormal ventricular septum morphology (HPO),abnormal interventricular septum morphology (MPO),HP:0010438,MP:0000281
+Abnormal heart valve morphology (HPO),abnormal heart valve morphology (MPO),HP:0001654,MP:0000285
+Hemoglobinuria (HPO),hemoglobinuria (MPO),HP:0003641,MP:0000315
+Abnormal mast cell morphology (HPO),abnormal mast cell morphology (MPO),HP:0100494,MP:0000359
+Hypertrichosis (HPO),excessive hair (MPO),HP:0000998,MP:0000412
+Sparse hair (HPO),sparse hair (MPO),HP:0008070,MP:0000416
+Wide nasal bridge (HPO),broad nasal bridge (MPO),HP:0000431,MP:0000449
+Gastrointestinal hemorrhage (HPO),gastrointestinal hemorrhage (MPO),HP:0002239,MP:0000465
+Long fibula (HPO),long fibula (MPO),HP:0003085,MP:0000482
+Rectal prolapse (HPO),rectal prolapse (MPO),HP:0002035,MP:0000493
+Renal agenesis (HPO),absent kidney (MPO),HP:0000104,MP:0000520
+Abnormal renal cortex morphology (HPO),abnormal kidney cortex morphology (MPO),HP:0011035,MP:0000521
+Absent radius (HPO),absent radius (MPO),HP:0003974,MP:0000553
+Polydactyly (HPO),polydactyly (MPO),HP:0010442,MP:0000562
+Oligodactyly (HPO),oligodactyly (MPO),HP:0012165,MP:0000565
+Abnormal liver morphology (HPO),abnormal liver morphology (MPO),HP:0410042,MP:0000598
+Hepatomegaly (HPO),enlarged liver (MPO),HP:0002240,MP:0000599
+Amyloidosis (HPO),amyloidosis (MPO),HP:0011034,MP:0000604
+Xerostomia (HPO),xerostomia (MPO),HP:0000217,MP:0000624
+Enlarged pituitary gland (HPO),enlarged pituitary gland (MPO),HP:0012505,MP:0000636
+Adrenal hypoplasia (HPO),adrenal gland hypoplasia (MPO),HP:0000835,MP:0000640
+Adrenal hyperplasia (HPO),enlarged adrenal glands (MPO),HP:0008221,MP:0000642
+Asplenia (HPO),absent spleen (MPO),HP:0001746,MP:0000690
+Splenomegaly (HPO),enlarged spleen (MPO),HP:0001744,MP:0000691
+Hypoplastic spleen (HPO),spleen hypoplasia (MPO),HP:0006270,MP:0000694
+Thymus hyperplasia (HPO),thymus hyperplasia (MPO),HP:0010516,MP:0000708
+Hypoplasia of the musculature (HPO),muscle hypoplasia (MPO),HP:0009004,MP:0000734
+Muscle weakness (HPO),muscle weakness (MPO),HP:0001324,MP:0000747
+Progressive muscle weakness (HPO),progressive muscle weakness (MPO),HP:0003323,MP:0000748
+Myopathy (HPO),myopathy (MPO),HP:0003198,MP:0000751
+Hernia of the abdominal wall (HPO),herniated abdominal wall (MPO),HP:0004299,MP:0000757
+Dilated third ventricle (HPO),dilated third ventricle (MPO),HP:0007082,MP:0000827
+Dilated fourth ventricle (HPO),dilated fourth ventricle (MPO),HP:0002198,MP:0000829
+Abnormal hypothalamus morphology (HPO),abnormal hypothalamus morphology (MPO),HP:0012286,MP:0000837
+Cerebellar hypoplasia (HPO),cerebellum hypoplasia (MPO),HP:0001321,MP:0000851
+Optic atrophy (HPO),optic nerve atrophy (MPO),HP:0000648,MP:0001059
+Hypoplasia of the uterus (HPO),uterus hypoplasia (MPO),HP:0000013,MP:0001121
+Abnormal ovarian morphology (HPO),abnormal ovary morphology (MPO),HP:0031065,MP:0001126
+Vaginal atresia (HPO),vagina atresia (MPO),HP:0000148,MP:0001144
+Decreased testicular size (HPO),small testis (MPO),HP:0008734,MP:0001147
+Pulmonary hypoplasia (HPO),pulmonary hypoplasia (MPO),HP:0002089,MP:0001178
+Absent skin pigmentation (HPO),absent skin pigmentation (MPO),HP:0200098,MP:0001189
+Psoriasiform dermatitis (HPO),psoriasis (MPO),HP:0003765,MP:0001193
+Epidermal hyperkeratosis (HPO),hyperkeratosis (MPO),HP:0007543,MP:0001242
+Tall stature (HPO),increased body height (MPO),HP:0000098,MP:0001254
+Short stature (HPO),decreased body height (MPO),HP:0004322,MP:0001255
+Increased body weight (HPO),increased body weight (MPO),HP:0004324,MP:0001260
+Obesity (HPO),obese (MPO),HP:0001513,MP:0001261
+Decreased body weight (HPO),decreased body weight (MPO),HP:0004325,MP:0001262
+Weight loss (HPO),weight loss (MPO),HP:0001824,MP:0001263
+Abdominal distention (HPO),distended abdomen (MPO),HP:0003270,MP:0001270
+Hypertelorism (HPO),ocular hypertelorism (MPO),HP:0000316,MP:0001300
+Cataract (HPO),cataract (MPO),HP:0000518,MP:0001304
+Abnormal conjunctiva morphology (HPO),abnormal conjunctiva morphology (MPO),HP:0000502,MP:0001310
+Abnormal cornea morphology (HPO),abnormal cornea morphology (MPO),HP:0000481,MP:0001312
+Corneal scarring (HPO),corneal scarring (MPO),HP:0000559,MP:0001316
+Abnormal pupil morphology (HPO),abnormal pupil morphology (MPO),HP:0000615,MP:0001317
+Abnormal lacrimal gland morphology (HPO),abnormal lacrimal gland morphology (MPO),HP:0011482,MP:0001346
+Polyphagia (HPO),polyphagia (MPO),HP:0002591,MP:0001433
+Abnormal cardiovascular system physiology (HPO),abnormal cardiovascular system physiology (MPO),HP:0011025,MP:0001544
+Hyperlipidemia (HPO),hyperlipidemia (MPO),HP:0003077,MP:0001548
+Hyperglycemia (HPO),hyperglycemia (MPO),HP:0003074,MP:0001559
+Hyperphosphatemia (HPO),increased circulating phosphate level (MPO),HP:0002905,MP:0001566
+Internal hemorrhage (HPO),internal hemorrhage (MPO),HP:0011029,MP:0001634
+Increased circulating corticosterone level (HPO),increased circulating corticosterone level (MPO),HP:0032362,MP:0001745
+Elevated circulating luteinizing hormone level (HPO),increased circulating luteinizing hormone level (MPO),HP:0011969,MP:0001751
+Glycosuria (HPO),increased urine glucose level (MPO),HP:0003076,MP:0001759
+Polyuria (HPO),polyuria (MPO),HP:0000103,MP:0001762
+Edema (HPO),edema (MPO),HP:0000969,MP:0001785
+Periorbital edema (HPO),periorbital edema (MPO),HP:0100539,MP:0001788
+Decreased circulating IgG level (HPO),decreased IgG level (MPO),HP:0004315,MP:0001805
+Decreased circulating total IgM (HPO),decreased IgM level (MPO),HP:0002850,MP:0001806
+Hypoplasia of the thymus (HPO),thymus hypoplasia (MPO),HP:0000778,MP:0001823
+Increased inflammatory response (HPO),increased inflammatory response (MPO),HP:0012649,MP:0001846
+Vasculitis (HPO),vasculitis (MPO),HP:0002633,MP:0001864
+Decreased inflammatory response (HPO),decreased inflammatory response (MPO),HP:0012648,MP:0001876
+Abnormal lymphatic vessel morphology (HPO),abnormal lymphatic vessel morphology (MPO),HP:0100766,MP:0001879
+Intracranial hemorrhage (HPO),intracranial hemorrhage (MPO),HP:0002170,MP:0001915
+Infertility (HPO),infertility (MPO),HP:0000789,MP:0001924
+Male infertility (HPO),male infertility (MPO),HP:0003251,MP:0001925
+Female infertility (HPO),female infertility (MPO),HP:0008222,MP:0001926
+Apnea (HPO),apnea (MPO),HP:0002104,MP:0001957
+Emphysema (HPO),emphysema (MPO),HP:0002097,MP:0001958
+Hearing impairment (HPO),deafness (MPO),HP:0000365,MP:0001967
+Blindness (HPO),blindness (MPO),HP:0000618,MP:0002001
+Hyperinsulinemia (HPO),increased circulating insulin level (MPO),HP:0000842,MP:0002079
+Abnormal eye morphology (HPO),abnormal eye morphology (MPO),HP:0012372,MP:0002092
+Abnormal muscle physiology (HPO),abnormal muscle physiology (MPO),HP:0011804,MP:0002106
+Abnormal renal physiology (HPO),abnormal kidney physiology (MPO),HP:0012211,MP:0002136
+Abnormal reproductive system morphology (HPO),abnormal reproductive system morphology (MPO),HP:0012243,MP:0002160
+Hydrops fetalis (HPO),hydrops fetalis (MPO),HP:0001789,MP:0002192
+Agenesis of corpus callosum (HPO),absent corpus callosum (MPO),HP:0001274,MP:0002196
+Abnormal germ cell morphology (HPO),abnormal germ cell morphology (MPO),HP:0012862,MP:0002208
+Abnormal nasal morphology (HPO),abnormal nose morphology (MPO),HP:0005105,MP:0002233
+Abnormal cricoid cartilage morphology (HPO),abnormal cricoid cartilage morphology (MPO),HP:3000038,MP:0002258
+Hyperventilation (HPO),hyperventilation (MPO),HP:0002883,MP:0002320
+Hypoventilation (HPO),hypoventilation (MPO),HP:0002791,MP:0002321
+Decreased antibody level in blood (HPO),decreased immunoglobulin level (MPO),HP:0004313,MP:0002460
+Increased antibody level in blood (HPO),increased immunoglobulin level (MPO),HP:0010702,MP:0002461
+Abnormal immunoglobulin level (HPO),abnormal immunoglobulin level (MPO),HP:0010701,MP:0002490
+Increased circulating IgG level (HPO),increased IgG level (MPO),HP:0003237,MP:0002493
+Increased circulating IgD level (HPO),increased IgD level (MPO),HP:0410246,MP:0002496
+Abnormal platelet volume (HPO),abnormal platelet volume (MPO),HP:0011876,MP:0002586
+Increased mean platelet volume (HPO),increased mean platelet volume (MPO),HP:0011877,MP:0002599
+Increased basophil count (HPO),increased basophil cell number (MPO),HP:0031807,MP:0002606
+Decreased basophil count (HPO),decreased basophil cell number (MPO),HP:0031808,MP:0002607
+Reticulocytosis (HPO),reticulocytosis (MPO),HP:0001923,MP:0002640
+Anisopoikilocytosis (HPO),anisopoikilocytosis (MPO),HP:0004823,MP:0002641
+Poikilocytosis (HPO),poikilocytosis (MPO),HP:0004447,MP:0002643
+Decreased circulating corticosterone level (HPO),decreased circulating corticosterone level (MPO),HP:0032363,MP:0002665
+Hyperaldosteronism (HPO),increased circulating aldosterone level (MPO),HP:0000859,MP:0002666
+Decreased circulating aldosterone level (HPO),decreased circulating aldosterone level (MPO),HP:0004319,MP:0002667
+Hypoinsulinemia (HPO),decreased circulating insulin level (MPO),HP:0040216,MP:0002727
+Hypoplastic heart (HPO),heart hypoplasia (MPO),HP:0001961,MP:0002740
+Abnormal autonomic nervous system morphology (HPO),abnormal autonomic nervous system morphology (MPO),HP:0012331,MP:0002751
+Decreased circulating luteinizing hormone level (HPO),decreased circulating luteinizing hormone level (MPO),HP:0030344,MP:0002773
+Female pseudohermaphroditism (HPO),female pseudohermaphroditism (MPO),HP:0010458,MP:0002788
+Male pseudohermaphroditism (HPO),male pseudohermaphroditism (MPO),HP:0000037,MP:0002789
+Spherocytosis (HPO),spherocytosis (MPO),HP:0004444,MP:0002812
+Coarse hair (HPO),coarse hair (MPO),HP:0002208,MP:0002832
+Polycythemia (HPO),polycythemia (MPO),HP:0001901,MP:0002872
+Abnormality of thyroid physiology (HPO),abnormal thyroid gland physiology (MPO),HP:0002926,MP:0002876
+Glutaric aciduria (HPO),glutaricadicuria (MPO),HP:0003150,MP:0002931
+Joint swelling (HPO),joint swelling (MPO),HP:0001386,MP:0002936
+Aqueductal stenosis (HPO),cerebral aqueductal stenosis (MPO),HP:0002410,MP:0002958
+Hypocalciuria (HPO),decreased urine calcium level (MPO),HP:0003127,MP:0002986
+Arthritis (HPO),arthritis (MPO),HP:0001369,MP:0002993
+Hyperchloremia (HPO),increased circulating chloride level (MPO),HP:0011423,MP:0003019
+Hypochloremia (HPO),decreased circulating chloride level (MPO),HP:0003113,MP:0003020
+Coronary artery stenosis (HPO),coronary artery stenosis (MPO),HP:0005145,MP:0003024
+Acidosis (HPO),acidosis (MPO),HP:0001941,MP:0003031
+Blue sclerae (HPO),sclera thinning (MPO),HP:0000592,MP:0003102
+Short femur (HPO),short femur (MPO),HP:0003097,MP:0003109
+Anal atresia (HPO),anal atresia (MPO),HP:0002023,MP:0003130
+Patent ductus arteriosus (HPO),patent ductus arteriosus (MPO),HP:0001643,MP:0003139
+Cochlear aplasia (HPO),absent cochlea (MPO),HP:0011375,MP:0003147
+Thrombocytopenia (HPO),thrombocytopenia (MPO),HP:0001873,MP:0003179
+Synostosis of joints (HPO),fused joints (MPO),HP:0100240,MP:0003189
+Testicular atrophy (HPO),testicular atrophy (MPO),HP:0000029,MP:0003205
+Constipation (HPO),constipation (MPO),HP:0002019,MP:0003267
+Intestinal obstruction (HPO),intestinal obstruction (MPO),HP:0005214,MP:0003270
+Duodenal atresia (HPO),duodenal atresia (MPO),HP:0002247,MP:0003272
+Duodenal ulcer (HPO),duodenal ulcer (MPO),HP:0002588,MP:0003273
+Esophageal atresia (HPO),esophageal atresia (MPO),HP:0002032,MP:0003276
+Gastric ulcer (HPO),gastric ulcer (MPO),HP:0002592,MP:0003282
+Gastric hypertrophy (HPO),gastric hypertrophy (MPO),HP:0005207,MP:0003285
+Intestinal edema (HPO),intestinal edema (MPO),HP:0005225,MP:0003288
+Melena (HPO),melena (MPO),HP:0002249,MP:0003292
+Microcolon (HPO),microcolon (MPO),HP:0004388,MP:0003296
+Rectal abscess (HPO),perirectal abscess (MPO),HP:0005224,MP:0003302
+Aminoaciduria (HPO),aminoaciduria (MPO),HP:0003355,MP:0003311
+Perineal fistula (HPO),perineal fistula (MPO),HP:0004871,MP:0003316
+Anal fistula (HPO),anal fistula (MPO),HP:0010447,MP:0003319
+Tracheoesophageal fistula (HPO),tracheoesophageal fistula (MPO),HP:0002575,MP:0003321
+Decreased liver function (HPO),decreased liver function (MPO),HP:0001410,MP:0003325
+Hepatic failure (HPO),liver failure (MPO),HP:0001399,MP:0003326
+Hepatic cysts (HPO),liver cysts (MPO),HP:0001407,MP:0003327
+Portal hypertension (HPO),portal hypertension (MPO),HP:0001409,MP:0003328
+Liver abscess (HPO),liver abscess (MPO),HP:0100523,MP:0003332
+Exocrine pancreatic insufficiency (HPO),exocrine pancreatic insufficiency (MPO),HP:0001738,MP:0003335
+Pancreatic cysts (HPO),pancreas cysts (MPO),HP:0001737,MP:0003336
+Missing ribs (HPO),decreased rib number (MPO),HP:0000921,MP:0003345
+Hyperpituitarism (HPO),hyperpituitarism (MPO),HP:0010514,MP:0003347
+Hypopituitarism (HPO),hypopituitarism (MPO),HP:0040075,MP:0003348
+Increased circulating renin level (HPO),increased circulating renin level (MPO),HP:0000848,MP:0003352
+Decreased circulating renin level (HPO),decreased circulating renin level (MPO),HP:0003351,MP:0003353
+Amenorrhea (HPO),amenorrhea (MPO),HP:0000141,MP:0003376
+Abnormal platelet shape (HPO),abnormal platelet shape (MPO),HP:0012524,MP:0003405
+Priapism (HPO),priapism (MPO),HP:0200023,MP:0003415
+Hyperglycerolemia (HPO),increased circulating glycerol level (MPO),HP:0040302,MP:0003443
+Renal hypoplasia (HPO),renal hypoplasia (MPO),HP:0000089,MP:0003446
+Parathyroid hypoplasia (HPO),parathyroid hypoplasia (MPO),HP:0000860,MP:0003494
+Thyroid hypoplasia (HPO),thyroid gland hypoplasia (MPO),HP:0005990,MP:0003499
+Hyperthyroidism (HPO),increased activity of thyroid gland (MPO),HP:0000836,MP:0003502
+Hypothyroidism (HPO),decreased activity of thyroid gland (MPO),HP:0000821,MP:0003503
+Growth hormone excess (HPO),acromegaly (MPO),HP:0000845,MP:0003506
+Abnormal ovarian physiology (HPO),abnormal ovary physiology (MPO),HP:0031066,MP:0003507
+Enlarged labia minora (HPO),enlarged labia minora (MPO),HP:0008683,MP:0003522
+Aplasia of the vagina (HPO),absent vagina (MPO),HP:0003250,MP:0003535
+Aplasia of the uterus (HPO),absent uterus (MPO),HP:0000151,MP:0003558
+Bifid uterus (HPO),bifid uterus (MPO),HP:0000136,MP:0003559
+Bifid ureter (HPO),bifid ureter (MPO),HP:0030037,MP:0003584
+Ureteral obstruction (HPO),ureter obstruction (MPO),HP:0006000,MP:0003587
+Ectopic kidney (HPO),ectopic kidney (MPO),HP:0000086,MP:0003600
+Renal insufficiency (HPO),kidney failure (MPO),HP:0000083,MP:0003606
+Scrotal hypoplasia (HPO),scrotum hypoplasia (MPO),HP:0000046,MP:0003611
+Bifid scrotum (HPO),bifid scrotum (MPO),HP:0000048,MP:0003612
+Abnormal urinary color (HPO),abnormal urine color (MPO),HP:0012086,MP:0003619
+Decreased urine output (HPO),oliguria (MPO),HP:0011037,MP:0003620
+Hydrocele testis (HPO),hydrocele (MPO),HP:0000034,MP:0003623
+Anuria (HPO),anuria (MPO),HP:0100519,MP:0003624
+Abnormal erythrocyte physiology (HPO),abnormal erythrocyte physiology (MPO),HP:0020054,MP:0003656
+Abnormal capillary morphology (HPO),abnormal capillary morphology (MPO),HP:0025016,MP:0003658
+Ophthalmoplegia (HPO),ophthalmoplegia (MPO),HP:0000602,MP:0003689
+Abnormal male reproductive system physiology (HPO),abnormal male reproductive system physiology (MPO),HP:0012874,MP:0003698
+Abnormal female reproductive system physiology (HPO),abnormal female reproductive system physiology (MPO),HP:0030012,MP:0003699
+Posteriorly rotated ears (HPO),posteriorly rotated ears (MPO),HP:0000358,MP:0003715
+Abnormal oral mucosa morphology (HPO),abnormal oral mucosa morphology (MPO),HP:0011830,MP:0003745
+Abnormal hard palate morphology (HPO),abnormal hard palate morphology (MPO),HP:0100737,MP:0003756
+High palate (HPO),high palate (MPO),HP:0000218,MP:0003757
+Narrow palate (HPO),narrow palate (MPO),HP:0000189,MP:0003758
+Abnormal lip morphology (HPO),abnormal lip morphology (MPO),HP:0000159,MP:0003769
+Lip telangiectasia (HPO),lip telangiectases (MPO),HP:0000214,MP:0003778
+Abnormal bone structure (HPO),abnormal bone structure (MPO),HP:0003330,MP:0003795
+Pulmonary edema (HPO),pulmonary edema (MPO),HP:0100598,MP:0003828
+Abnormal ear physiology (HPO),abnormal ear physiology (MPO),HP:0031704,MP:0003878
+Abnormal right ventricle morphology (HPO),abnormal heart right ventricle morphology (MPO),HP:0001707,MP:0003920
+Increased number of teeth (HPO),supernumerary teeth (MPO),HP:0011069,MP:0004033
+Lymphangiectasis (HPO),lymphangiectasis (MPO),HP:0031842,MP:0004038
+Abnormal thoracic duct morphology (HPO),abnormal thoracic duct morphology (MPO),HP:0031278,MP:0004107
+Abnormal aortic arch morphology (HPO),abnormal aortic arch morphology (MPO),HP:0012303,MP:0004113
+Abnormal muscle tone (HPO),abnormal muscle tone (MPO),HP:0003808,MP:0004142
+Telangiectasia (HPO),telangiectases (MPO),HP:0001009,MP:0004175
+Abnormal renal calyx morphology (HPO),abnormal kidney calyx morphology (MPO),HP:0011130,MP:0004195
+Small placenta (HPO),small placenta (MPO),HP:0006266,MP:0004259
+Absent malleus (HPO),absent malleus (MPO),HP:0011455,MP:0004319
+Bifid sternum (HPO),split sternum (MPO),HP:0010309,MP:0004320
+Short sternum (HPO),short sternum (MPO),HP:0000879,MP:0004321
+Tibial bowing (HPO),bowed tibia (MPO),HP:0002982,MP:0004358
+Aplasia of the ulna (HPO),absent ulna (MPO),HP:0003982,MP:0004360
+Ulnar bowing (HPO),bowed ulna (MPO),HP:0003031,MP:0004361
+Long ulna (HPO),long ulna (MPO),HP:0003988,MP:0004370
+Femoral bowing (HPO),bowed femur (MPO),HP:0002980,MP:0004371
+Bowed humerus (HPO),bowed humerus (MPO),HP:0003865,MP:0004373
+Radial bowing (HPO),bowed radius (MPO),HP:0002986,MP:0004374
+Abnormal vertebral pedicle morphology (HPO),abnormal vertebral pedicle morphology (MPO),HP:0030277,MP:0004604
+Fused cervical vertebrae (HPO),cervical vertebral fusion (MPO),HP:0002949,MP:0004620
+Supernumerary vertebrae (HPO),increased vertebrae number (MPO),HP:0002946,MP:0004644
+Decreased number of vertebrae (HPO),decreased vertebrae number (MPO),HP:0030305,MP:0004645
+Short ribs (HPO),short ribs (MPO),HP:0000773,MP:0004672
+Thin ribs (HPO),thin ribs (MPO),HP:0000883,MP:0004674
+Broad ribs (HPO),wide ribs (MPO),HP:0000885,MP:0004676
+Intervertebral disc degeneration (HPO),intervertebral disk degeneration (MPO),HP:0008419,MP:0004684
+Patellar aplasia (HPO),absent patella (MPO),HP:0006443,MP:0004694
+Abnormal platelet morphology (HPO),abnormal platelet morphology (MPO),HP:0011875,MP:0004720
+Hypergastrinemia (HPO),increased circulating gastrin level (MPO),HP:0500167,MP:0004731
+Enlarged uterus (HPO),enlarged uterus (MPO),HP:0100878,MP:0004906
+Abnormal B cell morphology (HPO),abnormal B cell morphology (MPO),HP:0002846,MP:0004939
+Renal atrophy (HPO),kidney atrophy (MPO),HP:0012585,MP:0004970
+Increased B cell count (HPO),increased B cell number (MPO),HP:0005404,MP:0005014
+Increased T cell count (HPO),increased T cell number (MPO),HP:0100828,MP:0005015
+Diarrhea (HPO),diarrhea (MPO),HP:0002014,MP:0005036
+Abnormal biliary tract morphology (HPO),abnormal biliary tract morphology (MPO),HP:0012440,MP:0005083
+Abnormal gallbladder physiology (HPO),abnormal gallbladder physiology (MPO),HP:0012438,MP:0005085
+Abnormality of retinal pigmentation (HPO),abnormal retinal pigmentation (MPO),HP:0007703,MP:0005103
+Cachexia (HPO),cachexia (MPO),HP:0004326,MP:0005150
+Pancytopenia (HPO),pancytopenia (MPO),HP:0001876,MP:0005152
+Hypokinesia (HPO),bradykinesia (MPO),HP:0002375,MP:0005156
+Hypercholesterolemia (HPO),increased circulating cholesterol level (MPO),HP:0003124,MP:0005178
+Hypocholesterolemia (HPO),decreased circulating cholesterol level (MPO),HP:0003146,MP:0005179
+Abnormal anterior eye segment morphology (HPO),abnormal anterior eye segment morphology (MPO),HP:0004328,MP:0005193
+Abnormal posterior eye segment morphology (HPO),abnormal posterior eye segment morphology (MPO),HP:0004329,MP:0005195
+Joint hemorrhage (HPO),hemarthrosis (MPO),HP:0005261,MP:0005245
+Abnormal eye physiology (HPO),abnormal eye physiology (MPO),HP:0012373,MP:0005253
+Aniridia (HPO),aniridia (MPO),HP:0000526,MP:0005261
+Ectopia lentis (HPO),ectopia lentis (MPO),HP:0001083,MP:0005263
+Narrow palpebral fissure (HPO),narrow eye opening (MPO),HP:0045025,MP:0005287
+Glucose intolerance (HPO),abnormal glucose tolerance (MPO),HP:0001952,MP:0005291
+Hyperammonemia (HPO),increased circulating ammonia level (MPO),HP:0001987,MP:0005309
+Cardiomyopathy (HPO),cardiomyopathy (MPO),HP:0001638,MP:0005330
+Insulin resistance (HPO),insulin resistance (MPO),HP:0000855,MP:0005331
+Atherosclerosis (HPO),atherosclerotic lesions (MPO),HP:0002621,MP:0005338
+Small pituitary gland (HPO),small pituitary gland (MPO),HP:0012506,MP:0005361
+Abnormal circulating hormone level (HPO),abnormal circulating hormone level (MPO),HP:0003117,MP:0005418
+Hypoalbuminemia (HPO),decreased circulating serum albumin level (MPO),HP:0003073,MP:0005419
+Hypercalciuria (HPO),increased urine calcium level (MPO),HP:0002150,MP:0005441
+Abnormal platelet function (HPO),abnormal platelet physiology (MPO),HP:0011869,MP:0005464
+Decreased corneal thickness (HPO),decreased cornea thickness (MPO),HP:0100689,MP:0005543
+Increased blood urea nitrogen (HPO),increased blood urea nitrogen level (MPO),HP:0003138,MP:0005565
+Hypoproteinemia (HPO),decreased circulating total protein level (MPO),HP:0003075,MP:0005567
+Hypernatremia (HPO),increased circulating sodium level (MPO),HP:0003228,MP:0005633
+Hyponatremia (HPO),decreased circulating sodium level (MPO),HP:0002902,MP:0005634
+Abnormal hypothalamus physiology (HPO),abnormal hypothalamus physiology (MPO),HP:0012285,MP:0005645
+Decreased serum leptin (HPO),decreased circulating leptin level (MPO),HP:0003292,MP:0005668
+Abnormal corneal epithelium morphology (HPO),abnormal corneal epithelium morphology (MPO),HP:0011495,MP:0006000
+Myoglobinuria (HPO),myoglobinuria (MPO),HP:0002913,MP:0006034
+Tricuspid regurgitation (HPO),tricuspid valve regurgitation (MPO),HP:0005180,MP:0006044
+Mitral regurgitation (HPO),mitral valve regurgitation (MPO),HP:0001653,MP:0006045
+Aortic regurgitation (HPO),aortic valve regurgitation (MPO),HP:0001659,MP:0006047
+Abnormal vena cava morphology (HPO),abnormal vena cava morphology (MPO),HP:0005345,MP:0006062
+Abnormal inferior vena cava morphology (HPO),abnormal inferior vena cava morphology (MPO),HP:0025576,MP:0006063
+Abnormal superior vena cava morphology (HPO),abnormal superior vena cava morphology (MPO),HP:0025575,MP:0006064
+Arteriovenous malformation (HPO),arteriovenous malformation (MPO),HP:0100026,MP:0006093
+Aortic valve atresia (HPO),aortic valve atresia (MPO),HP:0010883,MP:0006115
+Aortic valve stenosis (HPO),aortic valve stenosis (MPO),HP:0001650,MP:0006117
+Mitral valve prolapse (HPO),mitral valve prolapse (MPO),HP:0001634,MP:0006120
+Mitral stenosis (HPO),mitral valve stenosis (MPO),HP:0001718,MP:0006122
+Tricuspid valve prolapse (HPO),tricuspid valve prolapse (MPO),HP:0001704,MP:0006125
+Pulmonic stenosis (HPO),pulmonary valve stenosis (MPO),HP:0001642,MP:0006128
+Pulmonary valve atresia (HPO),pulmonary valve atresia (MPO),HP:0010882,MP:0006130
+Astigmatism (HPO),astigmatism (MPO),HP:0000483,MP:0006151
+Ectropion (HPO),ectropion (MPO),HP:0000656,MP:0006164
+Palpebral edema (HPO),eyelid edema (MPO),HP:0100540,MP:0006167
+Retinal hemorrhage (HPO),retinal hemorrhage (MPO),HP:0000573,MP:0006185
+Conjunctival telangiectasia (HPO),conjunctival telangiectasia (MPO),HP:0000524,MP:0006193
+Hypotelorism (HPO),ocular hypotelorism (MPO),HP:0000601,MP:0006197
+Shallow orbits (HPO),shallow orbits (MPO),HP:0000586,MP:0006213
+Optic nerve hypoplasia (HPO),optic nerve hypoplasia (MPO),HP:0000609,MP:0006221
+Optic neuropathy (HPO),optic neuropathy (MPO),HP:0001138,MP:0006222
+Hypoplasia of the iris (HPO),iris hypoplasia (MPO),HP:0007676,MP:0006226
+Iris atrophy (HPO),iris atrophy (MPO),HP:0001089,MP:0006228
+Eyelid apraxia (HPO),eyelid apraxia (MPO),HP:0000658,MP:0006251
+Abnormal autonomic nervous system physiology (HPO),abnormal autonomic nervous system physiology (MPO),HP:0012332,MP:0006276
+Abnormal male germ cell morphology (HPO),abnormal male germ cell morphology (MPO),HP:0012863,MP:0006362
+Reduced natural killer cell count (HPO),decreased NK cell number (MPO),HP:0040218,MP:0008045
+Absent natural killer cells (HPO),absent NK cells (MPO),HP:0040219,MP:0008046
+Severe B lymphocytopenia (HPO),absent B cells (MPO),HP:0005365,MP:0008071
+Lymph node hypoplasia (HPO),lymph node hypoplasia (MPO),HP:0002732,MP:0008101
+Lymphadenopathy (HPO),lymph node hyperplasia (MPO),HP:0002716,MP:0008102
+Abnormal myeloid leukocyte morphology (HPO),abnormal myeloid leukocyte morphology (MPO),HP:0010974,MP:0008250
+Left atrial enlargement (HPO),enlarged heart left atrium (MPO),HP:0031295,MP:0008726
+Right atrial enlargement (HPO),enlarged heart right atrium (MPO),HP:0030718,MP:0008727
+Abnormal spleen physiology (HPO),abnormal spleen physiology (MPO),HP:0025409,MP:0008737
+Facial cleft (HPO),facial cleft (MPO),HP:0002006,MP:0008797
+Elevated hepatic iron concentration (HPO),increased liver iron level (MPO),HP:0012465,MP:0008807
+Hyperuricemia (HPO),increased blood uric acid level (MPO),HP:0002149,MP:0008821
+Hypouricemia (HPO),decreased blood uric acid level (MPO),HP:0003537,MP:0008822
+Tarsal synostosis (HPO),fused tarsal bones (MPO),HP:0008368,MP:0008919
+Reticulocytopenia (HPO),reticulocytopenia (MPO),HP:0001896,MP:0008941
+Choanal atresia (HPO),choanal atresia (MPO),HP:0000453,MP:0008970
+Hypoplasia of the vagina (HPO),vagina hypoplasia (MPO),HP:0008726,MP:0008984
+Anal stenosis (HPO),anal stenosis (MPO),HP:0002025,MP:0009052
+Hyperplasia of the endometrium (HPO),endometrium hyperplasia (MPO),HP:0040298,MP:0009092
+Clitoral hypoplasia (HPO),clitoris hypoplasia (MPO),HP:0000060,MP:0009101
+Pancreatic hyperplasia (HPO),pancreas hyperplasia (MPO),HP:0006277,MP:0009110
+Pancreatic hypoplasia (HPO),pancreas hypoplasia (MPO),HP:0002594,MP:0009111
+Hypoplastic male external genitalia (HPO),external male genitalia hypoplasia (MPO),HP:0000050,MP:0009203
+Osteomalacia (HPO),osteomalacia (MPO),HP:0002749,MP:0009445
+Fused lips (HPO),fused lips (MPO),HP:0100788,MP:0009553
+Supernumerary nipple (HPO),increased nipple number (MPO),HP:0002558,MP:0009723
+Absent nipple (HPO),absent nipple (MPO),HP:0002561,MP:0009733
+Hyperuricosuria (HPO),increased urine uric acid level (MPO),HP:0003149,MP:0009810
+Abnormal circulating androgen level (HPO),abnormal circulating androgen level (MPO),HP:0030347,MP:0009819
+Macroglossia (HPO),increased tongue size (MPO),HP:0000158,MP:0009906
+Microglossia (HPO),decreased tongue size (MPO),HP:0000171,MP:0009907
+Protruding tongue (HPO),protruding tongue (MPO),HP:0010808,MP:0009908
+Bifid tongue (HPO),bifid tongue (MPO),HP:0010297,MP:0009909
+Hypermagnesemia (HPO),increased circulating magnesium level (MPO),HP:0002918,MP:0010092
+Hypomagnesemia (HPO),decreased circulating magnesium level (MPO),HP:0002917,MP:0010093
+Abnormal mandibular ramus morphology (HPO),abnormal mandibular ramus morphology (MPO),HP:3000003,MP:0010150
+Mandibular prognathia (HPO),prognathia (MPO),HP:0000303,MP:0010208
+Functional abnormality of the bladder (HPO),abnormal urinary bladder physiology (MPO),HP:0000009,MP:0010386
+Ventricular septal defect (HPO),ventricular septal defect (MPO),HP:0001629,MP:0010402
+Atrial septal defect (HPO),atrial septal defect (MPO),HP:0001631,MP:0010403
+Hypoplasia of right ventricle (HPO),heart right ventricle hypoplasia (MPO),HP:0004762,MP:0010422
+Abnormal coronary sinus morphology (HPO),abnormal coronary sinus morphology (MPO),HP:0011642,MP:0010436
+Absent coronary sinus (HPO),absent coronary sinus (MPO),HP:0031783,MP:0010437
+Pulmonary artery stenosis (HPO),pulmonary artery stenosis (MPO),HP:0004415,MP:0010457
+Pulmonary artery hypoplasia (HPO),pulmonary artery hypoplasia (MPO),HP:0004971,MP:0010460
+Bicuspid aortic valve (HPO),bicuspid aortic valve (MPO),HP:0001647,MP:0010484
+Hypoplastic aortic arch (HPO),aortic arch hypoplasia (MPO),HP:0012304,MP:0010485
+Absent pulmonary artery (HPO),absent pulmonary artery (MPO),HP:0004960,MP:0010521
+Bicuspid pulmonary valve (HPO),bicuspid pulmonary valve (MPO),HP:0005182,MP:0010527
+Absent atrioventricular node (HPO),absent atrioventricular node (MPO),HP:0006681,MP:0010532
+Myocardial calcification (HPO),calcified myocardium (MPO),HP:0006690,MP:0010534
+Myocardial steatosis (HPO),myocardium steatosis (MPO),HP:0006693,MP:0010535
+Abnormal aortic valve cusp morphology (HPO),abnormal aortic valve cusp morphology (MPO),HP:0031567,MP:0010595
+Hypoplastic left atrium (HPO),left atrium hypoplasia (MPO),HP:0005156,MP:0010647
+Abnormal natural killer cell physiology (HPO),abnormal NK cell physiology (MPO),HP:0012177,MP:0010766
+Tracheal stenosis (HPO),trachea stenosis (MPO),HP:0002777,MP:0010883
+Decreased numbers of nephrons (HPO),decreased nephron number (MPO),HP:0005563,MP:0011290
+Renal artery stenosis (HPO),renal artery stenosis (MPO),HP:0001920,MP:0011356
+Ectopic adrenal gland (HPO),ectopic adrenal gland (MPO),HP:0011742,MP:0011362
+Red urine (HPO),erythruria (MPO),HP:0040318,MP:0011414
+Renal cortical atrophy (HPO),kidney cortex atrophy (MPO),HP:0002048,MP:0011423
+Hypermagnesiuria (HPO),increased urine magnesium level (MPO),HP:0012608,MP:0011435
+Hypomagnesiuria (HPO),decreased urine magnesium level (MPO),HP:0012609,MP:0011436
+Hyperchloriduria (HPO),increased urine chloride ion level (MPO),HP:0002914,MP:0011459
+Bicarbonaturia (HPO),increased urine bicarbonate level (MPO),HP:0003646,MP:0011462
+Hyperoxaluria (HPO),hyperoxaluria (MPO),HP:0003159,MP:0011517
+Abnormal urine hormone level (HPO),abnormal urine hormone level (MPO),HP:0012029,MP:0011538
+Hyperprostaglandinuria (HPO),increased urine prostaglandin level (MPO),HP:0003527,MP:0011563
+Abnormal bone collagen fibril morphology (HPO),abnormal bone collagen fibril morphology (MPO),HP:0011862,MP:0011642
+Histidinuria (HPO),histidinuria (MPO),HP:0002927,MP:0011654
+Oroticaciduria (HPO),oroticaciduria (MPO),HP:0003218,MP:0011765
+Abnormal heart valve physiology (HPO),abnormal heart valve physiology (MPO),HP:0031653,MP:0011926
+Midface retrusion (HPO),midface hypoplasia (MPO),HP:0011800,MP:0012085
+Absent mesencephalon (HPO),absent midbrain (MPO),HP:0007265,MP:0012087
+Flat face (HPO),flat face (MPO),HP:0012368,MP:0012175
+Short umbilical cord (HPO),short umbilical cord (MPO),HP:0001196,MP:0012304
+Short nail (HPO),short nails (MPO),HP:0001799,MP:0012399
+Nail dystrophy (HPO),nail dystrophy (MPO),HP:0008404,MP:0012400
+Abnormal neutrophil count (HPO),abnormal neutrophil cell number (MPO),HP:0011991,MP:0012440
+Laryngeal stenosis (HPO),larynx stenosis (MPO),HP:0001602,MP:0012491
+Brain atrophy (HPO),brain atrophy (MPO),HP:0012444,MP:0012506
+Long neck (HPO),elongated neck (MPO),HP:0000472,MP:0012720
+Short neck (HPO),short neck (MPO),HP:0000470,MP:0012721
+Abnormal alpha-beta T cell morphology (HPO),abnormal alpha-beta T cell morphology (MPO),HP:0030333,MP:0012762
+Ectopic thyroid (HPO),ectopic thyroid gland (MPO),HP:0100028,MP:0013233
+Aplasia of the epiglottis (HPO),absent epiglottis (MPO),HP:0008753,MP:0013261
+Ectopic anterior pituitary gland (HPO),ectopic adenohypophysis (MPO),HP:0012731,MP:0013357
+Ectopic posterior pituitary (HPO),ectopic neurohypophysis (MPO),HP:0011755,MP:0013358
+Cleft hard palate (HPO),cleft hard palate (MPO),HP:0410005,MP:0013545
+Cleft soft palate (HPO),cleft soft palate (MPO),HP:0000185,MP:0013546
+Submucous cleft soft palate (HPO),submucous cleft soft palate (MPO),HP:0011819,MP:0013547
+Submucous cleft hard palate (HPO),submucous cleft hard palate (MPO),HP:0000176,MP:0013548
+Hypertyrosinemia (HPO),increased circulating tyrosine level (MPO),HP:0003231,MP:0013723
+Photophobia (HPO),photophobia (MPO),HP:0000613,MP:0013787
+Abnormal celiac artery morphology (HPO),abnormal celiac artery morphology (MPO),HP:0012326,MP:0013854
+Abnormal jugular vein morphology (HPO),abnormal jugular vein morphology (MPO),HP:3000042,MP:0013872
+Abnormal circle of Willis morphology (HPO),abnormal circle of Willis morphology (MPO),HP:0012518,MP:0014016
+Pancreatic calcification (HPO),calcified pancreas (MPO),HP:0005213,MP:0014108
+Lacrimal gland hypoplasia (HPO),lacrimal gland hypoplasia (MPO),HP:0007732,MP:0014151
+Cerebellar atrophy (HPO),cerebellum atrophy (MPO),HP:0001272,MP:0014185
+Abnormal IgA level (HPO),abnormal IgA level (MPO),HP:0410240,MP:0020171
+Abnormal IgD level (HPO),abnormal IgD level (MPO),HP:0410244,MP:0020172
+Abnormal IgE level (HPO),abnormal IgE level (MPO),HP:0410241,MP:0020173
+Abnormal IgG level (HPO),abnormal IgG level (MPO),HP:0410242,MP:0020174
+Abnormal IgM level (HPO),abnormal IgM level (MPO),HP:0410243,MP:0020180
+Cystinuria (HPO),cystinuria (MPO),HP:0003131,MP:0020400
+Argininuria (HPO),argininuria (MPO),HP:0003268,MP:0020401
+Ornithinuria (HPO),ornithinuria (MPO),HP:0003532,MP:0020402
+Hyperlysinuria (HPO),lysinuria (MPO),HP:0003297,MP:0020403
+Prolinuria (HPO),prolinuria (MPO),HP:0003137,MP:0020404
+Hyperthreoninuria (HPO),hyperthreoninuria (MPO),HP:0003296,MP:0020406
+Ectopia of the spleen (HPO),ectopic spleen (MPO),HP:0010452,MP:0020825
+Giant platelets (HPO),giant platelets (MPO),HP:0001902,MP:0030025
+Wide cranial sutures (HPO),wide cranial sutures (MPO),HP:0010537,MP:0030029
+High forehead (HPO),high forehead (MPO),HP:0000348,MP:0030032
+Depressed nasal bridge (HPO),depressed nasal bridge (MPO),HP:0005280,MP:0030034
+Prominent nasal bridge (HPO),prominent nasal bridge (MPO),HP:0000426,MP:0030037
+Large forehead (HPO),large forehead (MPO),HP:0002003,MP:0030042
+Small forehead (HPO),small forehead (MPO),HP:0000350,MP:0030043
+Flat forehead (HPO),flat forehead (MPO),HP:0004425,MP:0030047
+Sloping forehead (HPO),sloping forehead (MPO),HP:0000340,MP:0030048
+Forehead hyperpigmentation (HPO),increased forehead pigmentation (MPO),HP:0005336,MP:0030053
+Choanal stenosis (HPO),choanal stenosis (MPO),HP:0000452,MP:0030062
+Small face (HPO),small face (MPO),HP:0000274,MP:0030064
+Short face (HPO),short face (MPO),HP:0011219,MP:0030066
+Narrow face (HPO),narrow face (MPO),HP:0000275,MP:0030067
+Large face (HPO),large face (MPO),HP:0100729,MP:0030068
+Broad face (HPO),broad face (MPO),HP:0000283,MP:0030069
+Long face (HPO),long face (MPO),HP:0000276,MP:0030070
+Round face (HPO),round face (MPO),HP:0000311,MP:0030072
+Square face (HPO),square face (MPO),HP:0000321,MP:0030073
+Coarse facial features (HPO),coarse facial features (MPO),HP:0000280,MP:0030074
+Fibrous syngnathia (HPO),fibrous syngnathia (MPO),HP:0009754,MP:0030087
+Microdontia (HPO),microdontia (MPO),HP:0000691,MP:0030088
+Macrodontia (HPO),macrodontia (MPO),HP:0001572,MP:0030091
+Facial asymmetry (HPO),facial asymmetry (MPO),HP:0000324,MP:0030099
+Bifid nasal tip (HPO),bifid nasal tip (MPO),HP:0000456,MP:0030116
+Bifid nose (HPO),bifid nose (MPO),HP:0011803,MP:0030117
+Facial paralysis (HPO),facial paralysis (MPO),HP:0007209,MP:0030141
+Telecanthus (HPO),increased inner canthal distance (MPO),HP:0000506,MP:0030166
+Thin upper lip vermilion (HPO),thin upper lip (MPO),HP:0000219,MP:0030168
+Absent extraocular muscles (HPO),absent extraocular muscles (MPO),HP:0007886,MP:0030171
+Short philtrum (HPO),short philtrum (MPO),HP:0000322,MP:0030193
+Hypoplastic nasal septum (HPO),nasal septum hypoplasia (MPO),HP:0005104,MP:0030198
+Absent nasal septal cartilage (HPO),absent nasal septum cartilage (MPO),HP:0005273,MP:0030201
+Short nasal septum (HPO),short nasal septum (MPO),HP:0000420,MP:0030203
+Narrow nasal septum (HPO),thin nasal septum (MPO),HP:0009936,MP:0030206
+Hyperostosis (HPO),hyperostosis (MPO),HP:0100774,MP:0030222
+Short chin (HPO),short chin (MPO),HP:0000331,MP:0030244
+Trigonocephaly (HPO),trigonocephaly (MPO),HP:0000243,MP:0030368
+Absent paranasal sinuses (HPO),absent paranasal sinus (MPO),HP:0002689,MP:0030382
+Large posterior fontanelle (HPO),large posterior fontanelle (MPO),HP:0004491,MP:0030387
+Large fontanelles (HPO),large fontanelles (MPO),HP:0000239,MP:0030388
+Small fontanelle (HPO),small fontanelles (MPO),HP:0005486,MP:0030389
+Delayed cranial suture closure (HPO),delayed fontanelle closure (MPO),HP:0000270,MP:0030393
+Short dental roots (HPO),short tooth root (MPO),HP:0006336,MP:0030497
+Misalignment of teeth (HPO),misaligned teeth (MPO),HP:0000692,MP:0030540
+Misalignment of incisors (HPO),misaligned incisors (MPO),HP:0011062,MP:0030541
+Hypoammonemia (HPO),decreased circulating ammonia level (MPO),HP:0100493,MP:0030565
+Reduced number of teeth (HPO),decreased tooth number (MPO),HP:0009804,MP:0030608
+Abnormal number of teeth (HPO),abnormal tooth number (MPO),HP:0006483,MP:0030611
+Organic aciduria (HPO),organic aciduria (MPO),HP:0001992,MP:0030612
+Dicarboxylic aciduria (HPO),dicarboxylic aciduria (MPO),HP:0003215,MP:0030613
+Methylmalonic aciduria (HPO),methylmalonic aciduria (MPO),HP:0012120,MP:0030614
+Ethylmalonic aciduria (HPO),ethylmalonic aciduria (MPO),HP:0003219,MP:0030615
+Hyperglycinuria (HPO),hyperglycinuria (MPO),HP:0003108,MP:0030616
+Hyperglutaminuria (HPO),hyperglutaminuria (MPO),HP:0025376,MP:0030617
+Tryptophanuria (HPO),tryptophanuria (MPO),HP:0003361,MP:0030618
+Methylmalonic acidemia (HPO),increased circulating methylmalonic acid level (MPO),HP:0002912,MP:0030630
+Hypermethioninemia (HPO),increased circulating methionine level (MPO),HP:0003235,MP:0030644
+Hypomethioninemia (HPO),decreased circulating methionine level (MPO),HP:0003658,MP:0030645
+Hyperornithinemia (HPO),increased circulating ornithine level (MPO),HP:0012026,MP:0030650
+Hypoornithinemia (HPO),decreased circulating ornithine level (MPO),HP:0500163,MP:0030651
+Hyperglycinemia (HPO),increased circulating glycine level (MPO),HP:0002154,MP:0030655
+Hypoglycinemia (HPO),decreased circulating glycine level (MPO),HP:0012277,MP:0030656
+Hyperargininemia (HPO),increased circulating arginine level (MPO),HP:0500153,MP:0030661
+Hypoargininemia (HPO),decreased circulating arginine level (MPO),HP:0005961,MP:0030662
+Hyperprolinemia (HPO),increased circulating proline level (MPO),HP:0008358,MP:0030667
+Hypoprolinemia (HPO),decreased circulating proline level (MPO),HP:0500139,MP:0030668
+Hyperphenylalaninemia (HPO),increased circulating phenylalanine level (MPO),HP:0004923,MP:0030670
+Hypophenylalaninemia (HPO),decreased circulating phenylalanine level (MPO),HP:0500141,MP:0030671
+Hyperalaninemia (HPO),increased circulating alanine level (MPO),HP:0003348,MP:0030673
+Hypoalaninemia (HPO),decreased circulating alanine level (MPO),HP:0500154,MP:0030674
+Cystathioninemia (HPO),increased circulating cystathionine level (MPO),HP:0003286,MP:0030687
+Cystathioninuria (HPO),cystathioninuria (MPO),HP:0003153,MP:0030689
+Hyperserinemia (HPO),increased circulating serine level (MPO),HP:0500138,MP:0030694
+Hyposerinemia (HPO),decreased circulating serine level (MPO),HP:0012279,MP:0030695
+Hyperthreoninemia (HPO),increased circulating threonine level (MPO),HP:0003354,MP:0030703
+Hyperglutaminemia (HPO),increased circulating glutamine level (MPO),HP:0003217,MP:0030709
+Hypoglutaminemia (HPO),decreased circulating glutamine level (MPO),HP:0500147,MP:0030710
+Hyperisoleucinemia (HPO),increased circulating isoleucine level (MPO),HP:0010913,MP:0030715
+Hypoisoleucinemia (HPO),decreased circulating isoleucine level (MPO),HP:0500144,MP:0030716
+Hyperlysinemia (HPO),increased circulating lysine level (MPO),HP:0002161,MP:0030718
+Hypolysinemia (HPO),decreased circulating lysine level (MPO),HP:0500142,MP:0030719
+Hypervalinemia (HPO),increased circulating valine level (MPO),HP:0010910,MP:0030727
+Hyperleucinemia (HPO),increased circulating leucine level (MPO),HP:0010911,MP:0030750
+Hypoleucinemia (HPO),decreased circulating leucine level (MPO),HP:0500143,MP:0030751
+Elevated urinary catecholamines (HPO),increased urine catecholamine level (MPO),HP:0011976,MP:0030766
+Decreased urinary catecholamine concentration (HPO),decreased urine catecholamine level (MPO),HP:0045012,MP:0030767
+Elevated urinary dopamine (HPO),increased urine dopamine level (MPO),HP:0011979,MP:0030768
+Elevated urinary epinephrine (HPO),increased urine adrenaline level (MPO),HP:0003639,MP:0030770
+Hypercitraturia (HPO),increased urine citrate level (MPO),HP:0012406,MP:0030778
+Hypocitraturia (HPO),decreased urine citrate level (MPO),HP:0012405,MP:0030779
+Increased urinary glycerol (HPO),increased urine glycerol level (MPO),HP:0040301,MP:0030780
+Coxa vara (HPO),coxa vara (MPO),HP:0002812,MP:0030790
+Broad femoral neck (HPO),broad femur neck (MPO),HP:0006429,MP:0030794
+Joint dislocation (HPO),joint dislocation (MPO),HP:0001373,MP:0030795
+Patellar dislocation (HPO),patellar dislocation (MPO),HP:0002999,MP:0030860
+Limitation of joint mobility (HPO),decreased joint mobility (MPO),HP:0001376,MP:0030863
+Dislocated radial head (HPO),dislocated radius head (MPO),HP:0003083,MP:0030883
+Hypoplasia of the epiglottis (HPO),epiglottis hypoplasia (MPO),HP:0005349,MP:0030892
+Laryngeal cleft (HPO),laryngeal cleft (MPO),HP:0008751,MP:0030899
+Hyperpigmentation of the skin (HPO),increased skin pigmentation (MPO),HP:0000953,MP:0030926
+Ketosis (HPO),ketosis (MPO),HP:0001946,MP:0030970
+Impaired gluconeogenesis (HPO),impaired gluconeogenesis (MPO),HP:0005959,MP:0030973
+Abnormal lacrimal sac morphology (HPO),abnormal lacrimal sac morphology (MPO),HP:3000066,MP:3000005
+Thickened ears (HPO),thick ears (MPO),HP:0009894,MP:0000019
+Abnormality of the pinna (HPO),abnormal ear shape (MPO),HP:0000377,MP:0000022
+Low-set ears (HPO),lowered ear position (MPO),HP:0000369,MP:0000024
+Morphological abnormality of the inner ear (HPO),abnormal inner ear morphology (MPO),HP:0011390,MP:0000026
+Morphological abnormality of the vestibule of the inner ear (HPO),abnormal inner ear vestibule morphology (MPO),HP:0011376,MP:0000034
+Morphological abnormality of the middle ear (HPO),abnormal middle ear morphology (MPO),HP:0008609,MP:0000049
+Abnormal parietal bone morphology (HPO),abnormal parietal bone morphology (MPO),HP:0002696,MP:0000109
+Cleft of chin (HPO),cleft chin (MPO),HP:0011323,MP:0000114
+Thin bony cortex (HPO),decreased compact bone thickness (MPO),HP:0002753,MP:0000135
+Abnormality of the scapula (HPO),abnormal scapula morphology (MPO),HP:0000782,MP:0000149
+Increased LDL cholesterol concentration (HPO),increased circulating LDL cholesterol level (MPO),HP:0003141,MP:0000182
+Decreased HDL cholesterol concentration (HPO),decreased circulating HDL cholesterol level (MPO),HP:0003233,MP:0000186
+Cardiomegaly (HPO),enlarged heart (MPO),HP:0001640,MP:0000274
+Abnormal atrial septum morphology (HPO),abnormal interatrial septum morphology (MPO),HP:0011994,MP:0000282
+Mastocytosis (HPO),increased mast cell number (MPO),HP:0100495,MP:0000324
+Hypotrichosis (HPO),alopecia (MPO),HP:0001006,MP:0000414
+Increased head circumference (HPO),megacephaly (MPO),HP:0040194,MP:0000434
+Brachycephaly (HPO),shortened head (MPO),HP:0000248,MP:0000435
+Hypoplasia of the maxilla (HPO),maxilla hypoplasia (MPO),HP:0000327,MP:0000457
+Supernumerary ribs (HPO),increased rib number (MPO),HP:0005815,MP:0000480
+Dilatation of the renal pelvis (HPO),hydronephrosis (MPO),HP:0010946,MP:0000519
+Disproportionate short-limb short stature (HPO),short limbs (MPO),HP:0008873,MP:0000547
+Abnormal morphology of the radius (HPO),abnormal radius morphology (MPO),HP:0045009,MP:0000552
+Abnormality of tibia morphology (HPO),abnormal tibia morphology (MPO),HP:0002992,MP:0000558
+Abnormality of femur morphology (HPO),abnormal femur morphology (MPO),HP:0002823,MP:0000559
+Talipes (HPO),clubfoot (MPO),HP:0001883,MP:0000576
+Abnormality of pineal morphology (HPO),abnormal pineal gland morphology (MPO),HP:0012681,MP:0000632
+Abnormality of adrenal morphology (HPO),abnormal adrenal gland morphology (MPO),HP:0011732,MP:0000639
+Benign prostatic hyperplasia (HPO),prostate gland hyperplasia (MPO),HP:0008711,MP:0000659
+Abnormal lymphocyte count (HPO),abnormal lymphocyte cell number (MPO),HP:0040088,MP:0000717
+Absence of CD8-positive T cells (HPO),"absent CD8-positive, alpha-beta T cells (MPO)",HP:0005422,MP:0000727
+obsolete Brain very small (HPO),decreased brain size (MPO),HP:0001322,MP:0000774
+Abnormality of forebrain morphology (HPO),abnormal forebrain morphology (MPO),HP:0100547,MP:0000783
+Cerebral hypoplasia (HPO),telencephalon hypoplasia (MPO),HP:0006872,MP:0000785
+Thick cerebral cortex (HPO),thickened cerebral cortex (MPO),HP:0006891,MP:0000789
+Abnormal morphology of the hippocampus (HPO),abnormal hippocampus morphology (MPO),HP:0025100,MP:0000807
+Abnormal morphology of the olfactory bulb (HPO),abnormal olfactory bulb morphology (MPO),HP:0040327,MP:0000819
+Dilation of lateral ventricles (HPO),dilated lateral ventricles (MPO),HP:0006956,MP:0000825
+Abnormality of hindbrain morphology (HPO),abnormal hindbrain morphology (MPO),HP:0011282,MP:0000841
+Poorly formed metencephalon (HPO),abnormal metencephalon morphology (MPO),HP:0007027,MP:0000847
+Agenesis of cerebellar vermis (HPO),absent cerebellum vermis (MPO),HP:0002335,MP:0000865
+Cerebellar vermis hypoplasia (HPO),cerebellum vermis hypoplasia (MPO),HP:0001320,MP:0000866
+Abnormal motor neuron morphology (HPO),abnormal motor neuron morphology (MPO),HP:0002450,MP:0000937
+Degeneration of anterior horn cells (HPO),motor neuron degeneration (MPO),HP:0002398,MP:0000938
+Abnormality of enteric nervous system morphology (HPO),abnormal enteric nervous system morphology (MPO),HP:0025028,MP:0001044
+Abnormal fifth cranial nerve morphology (HPO),abnormal trigeminal nerve morphology (MPO),HP:0010824,MP:0001065
+Abnormal glossopharyngeal nerve morphology (HPO),abnormal glossopharyngeal nerve morphology (MPO),HP:3000047,MP:0001073
+Hyperplasia of the Leydig cells (HPO),Leydig cell hyperplasia (MPO),HP:0010791,MP:0001152
+Abnormality of epidermal morphology (HPO),abnormal epidermal layer morphology (MPO),HP:0011124,MP:0001216
+Hyperkeratosis (HPO),thick epidermis (MPO),HP:0000962,MP:0001219
+Abnormality of body height (HPO),abnormal body height (MPO),HP:0000002,MP:0001253
+Abnormality of body weight (HPO),abnormal body weight (MPO),HP:0004323,MP:0001259
+Enlarged thorax (HPO),enlarged chest (MPO),HP:0100625,MP:0001267
+Abnormality iris morphology (HPO),abnormal iris morphology (MPO),HP:0000525,MP:0001322
+Aplasia of the optic tract (HPO),absent optic tract (MPO),HP:0010999,MP:0001334
+Stereotypy (HPO),increased stereotypic behavior (MPO),HP:0000733,MP:0001409
+Abnormality of skeletal physiology (HPO),abnormal skeleton physiology (MPO),HP:0011843,MP:0001533
+Hypertriglyceridemia (HPO),increased circulating triglyceride level (MPO),HP:0002155,MP:0001552
+Increased HDL cholesterol concentration (HPO),increased circulating HDL cholesterol level (MPO),HP:0012184,MP:0001556
+Abnormality of digestive system physiology (HPO),abnormal digestive system physiology (MPO),HP:0025032,MP:0001663
+Failure to thrive (HPO),postnatal growth retardation (MPO),HP:0001508,MP:0001732
+Increased circulating ACTH level (HPO),increased circulating adrenocorticotropin level (MPO),HP:0003154,MP:0001748
+Abnormality of immune system physiology (HPO),abnormal immune system physiology (MPO),HP:0010978,MP:0001790
+Decreased circulating IgA level (HPO),decreased IgA level (MPO),HP:0002720,MP:0001807
+Abnormal bleeding (HPO),hemorrhage (MPO),HP:0001892,MP:0001914
+Abnormality of reproductive system physiology (HPO),abnormal reproductive system physiology (MPO),HP:0000080,MP:0001919
+Delayed puberty (HPO),delayed sexual maturation (MPO),HP:0000823,MP:0001938
+Abnormal pancreas morphology (HPO),abnormal pancreas morphology (MPO),HP:0012090,MP:0001944
+Respiratory insufficiency (HPO),respiratory failure (MPO),HP:0002093,MP:0001953
+Ovarian cyst (HPO),ovary cysts (MPO),HP:0000138,MP:0002016
+Abnormality of hair texture (HPO),abnormal hair texture (MPO),HP:0010719,MP:0002074
+Abnormality of dental morphology (HPO),abnormal tooth morphology (MPO),HP:0006482,MP:0002100
+Abnormal respiratory system morphology (HPO),abnormal respiratory system morphology (MPO),HP:0012252,MP:0002132
+Functional respiratory abnormality (HPO),abnormal respiratory system physiology (MPO),HP:0002795,MP:0002133
+Abnormal neural tube morphology (HPO),abnormal neural tube morphology (MPO),HP:0410043,MP:0002151
+Abnormality of fibula morphology (HPO),abnormal fibula morphology (MPO),HP:0002991,MP:0002187
+Recurrent bacterial infections (HPO),increased susceptibility to bacterial infection (MPO),HP:0002718,MP:0002412
+Abnormality of T cell physiology (HPO),abnormal T cell physiology (MPO),HP:0011840,MP:0002444
+Abnormal B cell count (HPO),abnormal B cell number (MPO),HP:0010975,MP:0002458
+Abnormality of B cell physiology (HPO),abnormal B cell physiology (MPO),HP:0005372,MP:0002459
+Abnormality of neutrophil physiology (HPO),abnormal neutrophil physiology (MPO),HP:0011990,MP:0002463
+Decreased circulating total IgD (HPO),decreased IgD level (MPO),HP:0410245,MP:0002491
+Decreased circulating total IgE (HPO),decreased IgE level (MPO),HP:0005479,MP:0002492
+Increased circulating IgM level (HPO),increased IgM level (MPO),HP:0003496,MP:0002494
+Increased circulating IgA level (HPO),increased IgA level (MPO),HP:0003261,MP:0002495
+Increased circulating total IgE level (HPO),increased IgE level (MPO),HP:0003212,MP:0002497
+Short digit (HPO),brachydactyly (MPO),HP:0011927,MP:0002544
+Hypotriglyceridemia (HPO),decreased circulating triglyceride level (MPO),HP:0012153,MP:0002644
+Decreased circulating ACTH level (HPO),decreased circulating adrenocorticotropin level (MPO),HP:0002920,MP:0002664
+Abnormality of molar morphology (HPO),abnormal molar morphology (MPO),HP:0011070,MP:0002689
+Abnormality of pancreas physiology (HPO),abnormal pancreas physiology (MPO),HP:0012091,MP:0002693
+Abnormal venous morphology (HPO),abnormal vein morphology (MPO),HP:0002624,MP:0002725
+Abnormal pulmonary vein morphology (HPO),abnormal pulmonary vein morphology (MPO),HP:0030968,MP:0002726
+Rudimentary to absent tibiae (HPO),absent tibia (MPO),HP:0006426,MP:0002728
+Shortening of the tibia (HPO),short tibia (MPO),HP:0006436,MP:0002764
+Decreased serum testosterone level (HPO),decreased circulating testosterone level (MPO),HP:0040171,MP:0002780
+Increased serum testosterone level (HPO),increased circulating testosterone level (MPO),HP:0030088,MP:0002781
+Abnormal fundus morphology (HPO),abnormal ocular fundus morphology (MPO),HP:0001098,MP:0002864
+Abnormal neuron morphology (HPO),abnormal neuron morphology (MPO),HP:0012757,MP:0002882
+Hypophosphaturia (HPO),increased urine phosphate level (MPO),HP:0012365,MP:0002901
+Hyperphosphaturia (HPO),decreased urine phosphate level (MPO),HP:0003109,MP:0002902
+Abnormality of adrenal physiology (HPO),abnormal adrenal gland physiology (MPO),HP:0011733,MP:0002909
+Hypoplasia of the retina (HPO),retina hypoplasia (MPO),HP:0007770,MP:0002984
+Abnormal renal medulla morphology (HPO),abnormal kidney medulla morphology (MPO),HP:0100957,MP:0003014
+Abnormality of hyoid bone (HPO),abnormal hyoid bone morphology (MPO),HP:3000052,MP:0003056
+Copper accumulation in liver (HPO),increased liver copper level (MPO),HP:0025321,MP:0003066
+Enlarged kidney (HPO),enlarged kidney (MPO),HP:0000105,MP:0003068
+Aplasia of metacarpal bones (HPO),absent metacarpal bones (MPO),HP:0010048,MP:0003074
+Degenerative liver disease (HPO),liver degeneration (MPO),HP:0005237,MP:0003103
+Abnormal cardiac atrium morphology (HPO),abnormal heart atrium morphology (MPO),HP:0005120,MP:0003105
+Erythroid hyperplasia (HPO),increased erythroid progenitor cell number (MPO),HP:0012132,MP:0003135
+Incomplete partition of the cochlea (HPO),decreased cochlear coiling (MPO),HP:0011373,MP:0003148
+Abnormal circulating cholesterol concentration (HPO),abnormal cellular cholesterol metabolism (MPO),HP:0003107,MP:0003191
+Bowel diverticulosis (HPO),intestinal/bowel diverticulum (MPO),HP:0005222,MP:0003262
+Peptic ulcer (HPO),gastrointestinal ulcer (MPO),HP:0004398,MP:0003300
+Abnormal inner ear epithelium morphology (HPO),abnormal cochlear sensory epithelium morphology (MPO),HP:3000002,MP:0003308
+Reduced pancreatic beta cells (HPO),decreased pancreatic beta cell number (MPO),HP:0006274,MP:0003339
+Supernumerary spleens (HPO),accessory spleen (MPO),HP:0009799,MP:0003342
+Delayed menarche (HPO),late onset of menarche (MPO),HP:0012569,MP:0003377
+Abnormality of the parathyroid physiology (HPO),abnormal parathyroid gland physiology (MPO),HP:0011767,MP:0003431
+Parathyroid hyperplasia (HPO),parathyroid gland hyperplasia (MPO),HP:0008208,MP:0003493
+Thyroid hyperplasia (HPO),thyroid gland hyperplasia (MPO),HP:0008249,MP:0003498
+Increased size of the clitoris (HPO),enlarged clitoris (MPO),HP:0040253,MP:0003529
+Decreased size of the clitoris (HPO),small clitoris (MPO),HP:0040254,MP:0003530
+Hypoplasia of the fallopian tube (HPO),oviduct hypoplasia (MPO),HP:0008697,MP:0003576
+Urethral atresia (HPO),urethra atresia (MPO),HP:0000068,MP:0003591
+Urethral stenosis (HPO),urethra stricture (MPO),HP:0008661,MP:0003592
+Hypoplasia of the bladder (HPO),urinary bladder hypoplasia (MPO),HP:0005343,MP:0003617
+Abnormality of nervous system morphology (HPO),abnormal nervous system morphology (MPO),HP:0012639,MP:0003632
+Abnormality of nervous system physiology (HPO),abnormal nervous system physiology (MPO),HP:0012638,MP:0003633
+Increased muscle fatiguability (HPO),muscle fatigue (MPO),HP:0003750,MP:0003646
+Abnormal size of the palpebral fissures (HPO),abnormal eyelid aperture (MPO),HP:0200007,MP:0003671
+Renal cyst (HPO),kidney cysts (MPO),HP:0000107,MP:0003675
+Small earlobe (HPO),ear lobe hypoplasia (MPO),HP:0000385,MP:0003679
+Abnormality of long bone morphology (HPO),abnormal long bone morphology (MPO),HP:0011314,MP:0003723
+Abnormally folded helix (HPO),folded helix (MPO),HP:0008544,MP:0003736
+Abnormal facial shape (HPO),abnormal facial morphology (MPO),HP:0001999,MP:0003743
+Palate telangiectasia (HPO),palatal telangiectases (MPO),HP:0002707,MP:0003768
+Absent hair (HPO),hairless (MPO),HP:0002298,MP:0003815
+Abnormal left ventricle morphology (HPO),abnormal heart left ventricle morphology (MPO),HP:0001711,MP:0003921
+Abnormal right atrium morphology (HPO),abnormal heart right atrium morphology (MPO),HP:0025580,MP:0003922
+Abnormal left atrium morphology (HPO),abnormal heart left atrium morphology (MPO),HP:0025579,MP:0003923
+Decreased plasma carnitine (HPO),decreased circulating carnitine level (MPO),HP:0003234,MP:0003978
+Abnormal corpus striatum morphology (HPO),abnormal striatum morphology (MPO),HP:0010994,MP:0004077
+Abnormal morphology of the limbic system (HPO),abnormal limbic system morphology (MPO),HP:0007343,MP:0004166
+Telangiectasia of the ear (HPO),ear telangiectases (MPO),HP:0009893,MP:0004176
+Absent stapes (HPO),absent stapes (MPO),HP:0011456,MP:0004204
+Patent foramen ovale (HPO),patent cardiac foramen ovale (MPO),HP:0001655,MP:0004225
+Abnormal placental size (HPO),abnormal placenta size (MPO),HP:0012767,MP:0004258
+Large placenta (HPO),enlarged placenta (MPO),HP:0006267,MP:0004260
+Aplasia of the vestibule (HPO),absent inner ear vestibule (MPO),HP:0011377,MP:0004314
+Hypoplastic scapulae (HPO),scapular bone hypoplasia (MPO),HP:0000882,MP:0004344
+Femoral aplasia (HPO),absent femur (MPO),HP:0012744,MP:0004349
+Short humerus (HPO),short humerus (MPO),HP:0005792,MP:0004351
+Hypoplasia of the radius (HPO),radius hypoplasia (MPO),HP:0002984,MP:0004356
+Increased length of the tibia (HPO),long tibia (MPO),HP:0010504,MP:0004357
+Short nasal bridge (HPO),short nasal bone (MPO),HP:0003194,MP:0004471
+Abnormal pelvis bone morphology (HPO),abnormal pelvic girdle bone morphology (MPO),HP:0040163,MP:0004509
+Esophageal ulceration (HPO),esophageal ulcer (MPO),HP:0004791,MP:0004547
+Hypoplasia of the pharynx (HPO),pharynx hypoplasia (MPO),HP:0009555,MP:0004555
+Abnormal mandible coronoid process morphology (HPO),abnormal mandibular coronoid process morphology (MPO),HP:3000078,MP:0004594
+Abnormal mandible condylar process morphology (HPO),abnormal mandibular condyloid process morphology (MPO),HP:3000077,MP:0004595
+Fused lumbar vertebrae (HPO),lumbar vertebral fusion (MPO),HP:0030040,MP:0004621
+Fused thoracic vertebrae (HPO),thoracic vertebral fusion (MPO),HP:0030039,MP:0004623
+Abnormality of the rib cage (HPO),abnormal thoracic cage morphology (MPO),HP:0001547,MP:0004624
+Short metacarpal (HPO),short metacarpal bones (MPO),HP:0010049,MP:0004634
+Long metacarpals (HPO),elongated metacarpal bones (MPO),HP:0010493,MP:0004638
+Metacarpal synostosis (HPO),fused metacarpal bones (MPO),HP:0009701,MP:0004639
+Metatarsal synostosis (HPO),fused metatarsal bones (MPO),HP:0001440,MP:0004642
+Hypoplastic vertebral bodies (HPO),vertebral body hypoplasia (MPO),HP:0008479,MP:0004667
+Intervertebral disk calcification (HPO),calcified intervertebral disk (MPO),HP:0005645,MP:0004685
+Short long bone (HPO),decreased length of long bones (MPO),HP:0003026,MP:0004686
+Vertebral clefting (HPO),split vertebrae (MPO),HP:0008428,MP:0004687
+Hypoplastic ischia (HPO),ischium hypoplasia (MPO),HP:0003175,MP:0004690
+Hypoplastic pubic bone (HPO),pubis hypoplasia (MPO),HP:0003173,MP:0004693
+Relatively short spine (HPO),short vertebral column (MPO),HP:0002766,MP:0004704
+Aplasia of the vestibular nerve. (HPO),absent vestibular nerve (MPO),HP:0011393,MP:0004719
+Enlarged ovaries (HPO),enlarged ovary (MPO),HP:0100879,MP:0004832
+Hypoplasia of the frontal bone (HPO),frontal bone hypoplasia (MPO),HP:0005466,MP:0004869
+Hypoplasia of the premaxilla (HPO),premaxilla hypoplasia (MPO),HP:0010650,MP:0004871
+Osteolysis (HPO),decreased bone resorption (MPO),HP:0002797,MP:0004993
+B lymphocytopenia (HPO),decreased B cell number (MPO),HP:0010976,MP:0005017
+Decrease in T cell count (HPO),decreased T cell number (MPO),HP:0005403,MP:0005018
+Abnormal natural killer cell morphology (HPO),abnormal NK cell morphology (MPO),HP:0012176,MP:0005068
+Abnormal morphology of ulna (HPO),abnormal ulna morphology (MPO),HP:0040071,MP:0005108
+Increased circulating prolactin concentration (HPO),increased prolactin level (MPO),HP:0000870,MP:0005139
+Increased VLDL cholesterol concentration (HPO),increased circulating VLDL cholesterol level (MPO),HP:0003362,MP:0005145
+Decreased VLDL cholesterol concentration (HPO),decreased circulating VLDL cholesterol level (MPO),HP:0031243,MP:0005146
+Hypoplasia of the prostate (HPO),prostate gland hypoplasia (MPO),HP:0008687,MP:0005147
+Hypoplasia of the ovary (HPO),ovary hypoplasia (MPO),HP:0008724,MP:0005158
+Abnormal anterior chamber morphology (HPO),abnormal eye anterior chamber morphology (MPO),HP:0000593,MP:0005205
+Abnormality of metabolism/homeostasis (HPO),abnormal metabolism (MPO),HP:0001939,MP:0005266
+Abnormal cardiac ventricle morphology (HPO),abnormal heart ventricle morphology (MPO),HP:0001713,MP:0005294
+Abnormal corneal endothelium morphology (HPO),abnormal corneal endothelium morphology (MPO),HP:0011488,MP:0005301
+Thyroid agenesis (HPO),absent thyroid gland (MPO),HP:0008191,MP:0005314
+Hyperbilirubinemia (HPO),increased circulating bilirubin level (MPO),HP:0002904,MP:0005344
+Goiter (HPO),enlarged thyroid gland (MPO),HP:0000853,MP:0005355
+Abnormality of incisor morphology (HPO),abnormal incisor morphology (MPO),HP:0011063,MP:0005358
+Fibular aplasia (HPO),absent fibula (MPO),HP:0002990,MP:0005430
+Euthyroid hyperthyroxinemia (HPO),increased circulating thyroxine level (MPO),HP:0008247,MP:0005477
+Increased circulating free T3 (HPO),increased circulating triiodothyronine level (MPO),HP:0011788,MP:0005480
+Abnormality of the urinary system physiology (HPO),abnormal renal/urinary system physiology (MPO),HP:0011277,MP:0005502
+Abnormal tendon morphology (HPO),abnormal tendon morphology (MPO),HP:0100261,MP:0005503
+Abnormality of skeletal morphology (HPO),abnormal skeleton morphology (MPO),HP:0011842,MP:0005508
+Hyoplasia of the Leydig cells (HPO),Leydig cell hypoplasia (MPO),HP:0010790,MP:0005536
+Decreased serum creatinine (HPO),decreased circulating creatinine level (MPO),HP:0012101,MP:0005554
+Increased hemoglobin (HPO),increased hemoglobin content (MPO),HP:0001900,MP:0005564
+Uterine prolapse (HPO),uterus prolapse (MPO),HP:0000139,MP:0005577
+Anotia (HPO),absent outer ear (MPO),HP:0009892,MP:0005579
+Decreased urinary potassium (HPO),decreased urine potassium level (MPO),HP:0012364,MP:0005618
+Increased urinary potassium (HPO),increased urine potassium level (MPO),HP:0003081,MP:0005619
+Abnormal cellular physiology (HPO),abnormal cell physiology (MPO),HP:0011017,MP:0005621
+Hyperkalemia (HPO),increased circulating potassium level (MPO),HP:0002153,MP:0005627
+Hypokalemia (HPO),decreased circulating potassium level (MPO),HP:0002900,MP:0005628
+Increased serum leptin (HPO),increased circulating leptin level (MPO),HP:0031793,MP:0005669
+Abnormal mitochondrial morphology (HPO),abnormal mitochondrion morphology (MPO),HP:0008322,MP:0006035
+Pulmonary insufficiency (HPO),pulmonary valve regurgitation (MPO),HP:0010444,MP:0006048
+Abnormal cardiac septum morphology (HPO),abnormal heart septum morphology (MPO),HP:0001671,MP:0006113
+Aortic valve calcification (HPO),calcified aortic valve (MPO),HP:0004380,MP:0006116
+Mitral valve calcification (HPO),calcified mitral valve (MPO),HP:0004382,MP:0006121
+Arterial calcification (HPO),calcified artery (MPO),HP:0003207,MP:0006133
+Arterial stenosis (HPO),artery stenosis (MPO),HP:0100545,MP:0006135
+Retinal calcification (HPO),calcified retina (MPO),HP:0007862,MP:0006188
+Hemorrhage of the eye (HPO),eye hemorrhage (MPO),HP:0011885,MP:0006203
+Hypoplastic iris stroma (HPO),iris stroma hypoplasia (MPO),HP:0007990,MP:0006230
+Aplasia of the inner ear (HPO),absent inner ear (MPO),HP:0011372,MP:0006285
+Abnormal T cell count (HPO),abnormal T cell number (MPO),HP:0011839,MP:0006387
+Abnormal T cell morphology (HPO),abnormal T cell morphology (MPO),HP:0002843,MP:0008037
+Abnormal natural killer cell count (HPO),abnormal NK cell number (MPO),HP:0040089,MP:0008043
+Decreased proportion of CD8-positive T cells (HPO),"decreased CD8-positive, alpha-beta T cell number (MPO)",HP:0005415,MP:0008079
+Abnormality of small intestinal villus morphology (HPO),abnormal small intestinal villus morphology (MPO),HP:0011472,MP:0008108
+Increased megakaryocyte count (HPO),increased megakaryocyte cell number (MPO),HP:0005513,MP:0008254
+Megakaryocytopenia (HPO),decreased megakaryocyte cell number (MPO),HP:0005548,MP:0008255
+Adrenal medullary hypoplasia (HPO),adrenal medulla hyperplasia (MPO),HP:0008239,MP:0008301
+Anterior pituitary hypoplasia (HPO),adenohypophysis hypoplasia (MPO),HP:0010627,MP:0008365
+Absence of lymph node germinal center (HPO),absent lymph node germinal center (MPO),HP:0002849,MP:0008523
+Polycystic kidney dysplasia (HPO),polycystic kidney (MPO),HP:0000113,MP:0008528
+Absence of subcutaneous fat (HPO),absent subcutaneous adipose tissue (MPO),HP:0007485,MP:0008843
+Reduced subcutaneous adipose tissue (HPO),decreased subcutaneous adipose tissue amount (MPO),HP:0003758,MP:0008844
+Enlarged cerebellum (HPO),enlarged cerebellum (MPO),HP:0012081,MP:0008914
+Abnormal size of pituitary gland (HPO),abnormal pituitary gland size (MPO),HP:0012504,MP:0008936
+Elongated radius (HPO),long radius (MPO),HP:0006424,MP:0008951
+Erythroid hypoplasia (HPO),decreased erythroid progenitor cell number (MPO),HP:0012133,MP:0008973
+Abnormal spinal meningeal morphology (HPO),abnormal spinal cord meninges morphology (MPO),HP:0010303,MP:0009023
+Abnormal size of the clitoris (HPO),abnormal clitoris size (MPO),HP:0040252,MP:0009100
+Pancreatic islet-cell hyperplasia (HPO),enlarged pancreatic islets (MPO),HP:0004510,MP:0009171
+Bruising susceptibility (HPO),ecchymosis (MPO),HP:0000978,MP:0009276
+Increased urinary sulfate (HPO),increased urine sulfate level (MPO),HP:0012613,MP:0009472
+Abnormality of olfactory lobe morphology (HPO),abnormal olfactory lobe morphology (MPO),HP:0025057,MP:0009944
+Adipose tissue loss (HPO),decreased total body fat amount (MPO),HP:0008887,MP:0010025
+Hypoplasia of the olfactory bulb (HPO),olfactory bulb hypoplasia (MPO),HP:0040326,MP:0010059
+Abnormal circulating creatine kinase concentration (HPO),abnormal circulating creatine kinase level (MPO),HP:0040081,MP:0010089
+Elevated serum creatine kinase (HPO),increased circulating creatine kinase level (MPO),HP:0003236,MP:0010090
+Abnormality of bone mineral density (HPO),abnormal bone mineral density (MPO),HP:0004348,MP:0010119
+Abnormality of endocrine pancreas physiology (HPO),abnormal endocrine pancreas physiology (MPO),HP:0012093,MP:0010147
+Abnormality of exocrine pancreas physiology (HPO),abnormal exocrine pancreas physiology (MPO),HP:0012092,MP:0010148
+Odontoma (HPO),increased odontoma incidence (MPO),HP:0011068,MP:0010353
+Increased hepatic glycogen content (HPO),increased liver glycogen level (MPO),HP:0006568,MP:0010400
+Abnormal left ventricular outflow tract morphology (HPO),abnormal heart left ventricle outflow tract morphology (MPO),HP:0011103,MP:0010429
+Coarctation of aorta (HPO),aorta stenosis (MPO),HP:0001680,MP:0010463
+Calcification of the aorta (HPO),calcified aorta (MPO),HP:0004963,MP:0010522
+Thoracic aorta calcification (HPO),calcified thoracic aorta (MPO),HP:0004962,MP:0010523
+Aortic arch calcification (HPO),calcified aortic arch (MPO),HP:0005303,MP:0010524
+Hypoplastic pulmonary veins (HPO),pulmonary vein hypoplasia (MPO),HP:0005304,MP:0010528
+Abnormality of skin adnexa morphology (HPO),abnormal skin adnexa morphology (MPO),HP:0011138,MP:0010678
+Abnormal trabecular bone morphology (HPO),abnormal bone trabecula morphology (MPO),HP:0100671,MP:0010867
+Esophageal stricture (HPO),esophagus stenosis (MPO),HP:0002043,MP:0010884
+Copper accumulation in brain (HPO),increased brain copper level (MPO),HP:0012676,MP:0011214
+Tubular atrophy (HPO),renal tubule atrophy (MPO),HP:0000092,MP:0011346
+Ventriculomegaly (HPO),enlarged brain ventricles (MPO),HP:0002119,MP:0011380
+Cryptorchidism (HPO),ectopic testis (MPO),HP:0000028,MP:0011410
+Decreased urinary urate (HPO),decreased urine uric acid level (MPO),HP:0011935,MP:0011424
+Hypochloriduria (HPO),decreased urine chloride ion level (MPO),HP:0012601,MP:0011460
+Decreased urine bicarbonate concentration (HPO),decreased urine bicarbonate level (MPO),HP:0045011,MP:0011463
+Urinary glycosaminoglycan excretion (HPO),increased urine glycosaminoglycan level (MPO),HP:0003541,MP:0011473
+Abnormal vertebral artery morphology (HPO),abnormal vertebral artery morphology (MPO),HP:0030321,MP:0011513
+Increased urinary urate (HPO),uraturia (MPO),HP:0012611,MP:0011537
+Reduced catalase activity (HPO),decreased catalase activity (MPO),HP:0012517,MP:0011594
+Hypopigmentation of the skin (HPO),decreased skin pigmentation (MPO),HP:0001010,MP:0011627
+Increased mitochondrial number (HPO),increased mitochondria number (MPO),HP:0040014,MP:0011628
+Decreased mitochondrial number (HPO),decreased mitochondria number (MPO),HP:0040013,MP:0011629
+Hyperhistidinemia (HPO),increased circulating histidine level (MPO),HP:0010906,MP:0011652
+Hypohistidinemia (HPO),decreased circulating histidine level (MPO),HP:0500145,MP:0011653
+Abnormality of pineal physiology (HPO),abnormal pineal gland physiology (MPO),HP:0012688,MP:0011728
+Jejunal atresia (HPO),jejunum atresia (MPO),HP:0005235,MP:0011878
+Ileal atresia (HPO),ileum atresia (MPO),HP:0011102,MP:0011879
+Abnormality of corneal thickness (HPO),abnormal cornea thickness (MPO),HP:0011486,MP:0011961
+Increased corneal thickness (HPO),increased cornea thickness (MPO),HP:0011487,MP:0011962
+Low levels of vitamin D (HPO),decreased vitamin D level (MPO),HP:0100512,MP:0012336
+Corneal degeneration (HPO),cornea degeneration (MPO),HP:0007705,MP:0012351
+Abnormal monocyte count (HPO),abnormal monocyte cell number (MPO),HP:0012310,MP:0012441
+Abnormal basophil count (HPO),abnormal basophil cell number (MPO),HP:0031806,MP:0012442
+Abnormal internal carotid artery morphology (HPO),abnormal internal carotid artery morphology (MPO),HP:3000062,MP:0012730
+Abnormality of dental color (HPO),abnormal tooth color (MPO),HP:0011073,MP:0013129
+Abnormal oral frenulum morphology (HPO),abnormal tongue frenulum morphology (MPO),HP:0000190,MP:0013263
+Hypoplasia of eyelid (HPO),eyelid hypoplasia (MPO),HP:0430009,MP:0013395
+Enlarged lacrimal glands (HPO),enlarged lacrimal gland (MPO),HP:0007734,MP:0013453
+Abnormal myeloid cell morphology (HPO),abnormal myeloid cell morphology (MPO),HP:0020047,MP:0013658
+Hypotyrosinemia (HPO),decreased circulating tyrosine level (MPO),HP:0500133,MP:0013724
+Hypoplasia of the ciliary body (HPO),ciliary body hypoplasia (MPO),HP:0007774,MP:0013743
+Decreased proportion circulating T-helper cells (HPO),decreased T-helper cell number (MPO),HP:0008165,MP:0013764
+Absent nares (HPO),absent external nares (MPO),HP:0100596,MP:0013791
+Abnormal cerebral artery morphology (HPO),abnormal cerebral artery morphology (MPO),HP:0009145,MP:0013821
+Short eyelashes (HPO),short eyelid cilia (MPO),HP:0010764,MP:0013898
+Posterior pituitary agenesis (HPO),absent neurohypophysis (MPO),HP:0011756,MP:0013926
+Villous atrophy (HPO),small intestinal villus atrophy (MPO),HP:0011473,MP:0014078
+Abnormal macrophage count (HPO),abnormal macrophage cell number (MPO),HP:0030326,MP:0020202
+Iron accumulation in brain (HPO),increased brain iron level (MPO),HP:0012675,MP:0020365
+Increased urinary taurine (HPO),taurinuria (MPO),HP:0003166,MP:0020405
+Low plasma citrulline (HPO),decreased circulating citrulline level (MPO),HP:0003572,MP:0020837
+Frontal bossing (HPO),prominent forehead (MPO),HP:0002007,MP:0030049
+Increased size of the mandible (HPO),large mandible (MPO),HP:0040309,MP:0030050
+Maxillary lateral incisor microdontia (HPO),small lower incisors (MPO),HP:0001593,MP:0030080
+Hypoplasia of the zygomatic bone (HPO),zygomatic bone hypoplasia (MPO),HP:0010669,MP:0030112
+Mandibular condyle hypoplasia (HPO),mandibular condyloid process hypoplasia (MPO),HP:0007628,MP:0030259
+Retrognathia (HPO),mandibular retrognathia (MPO),HP:0000278,MP:0030273
+Flat occiput (HPO),flat occipital bone (MPO),HP:0005469,MP:0030289
+Microtia (HPO),outer ear hypoplasia (MPO),HP:0008551,MP:0030297
+Malar flattening (HPO),zygomatic arch hypoplasia (MPO),HP:0000272,MP:0030377
+Atrophy of alveolar ridges (HPO),alveolar process atrophy (MPO),HP:0006308,MP:0030466
+Hypertaurinemia (HPO),increased circulating taurine level (MPO),HP:0500181,MP:0030638
+Hypotaurinemia (HPO),decreased circulating taurine level (MPO),HP:0500182,MP:0030639
+Hypothreoninemia (HPO),decreased circulating threonine level (MPO),HP:0500136,MP:0030704
+Hypovalinemia (HPO),decreased circulating valine level (MPO),HP:0500132,MP:0030728
+Increased level of gamma-aminobutyric acid in urine (HPO),increased urine gamma-aminobutyric acid level (MPO),HP:0500253,MP:0030734
+Elevated urinary norepinephrine (HPO),increased urine noradrenaline level (MPO),HP:0003345,MP:0030772
+Abnormal phalangeal joint morphology of the hand (HPO),abnormal hand interphalangeal joint morphology (MPO),HP:0006261,MP:0030813
